@@ -1,0 +1,13 @@
+case,period,metric_pp,note
+Delta-Alaska,2013,0.0,baseline (partners; Delta SEA buildout starting)
+Delta-Alaska,2014,0.83,Delta pax share above seat share vs UA-AS control
+Delta-Alaska,2015,0.52,
+Delta-Alaska,2016,-0.29,Alaska fights back; elite perks cut
+Delta-Alaska,2017,-0.99,partnership ends May 2017
+Delta-Alaska,2018,-0.94,
+Delta-Alaska,2019,-0.34,
+AA-JetBlue NEA,2019 pre,-0.08,AA excess vs UA/DL controls
+AA-JetBlue NEA,2021Q3-2023Q2 during,0.36,
+AA-JetBlue NEA,2023Q4-2025Q3 after,0.50,no on/off pattern
+United-JetBlue Blue Sky,2024Q1-2025Q3 pre,-0.82,UA excess vs AA/DL controls
+United-JetBlue Blue Sky,2025Q4-2026Q3 post,-0.26,DiD +0.56 (vs DL only +0.18; vs AA only +0.95)
