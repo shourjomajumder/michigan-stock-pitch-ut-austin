@@ -1,0 +1,26 @@
+case,route,depth,before,after,months,loss_yr
+Delta vs JetBlue (Boston),BOS-BUF,0,75.0,65.64,24,6.240000000000002
+Delta vs JetBlue (Boston),BOS-PIT,0,60.27,54.69,21,5.290478560762285
+Delta vs JetBlue (Boston),BOS-TPA,0,36.78,40.22,15,-7.482327351821638
+Delta vs JetBlue (Boston),BOS-RDU,0,41.79,37.31,33,3.898279275163696
+Delta vs JetBlue (Boston),BOS-RIC,0,49.0,59.32,51,-4.955582232893159
+Delta vs JetBlue (Boston),BOS-CHS,0,41.35,55.16,48,-8.349455864570732
+Delta vs JetBlue (Boston),BOS-PBI,0,68.46,70.32,54,-0.6037588859674771
+Delta vs Alaska (Seattle),SEA-GEG,0,93.9,79.9,48,3.727369542066028
+Delta vs Alaska (Seattle),SEA-PDX,0,93.0,86.0,60,1.5053763440860224
+Delta vs Alaska (Seattle),SEA-LAX,0,58.9,60.9,45,-0.9054895302773087
+Delta vs Alaska (Seattle),SEA-SFO,0,47.0,50.0,36,-2.1276595744680846
+Delta vs Alaska (Seattle),SEA-SAN,0,58.8,51.5,24,6.207482993197278
+Delta vs Alaska (Seattle),SEA-BOI,0,82.2,78.0,48,1.2773722627737238
+Delta vs Alaska (Seattle),SEA-PSC,0,90.7,81.1,36,3.5281146637265746
+Delta vs Alaska (Seattle),SEA-EUG,0,71.9,65.4,18,6.026889197960129
+Delta vs Alaska (Seattle),SEA-DEN,0,35.5,34.8,12,1.9718309859155014
+Delta vs Alaska (Seattle),SEA-AUS,0,54.2,54.6,21,-0.421718502899309
+Delta vs Alaska (Seattle),SEA-SLC,0,33.0,39.8,54,-4.579124579124579
+JetBlue Mint vs United,NYC-LAX,0,29.0,28.86,24,0.2413793103448303
+Continental / Northwest,CLE-DTW,1,77.98,69.48,33,3.963720301242743
+Continental / Northwest,DTW-IAH,1,36.58,34.32,57,1.30068199476274
+Continental / Northwest,IAH-MEM,1,42.94,39.58,33,2.8454079688360094
+Delta / Continental / Northwest,CVG-IAH,2,54.41,49.86,24,4.181216688108802
+Delta / Continental / Northwest,MSP-SLC,2,48.99,42.06,24,7.072872014696873
+American / Alaska,SEA-PHL,2,56.0,37.3,60,6.678571428571429

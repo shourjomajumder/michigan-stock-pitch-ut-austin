@@ -1,0 +1,5 @@
+Cases found: Delta-BOS vs JetBlue (flights 2015-19, seats 2016-18, pax 2024 endpoint), Delta vs Alaska SEA (Port of Seattle enplanements 2015/2019/2025), United vs American ORD (O&D share gap, seats), LAX 2023-25 shares, Southwest vs Hawaiian interisland (seats).
+Best data: SEA (official Port disclosures): Delta 19.3 -> 24.4% in 4 yrs then flat to 24.1% (2025); Alaska 51.1 -> 49.4 -> 52.6 (incl. Hawaiian). Challenger gains ~1.3 pts/yr then plateau.
+BOS: Delta 15 -> 19% flights while JetBlue also rose 25 -> 29%; Delta late-departure rate 15% vs JetBlue 27% (2019) — reliability gap did not shrink JetBlue's BOS share until post-2020 (26.8% pax 2024 vs Delta 21.5%).
+Caveats: metrics mix (flights, seats, enplanements); Massport/CDA/LAWA historical carrier tables not reachable (portseattle direct download blocked; CDA summaries lack carrier split); ORD only share gaps; LAX lacks pre-2017 baseline; Hawaii is a price/entry case, 67.6% is from a Hawaiian-commissioned study with unstated year.
+Not found: LGA Delta vs American and EWR United vs JetBlue/Spirit share series (only an unverified reader comment: Delta 47% LGA domestic flights, United 75% EWR).
