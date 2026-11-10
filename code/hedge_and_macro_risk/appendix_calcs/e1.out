@@ -1,0 +1,4 @@
+{'Allegiant': 12, 'Sun Country': 10, 'Frontier': 10}
+fares only   fare -0.74  R2 0.50
+seats fixed  fare -0.16  R2 0.84
+{'Intercept': -1.06, 'fare': -0.16, 'seats': 0.8}
