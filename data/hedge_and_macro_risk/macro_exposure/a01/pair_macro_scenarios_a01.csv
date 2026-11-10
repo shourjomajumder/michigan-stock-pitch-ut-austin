@@ -1,0 +1,9 @@
+scenario,pair_pnl_per_1_long,pair_pnl_new,pair_pnl_new_range,ULCC_leg_ret,ULCC_new,JBLU_leg_ret,JBLU_new,resid_1sd
+Recession / equity bear: S&P 500 -20% over 3 mo,0.0473,0.0473,0.0473 to 0.0473,-0.4998,-0.4998,-0.4704,-0.4704,0.3103
+Equity correction: S&P 500 -10% over 1 mo,0.0236,0.0236,0.0236 to 0.0236,-0.2499,-0.2499,-0.2352,-0.2352,0.1791
+Consumer spending shock: XLY -15% over 2 mo,0.0319,0.0365,0.0319 to 0.0399,-0.2448,-0.2798,-0.2379,-0.2719,0.253
+"Credit stress: HYG -5% over 1 mo (~+150-200bp HY spread, est.)",0.0532,0.0768,0.0629 to 0.0988,-0.2434,-0.3515,-0.255,-0.3683,0.1782
+Small-cap risk-off: Russell 2000 -15% over 1 mo,0.0171,0.0193,0.0164 to 0.0221,-0.263,-0.2967,-0.2408,-0.2717,0.1792
+Rates shock: 10y +100bp over 3 mo,-0.002,-0.0032,-0.0043 to -0.0026,-0.2253,-0.3567,-0.192,-0.3039,0.3106
+Airline-sector shock ex-fuel (ATC/shutdown/demand): JETS -20% over 1 mo,0.0024,0.0024,0.0024 to 0.0024,-0.3528,-0.3528,-0.3055,-0.3055,0.1793
+Soft landing / risk-on: S&P 500 +10% over 3 mo,-0.0236,-0.0236,-0.0236 to -0.0236,0.2499,0.2499,0.2352,0.2352,0.3103
