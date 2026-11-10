@@ -1,0 +1,40 @@
+# Blue Sky fare-gap pipeline config
+
+carriers:
+  jetblue: B6
+  united: UA
+
+# Blue Sky timeline: DOT review done 2025-07-29; reciprocal loyalty from fall 2025; cross-selling from Feb 2026
+partnership_start: "2025-08-01"
+baseline_start: "2024-01-01"   # pre-period for comparison
+
+# City pairs (non-directional). Both carriers fly these nonstop (checked on Google Flights, Nov 2026).
+# discover_routes() in ingest_dot.py also adds any pair where both carriers carry nonstop traffic in the DOT data.
+routes:
+  - [BOS, ORD]
+  - [BOS, DEN]
+  - [BOS, IAH]
+  - [BOS, SFO]
+  - [BOS, LAX]
+  - [EWR, FLL]
+  - [EWR, MCO]
+  - [EWR, PBI]
+  - [EWR, SJU]
+  - [FLL, SFO]
+  - [FLL, ORD]
+  - [FLL, IAH]
+  - [FLL, LAX]
+
+# DOT ticket-sample cleaning (standard practice: drop award/employee/junk fares)
+fare_min: 25
+fare_max: 2500
+
+# Live collector (SerpApi Google Flights engine). Searches/day = directional routes x dates_per_run
+live:
+  days_ahead: [7, 14, 21, 30, 45, 60, 90, 120]
+  currency: USD
+
+paths:
+  raw_dot: data/raw_dot        # drop DOT DB1B / DB1C zip files here
+  db: data/fares.duckdb
+  out: output
