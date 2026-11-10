@@ -1,0 +1,5 @@
+Found: DOT Table 6 (SODA dataset yj5y-b2ir, reachable via WebFetch only; curl is blocked) shows JetBlue gaining route share after Mint while raising its fare: NYC-LAX 14% -> 17.9% (2013Q3 -> 2015Q3) as B6 fare rose $283 -> $347 vs UA $368 -> $373; NYC-SFO 10% -> 16.4%; BOS-SFO 22.7% -> 24.3% in one year and 35.5% by 2019Q4.
+Parity routes: 1 clean (NYC-LAX 2015Q3, 7.0% gap); 2 near (BOS-SFO 2016Q4 10.8%, NYC-LAX 2015Q4 14.1%); NYC-SFO is not parity (30.8%). 10 share rows + 3 academic rows.
+Academic: Gayle-Yimga elasticity of demand to delay minutes -0.256, WTP $1.56/min; Rupp-Tan: Big-3 business fares fell ~0.96 log points in Mint entry quarter; Suzuki/Mazzeo give no usable share numbers; Forbes 2008 paywalled, Prince-Simon not fetched.
+Caveats: Table 6 is city-market (JFK+EWR+LGA), all-cabin average fare, and names only the largest and lowest-fare carrier, so UA is the only observable rival; shares pre-2015 are rounded to whole points; B6 also added seats (capacity, not just product), and its fare rise partly reflects Mint cabin mix.
+No Delta-vs-AA/UA reliability route case found with route-level share numbers; depth=0 for all rows.
