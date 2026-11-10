@@ -1,0 +1,459 @@
+route,date,JetBlue,United,pair,diff
+BOS-ORD,2026-11-18,209,209,Boston–Chicago,0
+ORD-BOS,2026-11-18,209,209,Boston–Chicago,0
+BOS-ORD,2026-11-21,161,161,Boston–Chicago,0
+ORD-BOS,2026-11-21,161,161,Boston–Chicago,0
+BOS-ORD,2026-12-02,149,123,Boston–Chicago,-26
+ORD-BOS,2026-12-02,149,123,Boston–Chicago,-26
+BOS-ORD,2026-12-12,149,123,Boston–Chicago,-26
+ORD-BOS,2026-12-12,149,123,Boston–Chicago,-26
+BOS-ORD,2026-12-16,149,123,Boston–Chicago,-26
+ORD-BOS,2026-12-16,149,123,Boston–Chicago,-26
+BOS-ORD,2026-12-19,234,131,Boston–Chicago,-103
+ORD-BOS,2026-12-19,124,123,Boston–Chicago,-1
+BOS-ORD,2027-01-06,149,123,Boston–Chicago,-26
+ORD-BOS,2027-01-06,149,123,Boston–Chicago,-26
+BOS-ORD,2027-01-09,149,123,Boston–Chicago,-26
+ORD-BOS,2027-01-09,149,123,Boston–Chicago,-26
+BOS-ORD,2027-01-13,149,123,Boston–Chicago,-26
+ORD-BOS,2027-01-13,149,123,Boston–Chicago,-26
+BOS-ORD,2027-01-23,149,123,Boston–Chicago,-26
+ORD-BOS,2027-01-23,149,123,Boston–Chicago,-26
+BOS-ORD,2027-02-03,149,123,Boston–Chicago,-26
+ORD-BOS,2027-02-03,149,123,Boston–Chicago,-26
+BOS-ORD,2027-02-06,149,123,Boston–Chicago,-26
+ORD-BOS,2027-02-06,149,123,Boston–Chicago,-26
+BOS-ORD,2027-02-17,168,123,Boston–Chicago,-45
+ORD-BOS,2027-02-17,168,123,Boston–Chicago,-45
+BOS-ORD,2027-03-03,168,123,Boston–Chicago,-45
+ORD-BOS,2027-03-03,168,123,Boston–Chicago,-45
+BOS-ORD,2027-03-06,168,168,Boston–Chicago,0
+ORD-BOS,2027-03-06,168,168,Boston–Chicago,0
+BOS-ORD,2027-03-17,188,168,Boston–Chicago,-20
+ORD-BOS,2027-03-17,168,168,Boston–Chicago,0
+BOS-ORD,2027-04-07,168,168,Boston–Chicago,0
+ORD-BOS,2027-04-07,168,168,Boston–Chicago,0
+ORD-BOS,2027-04-10,168,168,Boston–Chicago,0
+BOS-DEN,2026-11-18,249,249,Boston–Denver,0
+DEN-BOS,2026-11-18,334,249,Boston–Denver,-85
+BOS-DEN,2026-11-21,299,299,Boston–Denver,0
+DEN-BOS,2026-11-21,334,299,Boston–Denver,-35
+BOS-DEN,2026-12-02,189,149,Boston–Denver,-40
+DEN-BOS,2026-12-02,139,120,Boston–Denver,-19
+BOS-DEN,2026-12-12,139,120,Boston–Denver,-19
+DEN-BOS,2026-12-12,139,120,Boston–Denver,-19
+BOS-DEN,2026-12-16,139,120,Boston–Denver,-19
+DEN-BOS,2026-12-16,139,120,Boston–Denver,-19
+BOS-DEN,2026-12-19,244,291,Boston–Denver,47
+DEN-BOS,2026-12-19,152,201,Boston–Denver,49
+BOS-DEN,2027-01-06,269,120,Boston–Denver,-149
+DEN-BOS,2027-01-06,139,120,Boston–Denver,-19
+BOS-DEN,2027-01-09,139,120,Boston–Denver,-19
+DEN-BOS,2027-01-09,195,120,Boston–Denver,-75
+BOS-DEN,2027-01-13,139,120,Boston–Denver,-19
+DEN-BOS,2027-01-13,139,120,Boston–Denver,-19
+BOS-DEN,2027-01-23,139,120,Boston–Denver,-19
+DEN-BOS,2027-01-23,139,120,Boston–Denver,-19
+BOS-DEN,2027-02-03,139,120,Boston–Denver,-19
+DEN-BOS,2027-02-03,139,120,Boston–Denver,-19
+BOS-DEN,2027-02-06,139,120,Boston–Denver,-19
+DEN-BOS,2027-02-06,139,138,Boston–Denver,-1
+BOS-DEN,2027-02-17,195,120,Boston–Denver,-75
+DEN-BOS,2027-02-17,170,120,Boston–Denver,-50
+BOS-DEN,2027-03-03,170,120,Boston–Denver,-50
+DEN-BOS,2027-03-03,170,120,Boston–Denver,-50
+BOS-DEN,2027-03-06,170,170,Boston–Denver,0
+DEN-BOS,2027-03-06,170,170,Boston–Denver,0
+BOS-DEN,2027-03-17,170,170,Boston–Denver,0
+DEN-BOS,2027-03-17,170,170,Boston–Denver,0
+BOS-DEN,2027-04-07,170,170,Boston–Denver,0
+DEN-BOS,2027-04-07,170,170,Boston–Denver,0
+BOS-DEN,2027-04-10,170,317,Boston–Denver,147
+DEN-BOS,2027-04-10,170,170,Boston–Denver,0
+BOS-IAH,2026-11-18,274,274,Boston–Houston,0
+IAH-BOS,2026-11-18,274,274,Boston–Houston,0
+BOS-IAH,2026-11-21,274,274,Boston–Houston,0
+IAH-BOS,2026-11-21,274,274,Boston–Houston,0
+BOS-IAH,2026-12-02,124,124,Boston–Houston,0
+IAH-BOS,2026-12-02,124,158,Boston–Houston,34
+BOS-IAH,2026-12-12,124,124,Boston–Houston,0
+IAH-BOS,2026-12-12,124,124,Boston–Houston,0
+BOS-IAH,2026-12-16,274,183,Boston–Houston,-91
+IAH-BOS,2026-12-16,124,124,Boston–Houston,0
+BOS-IAH,2026-12-19,259,339,Boston–Houston,80
+IAH-BOS,2026-12-19,229,124,Boston–Houston,-105
+BOS-IAH,2027-01-06,124,124,Boston–Houston,0
+IAH-BOS,2027-01-06,124,124,Boston–Houston,0
+BOS-IAH,2027-01-09,124,124,Boston–Houston,0
+IAH-BOS,2027-01-09,124,339,Boston–Houston,215
+BOS-IAH,2027-01-13,124,124,Boston–Houston,0
+IAH-BOS,2027-01-13,124,339,Boston–Houston,215
+BOS-IAH,2027-01-23,124,124,Boston–Houston,0
+IAH-BOS,2027-01-23,179,339,Boston–Houston,160
+BOS-IAH,2027-02-03,124,124,Boston–Houston,0
+IAH-BOS,2027-02-03,124,124,Boston–Houston,0
+BOS-IAH,2027-02-06,124,124,Boston–Houston,0
+IAH-BOS,2027-02-06,124,339,Boston–Houston,215
+BOS-IAH,2027-02-17,204,204,Boston–Houston,0
+IAH-BOS,2027-02-17,204,204,Boston–Houston,0
+BOS-IAH,2027-03-03,204,204,Boston–Houston,0
+IAH-BOS,2027-03-03,204,204,Boston–Houston,0
+BOS-IAH,2027-03-06,204,204,Boston–Houston,0
+IAH-BOS,2027-03-06,274,353,Boston–Houston,79
+BOS-IAH,2027-03-17,229,204,Boston–Houston,-25
+IAH-BOS,2027-03-17,204,204,Boston–Houston,0
+BOS-IAH,2027-04-07,204,204,Boston–Houston,0
+IAH-BOS,2027-04-07,204,204,Boston–Houston,0
+BOS-IAH,2027-04-10,204,339,Boston–Houston,135
+IAH-BOS,2027-04-10,204,220,Boston–Houston,16
+BOS-LAX,2026-11-18,224,224,Boston–Los Angeles,0
+LAX-BOS,2026-11-18,224,224,Boston–Los Angeles,0
+BOS-LAX,2026-11-21,209,209,Boston–Los Angeles,0
+LAX-BOS,2026-11-21,230,209,Boston–Los Angeles,-21
+BOS-LAX,2026-12-02,249,144,Boston–Los Angeles,-105
+LAX-BOS,2026-12-02,144,144,Boston–Los Angeles,0
+BOS-LAX,2026-12-12,144,144,Boston–Los Angeles,0
+LAX-BOS,2026-12-12,144,144,Boston–Los Angeles,0
+BOS-LAX,2026-12-16,204,158,Boston–Los Angeles,-46
+LAX-BOS,2026-12-16,144,144,Boston–Los Angeles,0
+BOS-LAX,2026-12-19,398,484,Boston–Los Angeles,86
+LAX-BOS,2026-12-19,233,262,Boston–Los Angeles,29
+BOS-LAX,2027-01-06,144,144,Boston–Los Angeles,0
+LAX-BOS,2027-01-06,144,144,Boston–Los Angeles,0
+BOS-LAX,2027-01-09,144,144,Boston–Los Angeles,0
+LAX-BOS,2027-01-09,144,144,Boston–Los Angeles,0
+BOS-LAX,2027-01-13,144,144,Boston–Los Angeles,0
+LAX-BOS,2027-01-13,144,144,Boston–Los Angeles,0
+BOS-LAX,2027-01-23,144,144,Boston–Los Angeles,0
+LAX-BOS,2027-01-23,144,144,Boston–Los Angeles,0
+BOS-LAX,2027-02-03,144,144,Boston–Los Angeles,0
+LAX-BOS,2027-02-03,144,144,Boston–Los Angeles,0
+BOS-LAX,2027-02-06,144,144,Boston–Los Angeles,0
+LAX-BOS,2027-02-06,144,144,Boston–Los Angeles,0
+BOS-LAX,2027-02-17,194,189,Boston–Los Angeles,-5
+LAX-BOS,2027-02-17,194,189,Boston–Los Angeles,-5
+BOS-LAX,2027-03-03,194,189,Boston–Los Angeles,-5
+LAX-BOS,2027-03-03,194,189,Boston–Los Angeles,-5
+BOS-LAX,2027-03-06,194,224,Boston–Los Angeles,30
+LAX-BOS,2027-03-06,319,240,Boston–Los Angeles,-79
+BOS-LAX,2027-03-17,194,189,Boston–Los Angeles,-5
+LAX-BOS,2027-03-17,194,189,Boston–Los Angeles,-5
+BOS-LAX,2027-04-07,194,189,Boston–Los Angeles,-5
+LAX-BOS,2027-04-07,194,189,Boston–Los Angeles,-5
+BOS-LAX,2027-04-10,284,394,Boston–Los Angeles,110
+LAX-BOS,2027-04-10,212,265,Boston–Los Angeles,53
+BOS-SFO,2026-11-18,304,304,Boston–San Francisco,0
+SFO-BOS,2026-11-18,304,304,Boston–San Francisco,0
+BOS-SFO,2026-11-21,354,354,Boston–San Francisco,0
+SFO-BOS,2026-11-21,404,354,Boston–San Francisco,-50
+BOS-SFO,2026-12-02,194,144,Boston–San Francisco,-50
+SFO-BOS,2026-12-02,144,144,Boston–San Francisco,0
+BOS-SFO,2026-12-12,144,144,Boston–San Francisco,0
+SFO-BOS,2026-12-12,144,144,Boston–San Francisco,0
+BOS-SFO,2026-12-16,144,164,Boston–San Francisco,20
+SFO-BOS,2026-12-16,144,144,Boston–San Francisco,0
+BOS-SFO,2026-12-19,483,354,Boston–San Francisco,-129
+SFO-BOS,2026-12-19,459,341,Boston–San Francisco,-118
+BOS-SFO,2027-01-06,144,144,Boston–San Francisco,0
+SFO-BOS,2027-01-06,144,144,Boston–San Francisco,0
+BOS-SFO,2027-01-09,204,154,Boston–San Francisco,-50
+SFO-BOS,2027-01-09,144,144,Boston–San Francisco,0
+BOS-SFO,2027-01-13,144,144,Boston–San Francisco,0
+SFO-BOS,2027-01-13,144,175,Boston–San Francisco,31
+BOS-SFO,2027-01-23,144,144,Boston–San Francisco,0
+SFO-BOS,2027-01-23,144,144,Boston–San Francisco,0
+BOS-SFO,2027-02-03,144,144,Boston–San Francisco,0
+SFO-BOS,2027-02-03,144,144,Boston–San Francisco,0
+BOS-SFO,2027-02-06,144,144,Boston–San Francisco,0
+SFO-BOS,2027-02-06,144,144,Boston–San Francisco,0
+BOS-SFO,2027-02-17,244,244,Boston–San Francisco,0
+SFO-BOS,2027-02-17,244,244,Boston–San Francisco,0
+BOS-SFO,2027-03-03,244,244,Boston–San Francisco,0
+SFO-BOS,2027-03-03,244,244,Boston–San Francisco,0
+BOS-SFO,2027-03-06,244,244,Boston–San Francisco,0
+SFO-BOS,2027-03-06,244,244,Boston–San Francisco,0
+BOS-SFO,2027-03-17,244,244,Boston–San Francisco,0
+SFO-BOS,2027-03-17,244,244,Boston–San Francisco,0
+BOS-SFO,2027-04-07,244,244,Boston–San Francisco,0
+SFO-BOS,2027-04-07,244,244,Boston–San Francisco,0
+BOS-SFO,2027-04-10,244,354,Boston–San Francisco,110
+SFO-BOS,2027-04-10,244,244,Boston–San Francisco,0
+FLL-ORD,2026-11-18,119,119,Fort Lauderdale–Chicago,0
+ORD-FLL,2026-11-18,119,119,Fort Lauderdale–Chicago,0
+FLL-ORD,2026-11-21,242,119,Fort Lauderdale–Chicago,-123
+ORD-FLL,2026-11-21,242,205,Fort Lauderdale–Chicago,-37
+FLL-ORD,2026-12-02,69,69,Fort Lauderdale–Chicago,0
+ORD-FLL,2026-12-02,149,75,Fort Lauderdale–Chicago,-74
+FLL-ORD,2026-12-12,69,87,Fort Lauderdale–Chicago,18
+ORD-FLL,2026-12-12,199,164,Fort Lauderdale–Chicago,-35
+FLL-ORD,2026-12-16,69,69,Fort Lauderdale–Chicago,0
+ORD-FLL,2026-12-16,69,85,Fort Lauderdale–Chicago,16
+FLL-ORD,2026-12-19,182,69,Fort Lauderdale–Chicago,-113
+ORD-FLL,2026-12-19,364,154,Fort Lauderdale–Chicago,-210
+FLL-ORD,2027-01-06,69,143,Fort Lauderdale–Chicago,74
+ORD-FLL,2027-01-06,69,69,Fort Lauderdale–Chicago,0
+FLL-ORD,2027-01-09,69,154,Fort Lauderdale–Chicago,85
+ORD-FLL,2027-01-09,69,69,Fort Lauderdale–Chicago,0
+FLL-ORD,2027-01-13,199,69,Fort Lauderdale–Chicago,-130
+ORD-FLL,2027-01-13,199,69,Fort Lauderdale–Chicago,-130
+FLL-ORD,2027-01-23,69,69,Fort Lauderdale–Chicago,0
+ORD-FLL,2027-01-23,69,69,Fort Lauderdale–Chicago,0
+FLL-ORD,2027-02-03,69,69,Fort Lauderdale–Chicago,0
+ORD-FLL,2027-02-03,69,85,Fort Lauderdale–Chicago,16
+FLL-ORD,2027-02-06,69,74,Fort Lauderdale–Chicago,5
+ORD-FLL,2027-02-06,69,69,Fort Lauderdale–Chicago,0
+FLL-ORD,2027-02-17,81,81,Fort Lauderdale–Chicago,0
+ORD-FLL,2027-02-17,119,81,Fort Lauderdale–Chicago,-38
+FLL-ORD,2027-03-03,81,81,Fort Lauderdale–Chicago,0
+ORD-FLL,2027-03-03,400,81,Fort Lauderdale–Chicago,-319
+FLL-ORD,2027-03-06,119,115,Fort Lauderdale–Chicago,-4
+ORD-FLL,2027-03-06,400,166,Fort Lauderdale–Chicago,-234
+FLL-ORD,2027-03-17,301,81,Fort Lauderdale–Chicago,-220
+ORD-FLL,2027-03-17,400,164,Fort Lauderdale–Chicago,-236
+FLL-ORD,2027-04-07,192,81,Fort Lauderdale–Chicago,-111
+ORD-FLL,2027-04-07,400,81,Fort Lauderdale–Chicago,-319
+FLL-ORD,2027-04-10,192,86,Fort Lauderdale–Chicago,-106
+ORD-FLL,2027-04-10,400,81,Fort Lauderdale–Chicago,-319
+FLL-IAH,2026-11-18,79,79,Fort Lauderdale–Houston,0
+IAH-FLL,2026-11-18,79,79,Fort Lauderdale–Houston,0
+FLL-IAH,2026-11-21,191,79,Fort Lauderdale–Houston,-112
+IAH-FLL,2026-11-21,254,132,Fort Lauderdale–Houston,-122
+FLL-IAH,2026-12-02,49,79,Fort Lauderdale–Houston,30
+IAH-FLL,2026-12-02,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2026-12-12,49,79,Fort Lauderdale–Houston,30
+IAH-FLL,2026-12-12,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2026-12-16,49,79,Fort Lauderdale–Houston,30
+IAH-FLL,2026-12-16,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2026-12-19,210,79,Fort Lauderdale–Houston,-131
+IAH-FLL,2026-12-19,210,165,Fort Lauderdale–Houston,-45
+FLL-IAH,2027-01-06,49,79,Fort Lauderdale–Houston,30
+IAH-FLL,2027-01-06,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2027-01-09,49,92,Fort Lauderdale–Houston,43
+IAH-FLL,2027-01-09,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2027-01-13,49,79,Fort Lauderdale–Houston,30
+IAH-FLL,2027-01-13,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2027-01-23,49,79,Fort Lauderdale–Houston,30
+IAH-FLL,2027-01-23,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2027-02-03,49,79,Fort Lauderdale–Houston,30
+IAH-FLL,2027-02-03,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2027-02-06,49,79,Fort Lauderdale–Houston,30
+IAH-FLL,2027-02-06,49,79,Fort Lauderdale–Houston,30
+FLL-IAH,2027-02-17,59,79,Fort Lauderdale–Houston,20
+IAH-FLL,2027-02-17,59,79,Fort Lauderdale–Houston,20
+FLL-IAH,2027-03-03,109,79,Fort Lauderdale–Houston,-30
+IAH-FLL,2027-03-03,109,79,Fort Lauderdale–Houston,-30
+FLL-IAH,2027-03-06,210,79,Fort Lauderdale–Houston,-131
+IAH-FLL,2027-03-06,210,301,Fort Lauderdale–Houston,91
+FLL-IAH,2027-03-17,109,79,Fort Lauderdale–Houston,-30
+IAH-FLL,2027-03-17,79,79,Fort Lauderdale–Houston,0
+FLL-IAH,2027-04-07,80,80,Fort Lauderdale–Houston,0
+IAH-FLL,2027-04-07,80,80,Fort Lauderdale–Houston,0
+FLL-IAH,2027-04-10,80,80,Fort Lauderdale–Houston,0
+IAH-FLL,2027-04-10,80,80,Fort Lauderdale–Houston,0
+FLL-LAX,2026-11-21,257,257,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2026-11-21,257,538,Fort Lauderdale–Los Angeles,281
+FLL-LAX,2026-12-02,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2026-12-02,139,139,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2026-12-12,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2026-12-12,139,139,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2026-12-16,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2026-12-16,139,214,Fort Lauderdale–Los Angeles,75
+FLL-LAX,2026-12-19,171,139,Fort Lauderdale–Los Angeles,-32
+LAX-FLL,2026-12-19,389,648,Fort Lauderdale–Los Angeles,259
+FLL-LAX,2027-01-06,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-01-06,139,139,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2027-01-09,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-01-09,139,139,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2027-01-13,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-01-13,139,139,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2027-01-23,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-01-23,139,139,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2027-02-03,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-02-03,139,139,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2027-02-06,139,139,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-02-06,139,139,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2027-02-17,199,199,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-02-17,199,199,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2027-03-06,199,199,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-03-06,199,199,Fort Lauderdale–Los Angeles,0
+FLL-LAX,2027-03-17,199,199,Fort Lauderdale–Los Angeles,0
+LAX-FLL,2027-03-17,199,199,Fort Lauderdale–Los Angeles,0
+FLL-SFO,2026-11-18,319,319,Fort Lauderdale–San Francisco,0
+SFO-FLL,2026-11-18,319,319,Fort Lauderdale–San Francisco,0
+FLL-SFO,2026-11-21,334,334,Fort Lauderdale–San Francisco,0
+SFO-FLL,2026-11-21,434,1342,Fort Lauderdale–San Francisco,908
+FLL-SFO,2026-12-02,159,159,Fort Lauderdale–San Francisco,0
+SFO-FLL,2026-12-02,159,159,Fort Lauderdale–San Francisco,0
+FLL-SFO,2026-12-12,159,159,Fort Lauderdale–San Francisco,0
+SFO-FLL,2026-12-12,197,289,Fort Lauderdale–San Francisco,92
+FLL-SFO,2026-12-16,159,159,Fort Lauderdale–San Francisco,0
+SFO-FLL,2026-12-16,328,330,Fort Lauderdale–San Francisco,2
+FLL-SFO,2026-12-19,189,159,Fort Lauderdale–San Francisco,-30
+SFO-FLL,2026-12-19,614,904,Fort Lauderdale–San Francisco,290
+FLL-SFO,2027-01-06,309,223,Fort Lauderdale–San Francisco,-86
+SFO-FLL,2027-01-06,159,159,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-01-09,159,159,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-01-09,159,159,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-01-13,159,159,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-01-13,159,159,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-01-23,159,159,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-01-23,159,159,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-02-03,159,159,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-02-03,159,159,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-02-06,159,159,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-02-06,159,159,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-02-17,185,185,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-02-17,185,185,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-03-03,185,185,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-03-03,185,185,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-03-06,185,185,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-03-06,185,185,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-03-17,185,185,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-03-17,185,212,Fort Lauderdale–San Francisco,27
+FLL-SFO,2027-04-07,185,185,Fort Lauderdale–San Francisco,0
+SFO-FLL,2027-04-07,185,185,Fort Lauderdale–San Francisco,0
+FLL-SFO,2027-04-10,185,223,Fort Lauderdale–San Francisco,38
+SFO-FLL,2027-04-10,230,185,Fort Lauderdale–San Francisco,-45
+EWR-FLL,2026-11-18,280,280,Newark–Fort Lauderdale,0
+FLL-EWR,2026-11-18,280,280,Newark–Fort Lauderdale,0
+EWR-FLL,2026-11-21,263,232,Newark–Fort Lauderdale,-31
+FLL-EWR,2026-11-21,263,232,Newark–Fort Lauderdale,-31
+EWR-FLL,2026-12-02,184,179,Newark–Fort Lauderdale,-5
+FLL-EWR,2026-12-02,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2026-12-12,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2026-12-12,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2026-12-16,184,194,Newark–Fort Lauderdale,10
+FLL-EWR,2026-12-16,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2026-12-19,220,220,Newark–Fort Lauderdale,0
+FLL-EWR,2026-12-19,164,164,Newark–Fort Lauderdale,0
+EWR-FLL,2027-01-06,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-01-06,184,179,Newark–Fort Lauderdale,-5
+EWR-FLL,2027-01-09,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-01-09,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-01-13,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-01-13,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-01-23,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-01-23,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-02-03,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-02-03,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-02-06,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-02-06,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-02-17,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-02-17,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-03-03,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-03-03,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-03-06,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-03-06,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-03-17,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-03-17,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-04-07,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-04-07,179,179,Newark–Fort Lauderdale,0
+EWR-FLL,2027-04-10,179,179,Newark–Fort Lauderdale,0
+FLL-EWR,2027-04-10,179,179,Newark–Fort Lauderdale,0
+EWR-MCO,2026-11-18,269,269,Newark–Orlando,0
+MCO-EWR,2026-11-18,269,269,Newark–Orlando,0
+EWR-MCO,2026-11-21,279,252,Newark–Orlando,-27
+MCO-EWR,2026-11-21,459,252,Newark–Orlando,-207
+EWR-MCO,2026-12-02,125,125,Newark–Orlando,0
+MCO-EWR,2026-12-02,125,125,Newark–Orlando,0
+EWR-MCO,2026-12-12,105,105,Newark–Orlando,0
+MCO-EWR,2026-12-12,249,171,Newark–Orlando,-78
+EWR-MCO,2026-12-16,105,139,Newark–Orlando,34
+MCO-EWR,2026-12-16,105,105,Newark–Orlando,0
+EWR-MCO,2026-12-19,257,211,Newark–Orlando,-46
+MCO-EWR,2026-12-19,159,130,Newark–Orlando,-29
+EWR-MCO,2027-01-06,105,105,Newark–Orlando,0
+MCO-EWR,2027-01-06,231,105,Newark–Orlando,-126
+EWR-MCO,2027-01-09,105,105,Newark–Orlando,0
+MCO-EWR,2027-01-09,105,105,Newark–Orlando,0
+EWR-MCO,2027-01-13,359,105,Newark–Orlando,-254
+MCO-EWR,2027-01-13,105,105,Newark–Orlando,0
+EWR-MCO,2027-01-23,105,105,Newark–Orlando,0
+MCO-EWR,2027-01-23,105,105,Newark–Orlando,0
+EWR-MCO,2027-02-03,105,150,Newark–Orlando,45
+MCO-EWR,2027-02-03,105,105,Newark–Orlando,0
+EWR-MCO,2027-02-06,105,105,Newark–Orlando,0
+MCO-EWR,2027-02-06,105,105,Newark–Orlando,0
+EWR-MCO,2027-02-17,119,130,Newark–Orlando,11
+MCO-EWR,2027-02-17,119,119,Newark–Orlando,0
+EWR-MCO,2027-03-03,119,130,Newark–Orlando,11
+MCO-EWR,2027-03-03,119,119,Newark–Orlando,0
+EWR-MCO,2027-03-06,249,169,Newark–Orlando,-80
+MCO-EWR,2027-03-06,359,199,Newark–Orlando,-160
+EWR-MCO,2027-03-17,380,169,Newark–Orlando,-211
+MCO-EWR,2027-03-17,160,169,Newark–Orlando,9
+EWR-MCO,2027-04-07,160,169,Newark–Orlando,9
+MCO-EWR,2027-04-07,160,169,Newark–Orlando,9
+EWR-MCO,2027-04-10,160,169,Newark–Orlando,9
+MCO-EWR,2027-04-10,249,169,Newark–Orlando,-80
+EWR-SJU,2026-11-18,244,244,Newark–San Juan,0
+SJU-EWR,2026-11-18,274,244,Newark–San Juan,-30
+EWR-SJU,2026-11-21,244,244,Newark–San Juan,0
+SJU-EWR,2026-11-21,280,244,Newark–San Juan,-36
+EWR-SJU,2026-12-02,229,194,Newark–San Juan,-35
+SJU-EWR,2026-12-02,99,194,Newark–San Juan,95
+EWR-SJU,2026-12-12,274,194,Newark–San Juan,-80
+SJU-EWR,2026-12-12,99,194,Newark–San Juan,95
+EWR-SJU,2026-12-16,229,215,Newark–San Juan,-14
+SJU-EWR,2026-12-16,99,194,Newark–San Juan,95
+EWR-SJU,2026-12-19,388,368,Newark–San Juan,-20
+SJU-EWR,2026-12-19,179,179,Newark–San Juan,0
+EWR-SJU,2027-01-06,211,194,Newark–San Juan,-17
+SJU-EWR,2027-01-06,344,313,Newark–San Juan,-31
+EWR-SJU,2027-01-09,229,203,Newark–San Juan,-26
+SJU-EWR,2027-01-09,430,234,Newark–San Juan,-196
+EWR-SJU,2027-01-13,99,194,Newark–San Juan,95
+SJU-EWR,2027-01-13,99,194,Newark–San Juan,95
+EWR-SJU,2027-01-23,99,194,Newark–San Juan,95
+SJU-EWR,2027-01-23,274,194,Newark–San Juan,-80
+EWR-SJU,2027-02-03,274,194,Newark–San Juan,-80
+SJU-EWR,2027-02-03,99,194,Newark–San Juan,95
+EWR-SJU,2027-02-06,229,194,Newark–San Juan,-35
+SJU-EWR,2027-02-06,99,194,Newark–San Juan,95
+EWR-SJU,2027-02-17,225,225,Newark–San Juan,0
+SJU-EWR,2027-02-17,274,225,Newark–San Juan,-49
+EWR-SJU,2027-03-03,225,225,Newark–San Juan,0
+SJU-EWR,2027-03-03,225,225,Newark–San Juan,0
+EWR-SJU,2027-03-06,225,225,Newark–San Juan,0
+SJU-EWR,2027-03-06,225,225,Newark–San Juan,0
+EWR-SJU,2027-03-17,244,225,Newark–San Juan,-19
+SJU-EWR,2027-03-17,244,225,Newark–San Juan,-19
+EWR-SJU,2027-04-07,244,225,Newark–San Juan,-19
+SJU-EWR,2027-04-07,244,225,Newark–San Juan,-19
+EWR-SJU,2027-04-10,244,296,Newark–San Juan,52
+SJU-EWR,2027-04-10,274,463,Newark–San Juan,189
+EWR-PBI,2026-11-18,264,264,Newark–West Palm Beach,0
+PBI-EWR,2026-11-18,264,264,Newark–West Palm Beach,0
+EWR-PBI,2026-11-21,223,223,Newark–West Palm Beach,0
+PBI-EWR,2026-11-21,245,223,Newark–West Palm Beach,-22
+EWR-PBI,2026-12-02,194,224,Newark–West Palm Beach,30
+PBI-EWR,2026-12-02,149,144,Newark–West Palm Beach,-5
+EWR-PBI,2026-12-12,149,144,Newark–West Palm Beach,-5
+PBI-EWR,2026-12-12,149,144,Newark–West Palm Beach,-5
+EWR-PBI,2026-12-16,149,210,Newark–West Palm Beach,61
+PBI-EWR,2026-12-16,149,144,Newark–West Palm Beach,-5
+EWR-PBI,2026-12-19,259,213,Newark–West Palm Beach,-46
+PBI-EWR,2026-12-19,164,144,Newark–West Palm Beach,-20
+EWR-PBI,2027-01-06,149,144,Newark–West Palm Beach,-5
+PBI-EWR,2027-01-06,172,210,Newark–West Palm Beach,38
+EWR-PBI,2027-01-09,149,144,Newark–West Palm Beach,-5
+PBI-EWR,2027-01-09,149,144,Newark–West Palm Beach,-5
+EWR-PBI,2027-01-13,149,210,Newark–West Palm Beach,61
+PBI-EWR,2027-01-13,149,144,Newark–West Palm Beach,-5
+EWR-PBI,2027-01-23,149,144,Newark–West Palm Beach,-5
+PBI-EWR,2027-01-23,149,144,Newark–West Palm Beach,-5
+EWR-PBI,2027-02-03,149,151,Newark–West Palm Beach,2
+PBI-EWR,2027-02-03,149,144,Newark–West Palm Beach,-5
+EWR-PBI,2027-02-06,149,144,Newark–West Palm Beach,-5
+PBI-EWR,2027-02-06,149,144,Newark–West Palm Beach,-5
+EWR-PBI,2027-02-17,174,174,Newark–West Palm Beach,0
+PBI-EWR,2027-02-17,174,174,Newark–West Palm Beach,0
+EWR-PBI,2027-03-03,174,174,Newark–West Palm Beach,0
+PBI-EWR,2027-03-03,174,174,Newark–West Palm Beach,0
+EWR-PBI,2027-03-06,174,174,Newark–West Palm Beach,0
+PBI-EWR,2027-03-06,174,174,Newark–West Palm Beach,0
+EWR-PBI,2027-03-17,174,174,Newark–West Palm Beach,0
+PBI-EWR,2027-03-17,174,229,Newark–West Palm Beach,55
+EWR-PBI,2027-04-07,174,174,Newark–West Palm Beach,0
+EWR-PBI,2027-04-10,174,174,Newark–West Palm Beach,0
+PBI-EWR,2027-04-10,174,174,Newark–West Palm Beach,0
