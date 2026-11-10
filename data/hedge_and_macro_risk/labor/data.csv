@@ -1,0 +1,30 @@
+id,airline,group,cycle,amendable,deal,talks_start,flag,date_quality,note
+DL_P_12,Delta,pilot,P2010s,2012-12-31,2012-05-15,,early_deal,good,TA 7.5 mo before amendable
+AS_P_13,Alaska,pilot,P2010s,2013-04-01,2013-06-06,2012-07-01,,good,
+SY_P_15,Sun Country,pilot,P2010s,2010-03-01,2015-09-18,2010-04-01,,good,amendable Mar 2010 (month approx)
+WN_P_16,Southwest,pilot,P2010s,2012-08-31,2016-08-29,2012-08-31,,good,TA1 rejected 2015
+HA_P_17,Hawaiian,pilot,P2010s,2015-09-15,2017-02-08,2015-03-01,,good,
+NK_P_18,Spirit,pilot,P2010s,2015-08-01,2018-01-25,2015-03-01,,good,TA late Jan 2018 (day approx)
+F9_P_19,Frontier,pilot,P2010s,2016-03-01,2018-11-15,2016-03-01,proxy_amendable,approx,post-bankruptcy contract; talks start used as amendable proxy
+SY_P_21,Sun Country,pilot,P2020s,2020-11-01,2021-12-01,2021-05-01,,good,AIP ~early Dec 2021
+AS_P_22,Alaska,pilot,P2020s,2020-04-01,2022-09-23,2019-04-01,,good,
+NK_P_23,Spirit,pilot,P2020s,2023-03-01,2022-12-09,,bridge_merger,good,2-yr bridge tied to JetBlue merger
+B6_P_23,JetBlue,pilot,P2020s,2022-08-01,2022-12-14,2022-09-01,extension,approx,2-yr extension; amendable month approx
+HA_P_23,Hawaiian,pilot,P2020s,2022-07-01,2023-01-19,2021-01-01,,good,talks opened ~2 yrs before TA
+DL_P_23,Delta,pilot,P2020s,2019-12-31,2022-12-02,2019-04-05,,good,AIP date
+AA_P_23,American,pilot,P2020s,2020-01-01,2023-08-01,,,good,final TA after June TA reworked
+UA_P_23,United,pilot,P2020s,2019-01-31,2023-07-15,,,good,TA1 May 2022 rejected
+WN_P_23,Southwest,pilot,P2020s,2020-08-31,2023-12-20,2020-03-01,,good,
+G4_P_26,Allegiant,pilot,P2020s,2021-08-01,2026-07-01,2021-06-01,merger,approx,TA date approx (ratified Jul 31 2026); Sun Country merger
+AS_F_13,Alaska,fa,F2010s,2012-05-01,2013-12-13,,,good,
+NK_F_16,Spirit,fa,F2010s,2007-06-06,2016-04-05,,crisis_outlier,approx,9-yr negotiation incl 2 failed TAs; TA3 date approx
+WN_F_16,Southwest,fa,F2010s,2013-05-31,2016-09-09,2013-06-01,,good,TA1 rejected Jul 2015
+F9_F_19,Frontier,fa,F2010s,2016-03-01,2019-03-19,,proxy_amendable,approx,amendable 2016 month approx
+HA_F_20,Hawaiian,fa,F2010s,2016-12-31,2020-03-01,2016-04-01,,approx,TA ~Feb/Mar 2020; ratified Apr 3 2020
+NK_F_23,Spirit,fa,F2020s,2021-05-05,2023-02-20,2021-09-27,merger_linked,good,short deal tied to merger
+G4_F_24,Allegiant,fa,F2020s,2022-12-21,2024-03-21,2022-08-01,,good,TA1 Jun 2023 rejected
+WN_F_24,Southwest,fa,F2020s,2018-11-01,2024-03-20,2018-11-06,,good,TA1 Oct 2023 rejected
+AA_F_24,American,fa,F2020s,2019-12-13,2024-07-19,2019-06-01,,good,talks pre-amendable (month approx)
+AS_F_25,Alaska,fa,F2020s,2022-12-01,2025-01-24,,,good,AFA 2018 release said Dec 2021; Alaska says Dec 2022
+SY_F_25,Sun Country,fa,F2020s,2019-11-01,2025-01-30,2019-11-01,proxy_amendable,approx,talks start used as amendable proxy
+UA_F_26,United,fa,F2020s,2021-08-28,2026-03-26,2022-01-01,,good,TA1 May 2025 rejected
