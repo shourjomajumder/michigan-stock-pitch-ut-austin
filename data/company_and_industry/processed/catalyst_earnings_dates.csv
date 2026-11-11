@@ -1,0 +1,9 @@
+company,quarter,expected_month,basis
+JetBlue,Q4 '26,Jan 2027,prior-year analog 2026-01-27
+JetBlue,Q1 '27,Apr 2027,prior-year analog 2026-04-28
+JetBlue,Q2 '27,Jul 2027,prior-year analog 2026-07-28
+JetBlue,Q3 '27,Oct 2027,prior-year analog 2026-10-26
+Frontier,Q4 '26,Feb 2027,prior-year analog 2026-02-11
+Frontier,Q1 '27,Apr 2027,prior-year analog late Apr 2026 (exact date not re-verified)
+Frontier,Q2 '27,Jul 2027,prior-year analog 2026-07-29
+Frontier,Q3 '27,Oct 2027,prior-year analog 2026-10-28

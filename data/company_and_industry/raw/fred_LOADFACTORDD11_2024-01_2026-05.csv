@@ -1,0 +1,32 @@
+# FRED series LOADFACTORDD11 - Load Factor for U.S. Air Carrier Domestic, Scheduled Passenger Flights (percent). Source: U.S. Bureau of Transportation Statistics via FRED.
+# URL: https://fred.stlouisfed.org/data/LOADFACTORDD11  fetched 2026-11-11 (WebFetch; values transcribed from the table)
+date,load_factor_pct
+2024-01-01,83.9
+2024-02-01,83.6
+2024-03-01,82.9
+2024-04-01,83.5
+2024-05-01,83.3
+2024-06-01,84.5
+2024-07-01,83.6
+2024-08-01,84.0
+2024-09-01,83.9
+2024-10-01,83.2
+2024-11-01,84.9
+2024-12-01,83.0
+2025-01-01,81.9
+2025-02-01,81.0
+2025-03-01,80.9
+2025-04-01,80.2
+2025-05-01,81.0
+2025-06-01,82.4
+2025-07-01,81.7
+2025-08-01,82.9
+2025-09-01,83.4
+2025-10-01,81.6
+2025-11-01,80.9
+2025-12-01,82.3
+2026-01-01,81.3
+2026-02-01,81.9
+2026-03-01,82.5
+2026-04-01,79.6
+2026-05-01,80.8
