@@ -1,0 +1,3 @@
+as published (lcc_quarters.csv)               seats-fixed fare -0.159 R2 0.841 | fares-only -0.743 R2 0.502
+Allegiant 2025Q2 seats fixed (total basis 15.68) seats-fixed fare -0.155 R2 0.844 | fares-only -0.743 R2 0.502
+all Allegiant seats on scheduled basis        seats-fixed fare -0.154 R2 0.844 | fares-only -0.743 R2 0.502
