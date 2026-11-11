@@ -5,10 +5,10 @@ The data and calculations behind our pair-trade pitch: long Frontier Group Holdi
 
 
 
-Full raw source files (about 10 GB of BTS on-time and DOT DB1B data, pulled 0.000000) are on Hugging Face: https://huggingface.co/datasets/YOURNAME/michigan-stock-pitch-raw-data
 
 
-Full raw source files (about 10 GB of BTS on-time and DOT DB1B data, pulled 0.000000) are on Hugging Face: https://huggingface.co/datasets/YOURNAME/michigan-stock-pitch-raw-data
 
 
-Full raw source files (about 10 GB of BTS on-time and DOT DB1B data, pulled 0.000000) are on Hugging Face: https://huggingface.co/datasets/YOURNAME/michigan-stock-pitch-raw-data
+
+
+Full raw source files (about 10 GB of BTS on-time and DOT DB1B data, pulled 2026-11-11) are on Hugging Face: https://huggingface.co/datasets/shourjomajumder/michigan-stock-pitch-raw-data
