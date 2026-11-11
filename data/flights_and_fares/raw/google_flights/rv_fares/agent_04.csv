@@ -1,0 +1,25 @@
+route,date,airline,airport,fare,fare_type
+JAX,2026-12-02,JetBlue,JFK,154,lowest shown (1 carry-on); product not checked
+JAX,2026-12-02,United,EWR,154,lowest shown (no carry-on); product not checked
+JAX,2026-12-09,JetBlue,JFK,154,lowest shown (1 carry-on); product not checked
+JAX,2026-12-09,United,EWR,154,lowest shown (no carry-on); product not checked
+JAX,2027-01-13,JetBlue,JFK,154,lowest shown (1 carry-on); product not checked
+JAX,2027-01-13,United,EWR,154,lowest shown (no carry-on); product not checked
+JAX,2027-01-27,JetBlue,JFK,154,lowest shown (1 carry-on); product not checked
+JAX,2027-01-27,United,EWR,154,lowest shown (no carry-on); product not checked
+FLL,2027-02-03,JetBlue,LGA,179,lowest shown (1 carry-on); product not checked
+FLL,2027-02-03,JetBlue,EWR,179,lowest shown (1 carry-on); product not checked
+FLL,2027-02-03,JetBlue,JFK,184,lowest shown (1 carry-on); product not checked
+FLL,2027-02-03,United,EWR,179,lowest shown (no carry-on); product not checked
+FLL,2027-02-10,JetBlue,LGA,179,lowest shown (1 carry-on); product not checked
+FLL,2027-02-10,JetBlue,JFK,184,lowest shown (1 carry-on); product not checked
+FLL,2027-02-10,JetBlue,EWR,254,lowest shown (1 carry-on); product not checked
+FLL,2027-02-10,United,EWR,279,lowest shown (no carry-on); product not checked
+FLL,2027-02-24,JetBlue,LGA,179,lowest shown (1 carry-on); product not checked
+FLL,2027-02-24,JetBlue,EWR,179,lowest shown (1 carry-on); product not checked
+FLL,2027-02-24,JetBlue,JFK,229,lowest shown (1 carry-on); product not checked
+FLL,2027-02-24,United,EWR,179,lowest shown (no carry-on); product not checked
+FLL,2027-03-03,JetBlue,LGA,179,lowest shown (1 carry-on); product not checked
+FLL,2027-03-03,JetBlue,EWR,179,lowest shown (1 carry-on); product not checked
+FLL,2027-03-03,JetBlue,JFK,229,lowest shown (1 carry-on); product not checked
+FLL,2027-03-03,United,EWR,179,lowest shown (no carry-on); product not checked

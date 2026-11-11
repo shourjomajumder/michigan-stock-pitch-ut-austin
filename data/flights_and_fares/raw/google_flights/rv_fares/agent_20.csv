@@ -1,0 +1,17 @@
+route,date,airline,airport,fare,fare_type
+PLS,2026-12-02,United,EWR,357,no overhead bin (Google note; Basic Economy)
+PLS,2026-12-02,JetBlue,JFK,384,carry-on included
+PLS,2026-12-09,United,EWR,114,no overhead bin (Google note; Basic Economy)
+PLS,2026-12-09,JetBlue,JFK,114,carry-on included
+PLS,2027-01-13,United,EWR,158,no overhead bin (Google note; Basic Economy)
+PLS,2027-01-13,JetBlue,JFK,217,carry-on included
+PLS,2027-01-27,JetBlue,JFK,114,carry-on included
+PLS,2027-01-27,United,EWR,293,no overhead bin (Google note; Basic Economy)
+SJO,2026-12-02,United,EWR,283,no overhead bin (Google note; Basic Economy)
+SJO,2026-12-02,JetBlue,JFK,491,carry-on included
+SJO,2026-12-09,United,EWR,358,no overhead bin (Google note; Basic Economy)
+SJO,2026-12-09,JetBlue,JFK,476,carry-on included
+SJO,2027-01-13,United,EWR,239,no overhead bin (Google note; Basic Economy)
+SJO,2027-01-13,JetBlue,JFK,239,carry-on included
+SJO,2027-01-27,United,EWR,239,no overhead bin (Google note; Basic Economy)
+SJO,2027-01-27,JetBlue,JFK,239,carry-on included

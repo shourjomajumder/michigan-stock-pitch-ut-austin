@@ -1,0 +1,14 @@
+pair,n,mean_gap,median_gap,share_within_10,share_within_15,mean_gap_ex_largest
+Boston–Chicago,35,22.06,26.0,0.314,0.314,19.68
+Boston–Denver,36,17.58,19.0,0.278,0.278,13.83
+Boston–Houston,36,-25.78,0.0,0.667,0.667,-20.37
+Boston–Los Angeles,36,-0.47,0.0,0.75,0.75,2.66
+Boston–San Francisco,36,6.56,0.0,0.778,0.778,3.06
+Fort Lauderdale–Chicago,36,70.67,2.0,0.389,0.389,63.57
+Fort Lauderdale–Houston,36,-1.47,-30.0,0.194,0.194,-5.26
+Fort Lauderdale–Los Angeles,28,-20.82,0.0,0.857,0.857,-11.19
+Fort Lauderdale–San Francisco,36,-33.22,0.0,0.778,0.778,-8.23
+Newark–Fort Lauderdale,36,1.72,0.0,0.944,0.944,0.89
+Newark–Orlando,36,32.25,0.0,0.583,0.639,25.91
+Newark–San Juan,36,-5.44,7.0,0.222,0.25,-11.2
+Newark–West Palm Beach,35,-2.69,0.0,0.771,0.771,-0.97

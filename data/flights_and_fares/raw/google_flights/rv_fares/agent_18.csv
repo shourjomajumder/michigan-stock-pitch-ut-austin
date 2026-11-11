@@ -1,0 +1,19 @@
+route,date,airline,airport,fare,fare_type
+CLE,2026-12-02,JetBlue,JFK,89,1 carry-on (likely Blue Basic not shown)
+CLE,2026-12-02,United,EWR,89,no carry-on (Basic Economy)
+CLE,2026-12-09,JetBlue,JFK,89,1 carry-on
+CLE,2026-12-09,United,EWR,89,no carry-on (Basic Economy)
+CLE,2027-01-13,JetBlue,JFK,89,1 carry-on
+CLE,2027-01-13,United,EWR,89,no carry-on (Basic Economy)
+CLE,2027-01-13,United Express,EWR,89,no carry-on (Basic Economy)
+CLE,2027-01-27,JetBlue,JFK,89,1 carry-on
+CLE,2027-01-27,United,EWR,89,no carry-on (Basic Economy)
+CLE,2027-01-27,United Express,EWR,89,no carry-on (Basic Economy)
+SXM,2026-12-02,JetBlue,JFK,94,not shown
+SXM,2026-12-02,United,EWR,283,not shown
+SXM,2026-12-09,JetBlue,JFK,94,not shown
+SXM,2026-12-09,United,EWR,124,not shown
+SXM,2027-01-13,JetBlue,JFK,94,not shown
+SXM,2027-01-13,United,EWR,91,not shown
+SXM,2027-01-27,JetBlue,JFK,94,not shown
+SXM,2027-01-27,United,EWR,210,not shown

@@ -1,0 +1,25 @@
+route,date,airline,airport,fare,fare_type
+IAH,2026-12-02,JetBlue,JFK,144,lowest shown; 1 carry-on
+IAH,2026-12-02,United,LGA,144,lowest shown; no carry-on (Basic)
+IAH,2026-12-02,United Express,LGA,144,lowest shown; no carry-on (Basic)
+IAH,2026-12-02,United,EWR,334,lowest shown; no carry-on
+IAH,2026-12-09,JetBlue,JFK,144,lowest shown; 1 carry-on
+IAH,2026-12-09,United Express,LGA,144,lowest shown; no carry-on (Basic)
+IAH,2026-12-09,United,LGA,199,lowest shown; no carry-on
+IAH,2026-12-09,United,EWR,334,lowest shown; no carry-on
+IAH,2027-01-13,JetBlue,JFK,139,lowest shown; 1 carry-on
+IAH,2027-01-13,United,LGA,139,lowest shown; no carry-on (Basic)
+IAH,2027-01-13,United Express,LGA,139,lowest shown; no carry-on (Basic)
+IAH,2027-01-13,United,EWR,334,lowest shown; no carry-on
+IAH,2027-01-27,JetBlue,JFK,139,lowest shown; 1 carry-on
+IAH,2027-01-27,United,LGA,139,lowest shown; no carry-on (Basic)
+IAH,2027-01-27,United Express,LGA,139,lowest shown; no carry-on (Basic)
+IAH,2027-01-27,United,EWR,334,lowest shown; no carry-on
+AUA,2026-12-02,JetBlue,JFK,284,product/bags not shown
+AUA,2026-12-02,United,EWR,296,product/bags not shown
+AUA,2026-12-09,JetBlue,JFK,104,product/bags not shown
+AUA,2026-12-09,United,EWR,205,product/bags not shown
+AUA,2027-01-13,JetBlue,JFK,104,product/bags not shown
+AUA,2027-01-13,United,EWR,189,product/bags not shown
+AUA,2027-01-27,JetBlue,JFK,104,product/bags not shown
+AUA,2027-01-27,United,EWR,104,product/bags not shown

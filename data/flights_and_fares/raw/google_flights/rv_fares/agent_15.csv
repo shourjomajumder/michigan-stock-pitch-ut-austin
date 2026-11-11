@@ -1,0 +1,17 @@
+route,date,airline,airport,fare,fare_type
+SMF,2026-12-02,United,EWR,344,0 carry-on/0 checked (likely Basic Economy)
+SMF,2026-12-02,JetBlue,none,,no nonstop
+SMF,2026-12-09,United,EWR,344,0 carry-on/0 checked (likely Basic Economy)
+SMF,2026-12-09,JetBlue,none,,no nonstop
+SMF,2027-01-13,United,none,,no nonstop
+SMF,2027-01-13,JetBlue,none,,no nonstop
+SMF,2027-01-27,United,none,,no nonstop
+SMF,2027-01-27,JetBlue,none,,no nonstop
+CUN,2026-12-02,JetBlue,JFK,268,not shown
+CUN,2026-12-02,United,EWR,332,not shown
+CUN,2026-12-09,JetBlue,JFK,211,not shown
+CUN,2026-12-09,United,EWR,221,not shown
+CUN,2027-01-13,JetBlue,JFK,211,not shown
+CUN,2027-01-13,United,EWR,254,not shown
+CUN,2027-01-27,JetBlue,JFK,300,not shown
+CUN,2027-01-27,United,EWR,221,not shown

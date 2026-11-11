@@ -1,0 +1,17 @@
+route,date,airline,airport,fare,fare_type
+SEA,2026-12-02,United,EWR,144,Basic Economy (no carry-on)
+SEA,2026-12-02,JetBlue,none,,
+SEA,2026-12-09,United,EWR,144,Basic Economy (no carry-on)
+SEA,2026-12-09,JetBlue,none,,
+SEA,2027-01-13,United,EWR,144,Basic Economy (no carry-on)
+SEA,2027-01-13,JetBlue,none,,
+SEA,2027-01-27,United,EWR,144,Basic Economy (no carry-on)
+SEA,2027-01-27,JetBlue,none,,
+PUJ,2026-12-02,United,EWR,269,not shown
+PUJ,2026-12-02,JetBlue,JFK,274,not shown
+PUJ,2026-12-09,United,EWR,269,not shown
+PUJ,2026-12-09,JetBlue,JFK,274,not shown
+PUJ,2027-01-13,United,EWR,252,not shown
+PUJ,2027-01-13,JetBlue,JFK,274,not shown
+PUJ,2027-01-27,United,EWR,252,not shown
+PUJ,2027-01-27,JetBlue,JFK,144,not shown

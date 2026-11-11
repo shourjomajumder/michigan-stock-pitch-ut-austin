@@ -1,0 +1,131 @@
+route,date,airline,airport,fare,fare_type
+LAX,2026-12-02,United,EWR,149,lowest posted; no carry-on (Basic Economy)
+LAX,2026-12-02,JetBlue,JFK,180,lowest posted; 1 carry-on incl.
+SFO,2026-12-02,JetBlue,JFK,249,lowest posted; 1 carry-on incl.
+SFO,2026-12-02,United,EWR,282,lowest posted; no carry-on (Basic Economy)
+LAS,2026-12-02,JetBlue,JFK,174,lowest posted; 1 carry-on incl.
+LAS,2026-12-02,United,EWR,230,lowest posted; no carry-on (Basic Economy)
+MCO,2026-12-02,JetBlue,LGA,125,lowest posted; 1 carry-on incl.
+MCO,2026-12-02,United,EWR,125,lowest posted; no carry-on (Basic Economy)
+MCO,2026-12-02,JetBlue,EWR,125,lowest posted; 1 carry-on incl.
+MCO,2026-12-02,JetBlue,JFK,134,lowest posted; 1 carry-on incl.
+FLL,2026-12-02,JetBlue,JFK,179,lowest posted; 1 carry-on incl.
+FLL,2026-12-02,JetBlue,EWR,184,lowest posted; 1 carry-on incl.
+FLL,2026-12-02,JetBlue,LGA,194,lowest posted; 1 carry-on incl.
+FLL,2026-12-02,United,EWR,194,lowest posted; no carry-on (Basic Economy)
+TPA,2026-12-02,JetBlue,JFK,174,lowest posted; bag icons not parsed
+TPA,2026-12-02,United,EWR,174,lowest posted; bag icons not parsed
+PBI,2026-12-02,JetBlue,LGA,144,lowest posted; 1 carry-on incl.
+PBI,2026-12-02,JetBlue,JFK,149,lowest posted; 1 carry-on incl.
+PBI,2026-12-02,United,EWR,224,lowest posted; no carry-on (Basic Economy)
+PBI,2026-12-02,JetBlue,EWR,229,lowest posted; 1 carry-on incl.
+SJU,2026-12-02,United,EWR,194,lowest posted; bag icons not parsed
+SJU,2026-12-02,JetBlue,JFK,229,lowest posted; bag icons not parsed
+SJU,2026-12-02,JetBlue,EWR,274,lowest posted; bag icons not parsed
+DEN,2026-12-02,JetBlue,JFK,139,lowest posted; bag icons not parsed
+DEN,2026-12-02,United,LGA,139,lowest posted; bag icons not parsed
+DEN,2026-12-02,United,EWR,354,lowest posted; bag icons not parsed
+PHX,2026-12-02,United,EWR,169,lowest posted; no carry-on (Basic Economy)
+PHX,2026-12-02,JetBlue,JFK,187,lowest posted; 1 carry-on incl.
+RDU,2026-12-02,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+RDU,2026-12-02,United,EWR,144,lowest posted; no carry-on (Basic Economy)
+SAN,2026-12-02,United,EWR,219,lowest posted; no carry-on (Basic Economy)
+SAN,2026-12-02,JetBlue,JFK,246,lowest posted; 1 carry-on incl.
+LAX,2026-12-09,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+LAX,2026-12-09,United,EWR,149,lowest posted; no carry-on (Basic Economy)
+SFO,2026-12-09,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+SFO,2026-12-09,United,EWR,149,lowest posted; no carry-on (Basic Economy)
+LAS,2026-12-09,JetBlue,JFK,174,lowest posted; 1 carry-on incl.
+LAS,2026-12-09,United,EWR,230,lowest posted; no carry-on (Basic Economy)
+MCO,2026-12-09,JetBlue,LGA,125,lowest posted; 1 carry-on incl.
+MCO,2026-12-09,United,EWR,125,lowest posted; no carry-on (Basic Economy)
+MCO,2026-12-09,JetBlue,JFK,134,lowest posted; 1 carry-on incl.
+MCO,2026-12-09,JetBlue,EWR,249,lowest posted; 1 carry-on incl.
+FLL,2026-12-09,JetBlue,LGA,179,lowest posted; 1 carry-on incl.
+FLL,2026-12-09,JetBlue,JFK,179,lowest posted; 1 carry-on incl.
+FLL,2026-12-09,JetBlue,EWR,179,lowest posted; 1 carry-on incl.
+FLL,2026-12-09,United,EWR,179,lowest posted; no carry-on (Basic Economy)
+TPA,2026-12-09,United,EWR,174,lowest posted; bag icons not parsed
+TPA,2026-12-09,JetBlue,JFK,279,lowest posted; bag icons not parsed
+PBI,2026-12-09,JetBlue,LGA,144,lowest posted; 1 carry-on incl.
+PBI,2026-12-09,United,EWR,144,lowest posted; no carry-on (Basic Economy)
+PBI,2026-12-09,JetBlue,EWR,144,lowest posted; 1 carry-on incl.
+PBI,2026-12-09,JetBlue,JFK,149,lowest posted; 1 carry-on incl.
+SJU,2026-12-09,JetBlue,EWR,99,lowest posted; bag icons not parsed
+SJU,2026-12-09,JetBlue,JFK,104,lowest posted; bag icons not parsed
+SJU,2026-12-09,United,EWR,194,lowest posted; bag icons not parsed
+DEN,2026-12-09,United,LGA,139,lowest posted; bag icons not parsed
+DEN,2026-12-09,JetBlue,JFK,139,lowest posted; bag icons not parsed
+DEN,2026-12-09,United,EWR,354,lowest posted; bag icons not parsed
+PHX,2026-12-09,United,EWR,203,lowest posted; no carry-on (Basic Economy)
+PHX,2026-12-09,JetBlue,JFK,214,lowest posted; 1 carry-on incl.
+RDU,2026-12-09,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+RDU,2026-12-09,United,EWR,144,lowest posted; no carry-on (Basic Economy)
+SAN,2026-12-09,JetBlue,JFK,154,lowest posted; 1 carry-on incl.
+SAN,2026-12-09,United,EWR,154,lowest posted; no carry-on (Basic Economy)
+LAX,2027-01-13,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+LAX,2027-01-13,United,EWR,149,lowest posted; no carry-on (Basic Economy)
+SFO,2027-01-13,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+SFO,2027-01-13,United,EWR,149,lowest posted; no carry-on (Basic Economy)
+LAS,2027-01-13,JetBlue,JFK,174,lowest posted; 1 carry-on incl.
+LAS,2027-01-13,United,EWR,230,lowest posted; no carry-on (Basic Economy)
+MCO,2027-01-13,JetBlue,LGA,105,lowest posted; 1 carry-on incl.
+MCO,2027-01-13,United,EWR,105,lowest posted; no carry-on (Basic Economy)
+MCO,2027-01-13,JetBlue,JFK,134,lowest posted; 1 carry-on incl.
+MCO,2027-01-13,JetBlue,EWR,359,lowest posted; 1 carry-on incl.
+FLL,2027-01-13,JetBlue,LGA,179,lowest posted; 1 carry-on incl.
+FLL,2027-01-13,JetBlue,EWR,179,lowest posted; 1 carry-on incl.
+FLL,2027-01-13,United,EWR,179,lowest posted; no carry-on (Basic Economy)
+FLL,2027-01-13,JetBlue,JFK,184,lowest posted; 1 carry-on incl.
+TPA,2027-01-13,JetBlue,JFK,179,lowest posted; bag icons not parsed
+TPA,2027-01-13,United,EWR,179,lowest posted; bag icons not parsed
+PBI,2027-01-13,JetBlue,LGA,144,lowest posted; 1 carry-on incl.
+PBI,2027-01-13,JetBlue,EWR,144,lowest posted; 1 carry-on incl.
+PBI,2027-01-13,JetBlue,JFK,149,lowest posted; 1 carry-on incl.
+PBI,2027-01-13,United,EWR,150,lowest posted; no carry-on (Basic Economy)
+SJU,2027-01-13,JetBlue,EWR,99,lowest posted; bag icons not parsed
+SJU,2027-01-13,JetBlue,JFK,104,lowest posted; bag icons not parsed
+SJU,2027-01-13,United,EWR,194,lowest posted; bag icons not parsed
+DEN,2027-01-13,JetBlue,JFK,139,lowest posted; bag icons not parsed
+DEN,2027-01-13,United,LGA,139,lowest posted; bag icons not parsed
+DEN,2027-01-13,United,EWR,354,lowest posted; no carry-on (Basic Economy)
+PHX,2027-01-13,JetBlue,JFK,169,lowest posted; 1 carry-on incl.
+PHX,2027-01-13,United,EWR,169,lowest posted; no carry-on (Basic Economy)
+RDU,2027-01-13,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+RDU,2027-01-13,United,EWR,144,lowest posted; no carry-on (Basic Economy)
+SAN,2027-01-13,JetBlue,JFK,154,lowest posted; 1 carry-on incl.
+SAN,2027-01-13,United,EWR,154,lowest posted; no carry-on (Basic Economy)
+LAX,2027-01-27,JetBlue,JFK,144,Main Base
+LAX,2027-01-27,United,EWR,149,Basic Economy
+SFO,2027-01-27,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+SFO,2027-01-27,United,EWR,149,lowest posted; no carry-on (Basic Economy)
+LAS,2027-01-27,JetBlue,JFK,174,lowest posted; 1 carry-on incl.
+LAS,2027-01-27,United,EWR,230,lowest posted; no carry-on (Basic Economy)
+MCO,2027-01-27,United,EWR,117,lowest posted; no carry-on (Basic Economy)
+MCO,2027-01-27,JetBlue,JFK,179,lowest posted; 1 carry-on incl.
+MCO,2027-01-27,JetBlue,LGA,254,lowest posted; 1 carry-on incl.
+MCO,2027-01-27,JetBlue,EWR,274,lowest posted; 1 carry-on incl.
+FLL,2027-01-27,JetBlue,LGA,179,lowest posted; 1 carry-on incl.
+FLL,2027-01-27,JetBlue,EWR,179,lowest posted; 1 carry-on incl.
+FLL,2027-01-27,United,EWR,179,lowest posted; no carry-on (Basic Economy)
+FLL,2027-01-27,JetBlue,JFK,184,lowest posted; 1 carry-on incl.
+TPA,2027-01-27,JetBlue,JFK,179,lowest posted; bag icons not parsed
+TPA,2027-01-27,United,EWR,179,lowest posted; bag icons not parsed
+PBI,2027-01-27,JetBlue,LGA,144,lowest posted; 1 carry-on incl.
+PBI,2027-01-27,JetBlue,EWR,144,lowest posted; 1 carry-on incl.
+PBI,2027-01-27,JetBlue,JFK,149,lowest posted; 1 carry-on incl.
+PBI,2027-01-27,United,EWR,149,lowest posted; no carry-on (Basic Economy)
+SJU,2027-01-27,JetBlue,EWR,99,lowest posted; bag icons not parsed
+SJU,2027-01-27,JetBlue,JFK,104,lowest posted; bag icons not parsed
+SJU,2027-01-27,United,EWR,194,lowest posted; bag icons not parsed
+DEN,2027-01-27,JetBlue,JFK,139,lowest posted; bag icons not parsed
+DEN,2027-01-27,United,LGA,139,lowest posted; bag icons not parsed
+DEN,2027-01-27,United,EWR,354,lowest posted; bag icons not parsed
+PHX,2027-01-27,JetBlue,JFK,169,lowest posted; 1 carry-on incl.
+PHX,2027-01-27,United,EWR,169,lowest posted; no carry-on (Basic Economy)
+RDU,2027-01-27,JetBlue,JFK,144,lowest posted; 1 carry-on incl.
+RDU,2027-01-27,United,EWR,144,lowest posted; no carry-on (Basic Economy)
+SAN,2027-01-27,JetBlue,JFK,154,lowest posted; 1 carry-on incl.
+SAN,2027-01-27,United,EWR,154,lowest posted; no carry-on (Basic Economy)
+LAX,2027-01-27,JetBlue,JFK,199,Main (main cabin; spot check)
+LAX,2027-01-27,United,EWR,214,Economy (main cabin; spot check)

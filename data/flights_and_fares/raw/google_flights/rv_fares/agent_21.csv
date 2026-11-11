@@ -1,0 +1,49 @@
+route,date,airline,airport,fare,fare_type
+LAX,2026-12-02,United,EWR,149,Basic Economy (0/0 carry-on)
+LAX,2026-12-02,JetBlue,EWR,none,
+LAX,2026-12-09,United,EWR,149,Basic Economy (0/0 carry-on)
+LAX,2026-12-09,JetBlue,EWR,none,
+LAX,2027-01-13,United,EWR,149,Basic Economy (0/0 carry-on)
+LAX,2027-01-13,JetBlue,EWR,none,
+LAX,2027-01-27,United,EWR,149,Basic Economy (0/0 carry-on)
+LAX,2027-01-27,JetBlue,EWR,none,
+LAX,2027-02-10,United,EWR,247,Basic Economy (0/0 carry-on)
+LAX,2027-02-10,JetBlue,EWR,none,
+LAX,2027-02-24,United,EWR,214,Basic Economy (0/0 carry-on)
+LAX,2027-02-24,JetBlue,EWR,none,
+TPA,2026-12-02,United,EWR,174,Basic Economy (0/0 carry-on)
+TPA,2026-12-02,JetBlue,EWR,none,
+TPA,2026-12-09,United,EWR,174,Basic Economy (0/0 carry-on)
+TPA,2026-12-09,JetBlue,EWR,none,
+TPA,2027-01-13,United,EWR,179,Basic Economy (0/0 carry-on)
+TPA,2027-01-13,JetBlue,EWR,none,
+TPA,2027-01-27,United,EWR,179,Basic Economy (0/0 carry-on)
+TPA,2027-01-27,JetBlue,EWR,none,
+TPA,2027-02-10,United,EWR,248,Basic Economy (0/0 carry-on)
+TPA,2027-02-10,JetBlue,EWR,none,
+TPA,2027-02-24,United,EWR,184,Basic Economy (0/0 carry-on)
+TPA,2027-02-24,JetBlue,EWR,none,
+RSW,2026-12-02,United,EWR,200,Basic Economy (0/0 carry-on)
+RSW,2026-12-02,JetBlue,EWR,none,
+RSW,2026-12-09,United,EWR,200,Basic Economy (0/0 carry-on)
+RSW,2026-12-09,JetBlue,EWR,none,
+RSW,2027-01-13,United,EWR,200,Basic Economy (0/0 carry-on)
+RSW,2027-01-13,JetBlue,EWR,none,
+RSW,2027-01-27,United,EWR,200,Basic Economy (0/0 carry-on)
+RSW,2027-01-27,JetBlue,EWR,none,
+RSW,2027-02-10,United,EWR,308,Basic Economy (0/0 carry-on)
+RSW,2027-02-10,JetBlue,EWR,none,
+RSW,2027-02-24,United,EWR,200,Basic Economy (0/0 carry-on)
+RSW,2027-02-24,JetBlue,EWR,none,
+LAS,2026-12-02,United,EWR,230,Basic Economy (0/0 carry-on)
+LAS,2026-12-02,JetBlue,EWR,none,
+LAS,2026-12-09,United,EWR,230,Basic Economy (0/0 carry-on)
+LAS,2026-12-09,JetBlue,EWR,none,
+LAS,2027-01-13,United,EWR,230,Basic Economy (0/0 carry-on)
+LAS,2027-01-13,JetBlue,EWR,none,
+LAS,2027-01-27,United,EWR,230,Basic Economy (0/0 carry-on)
+LAS,2027-01-27,JetBlue,EWR,none,
+LAS,2027-02-10,United,EWR,230,Basic Economy (0/0 carry-on)
+LAS,2027-02-10,JetBlue,EWR,none,
+LAS,2027-02-24,United,EWR,230,Basic Economy (0/0 carry-on)
+LAS,2027-02-24,JetBlue,EWR,none,

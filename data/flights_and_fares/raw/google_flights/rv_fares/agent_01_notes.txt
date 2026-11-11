@@ -1,0 +1,8 @@
+RSW|2026-12-02|ALL: American@LGA=119 Delta@LGA=119 JetBlue@JFK=179(1/0) United@EWR=200(0/0) Delta@JFK=229
+RSW|2026-12-09|ALL: American@LGA=119 Delta@LGA=119 JetBlue@JFK=179 Delta@JFK=179 United@EWR=200
+RSW|2027-01-13|ALL: JetBlue@JFK=184 Delta@JFK=184 United@EWR=200 Delta@LGA=204 American@LGA=219
+RSW|2027-01-27|ALL: JetBlue@JFK=184 Delta@JFK=184 United@EWR=200 Delta@LGA=204 American@LGA=219
+LAX|2027-02-03|ALL: JetBlue@JFK=144 United@EWR=149 Alaska@EWR=149 American@JFK=174 Delta@JFK=179
+LAX|2027-02-10|ALL: JetBlue@JFK=144 American@JFK=174 Alaska@EWR=234 United@EWR=247 Delta@JFK=439
+LAX|2027-02-24|ALL: Alaska@EWR=179 JetBlue@JFK=194 American@JFK=214 Delta@JFK=214 United@EWR=214
+LAX|2027-03-03|ALL: Alaska@EWR=179 JetBlue@JFK=194 American@JFK=214 Delta@JFK=214 United@EWR=214 (identical to 02-24; date confirmed Wed Mar 3)

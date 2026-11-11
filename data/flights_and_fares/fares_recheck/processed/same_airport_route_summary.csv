@@ -1,0 +1,5 @@
+route,n_dates,n_obs,mean_all,dropped_date,dropped_gap,gap_mean_ex_largest,rerun_gap_rounded,slide_gap,matches_slide
+BOS-LAX,8,38,4.5,2027-02-10,26,1.43,1,0,False
+BOS-SFO,8,70,6.25,2026-12-02,50,0.0,0,3,False
+FLL-SFO,8,38,0.0,2026-12-02,0,0.0,0,-2,False
+FLL-IAH,8,58,-27.5,2026-12-02,-30,-27.14,-27,-9,False

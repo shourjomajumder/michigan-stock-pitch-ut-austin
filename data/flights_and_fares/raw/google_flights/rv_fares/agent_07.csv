@@ -1,0 +1,29 @@
+route,date,airline,airport,fare,fare_type
+ORD,2026-12-02,JetBlue,none,,no nonstop
+ORD,2026-12-02,United,LGA,165,carry-on 0 / checked 0 (product not shown)
+ORD,2026-12-02,United,EWR,165,carry-on 0 / checked 0 (product not shown)
+ORD,2026-12-02,United Express,LGA,165,carry-on 0 / checked 0 (product not shown)
+ORD,2026-12-09,JetBlue,none,,no nonstop
+ORD,2026-12-09,United,LGA,165,carry-on 0 / checked 0 (product not shown)
+ORD,2026-12-09,United,EWR,165,carry-on 0 / checked 0 (product not shown)
+ORD,2026-12-09,United Express,LGA,165,carry-on 0 / checked 0 (product not shown)
+ORD,2027-01-13,JetBlue,none,,no nonstop
+ORD,2027-01-13,United,LGA,165,carry-on 0 / checked 0 (product not shown)
+ORD,2027-01-13,United,EWR,165,carry-on 0 / checked 0 (product not shown)
+ORD,2027-01-13,United Express,LGA,165,carry-on 0 / checked 0 (product not shown)
+ORD,2027-01-27,JetBlue,none,,no nonstop
+ORD,2027-01-27,United,LGA,165,carry-on 0 / checked 0 (product not shown)
+ORD,2027-01-27,United,EWR,165,carry-on 0 / checked 0 (product not shown)
+ORD,2027-01-27,United Express,LGA,165,carry-on 0 / checked 0 (product not shown)
+SJU,2027-02-03,JetBlue,EWR,99,carry-on 1 / checked 0 (product not shown)
+SJU,2027-02-03,JetBlue,JFK,104,carry-on 1 / checked 0 (product not shown)
+SJU,2027-02-03,United,EWR,194,carry-on 0 / checked 0 (product not shown)
+SJU,2027-02-10,JetBlue,EWR,99,carry-on 1 / checked 0 (product not shown)
+SJU,2027-02-10,JetBlue,JFK,229,carry-on 1 / checked 0 (product not shown)
+SJU,2027-02-10,United,EWR,263,carry-on 0 / checked 0 (product not shown)
+SJU,2027-02-24,JetBlue,JFK,225,carry-on 1 / checked 0 (product not shown)
+SJU,2027-02-24,JetBlue,EWR,225,carry-on 1 / checked 0 (product not shown)
+SJU,2027-02-24,United,EWR,225,carry-on 0 / checked 0 (product not shown)
+SJU,2027-03-03,JetBlue,JFK,225,carry-on 1 / checked 0 (product not shown)
+SJU,2027-03-03,JetBlue,EWR,225,carry-on 1 / checked 0 (product not shown)
+SJU,2027-03-03,United,EWR,225,carry-on 0 / checked 0 (product not shown)

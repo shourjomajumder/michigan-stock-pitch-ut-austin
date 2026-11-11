@@ -1,0 +1,8 @@
+# agent02 partial (Best-tab / Cheapest-tab lowest)
+BOS|2026-12-02|JetBlue@JFK–BOS=110(1/0) United@EWR–BOS=119(0/0)  best-tab JB119
+BOS|2026-12-09|JetBlue@JFK–BOS=113(1/0) United@EWR–BOS=119(0/0)  best-tab JB119
+BOS|2027-01-13|JetBlue@JFK–BOS=119(1/0) United@EWR–BOS=119(0/0)
+BOS|2027-01-27|JetBlue@JFK–BOS=118(1/0) United@EWR–BOS=119(0/0)  best-tab JB119
+SFO|2027-02-03|JetBlue@JFK–SFO=144(1/0) United@EWR–SFO=149(0/0)
+SFO|2027-02-10|JetBlue@JFK–SFO=144(1/0) United@EWR–SFO=149(0/0)
+SFO|2027-02-24|United@EWR–SFO=189(0/0) JetBlue@JFK–SFO=189(1/0)

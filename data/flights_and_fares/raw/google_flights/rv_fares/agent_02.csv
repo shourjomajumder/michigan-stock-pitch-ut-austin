@@ -1,0 +1,17 @@
+route,date,airline,airport,fare,fare_type
+BOS,2026-12-02,JetBlue,JFK,110,Blue Basic or Blue (not shown); 1 carry-on
+BOS,2026-12-02,United,EWR,119,likely Basic Economy (not shown); 0 carry-on
+BOS,2026-12-09,JetBlue,JFK,113,Blue Basic or Blue (not shown); 1 carry-on
+BOS,2026-12-09,United,EWR,119,likely Basic Economy (not shown); 0 carry-on
+BOS,2027-01-13,JetBlue,JFK,119,Blue Basic or Blue (not shown); 1 carry-on
+BOS,2027-01-13,United,EWR,119,likely Basic Economy (not shown); 0 carry-on
+BOS,2027-01-27,JetBlue,JFK,118,Blue Basic or Blue (not shown); 1 carry-on
+BOS,2027-01-27,United,EWR,119,likely Basic Economy (not shown); 0 carry-on
+SFO,2027-02-03,JetBlue,JFK,144,Blue Basic or Blue (not shown); 1 carry-on
+SFO,2027-02-03,United,EWR,149,likely Basic Economy (not shown); 0 carry-on
+SFO,2027-02-10,JetBlue,JFK,144,Blue Basic or Blue (not shown); 1 carry-on
+SFO,2027-02-10,United,EWR,149,likely Basic Economy (not shown); 0 carry-on
+SFO,2027-02-24,United,EWR,189,likely Basic Economy (not shown); 0 carry-on
+SFO,2027-02-24,JetBlue,JFK,189,Blue Basic or Blue (not shown); 1 carry-on
+SFO,2027-03-03,JetBlue,JFK,189,Blue Basic or Blue (not shown); 1 carry-on
+SFO,2027-03-03,United,EWR,189,likely Basic Economy (not shown); 0 carry-on

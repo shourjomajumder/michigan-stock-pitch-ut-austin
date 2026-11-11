@@ -1,0 +1,621 @@
+route,date,airline,airport,fare,fare_type,source_file,round
+LAX,2026-12-02,United,EWR,149,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2026-12-02,JetBlue,JFK,180,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SFO,2026-12-02,JetBlue,JFK,249,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SFO,2026-12-02,United,EWR,282,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAS,2026-12-02,JetBlue,JFK,174,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAS,2026-12-02,United,EWR,230,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2026-12-02,JetBlue,LGA,125,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2026-12-02,United,EWR,125,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2026-12-02,JetBlue,EWR,125,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2026-12-02,JetBlue,JFK,134,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2026-12-02,JetBlue,JFK,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2026-12-02,JetBlue,EWR,184,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2026-12-02,JetBlue,LGA,194,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2026-12-02,United,EWR,194,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+TPA,2026-12-02,JetBlue,JFK,174,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+TPA,2026-12-02,United,EWR,174,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2026-12-02,JetBlue,LGA,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2026-12-02,JetBlue,JFK,149,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2026-12-02,United,EWR,224,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2026-12-02,JetBlue,EWR,229,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2026-12-02,United,EWR,194,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2026-12-02,JetBlue,JFK,229,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2026-12-02,JetBlue,EWR,274,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2026-12-02,JetBlue,JFK,139,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2026-12-02,United,LGA,139,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2026-12-02,United,EWR,354,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PHX,2026-12-02,United,EWR,169,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PHX,2026-12-02,JetBlue,JFK,187,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RDU,2026-12-02,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RDU,2026-12-02,United,EWR,144,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SAN,2026-12-02,United,EWR,219,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SAN,2026-12-02,JetBlue,JFK,246,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2026-12-09,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2026-12-09,United,EWR,149,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SFO,2026-12-09,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SFO,2026-12-09,United,EWR,149,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAS,2026-12-09,JetBlue,JFK,174,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAS,2026-12-09,United,EWR,230,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2026-12-09,JetBlue,LGA,125,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2026-12-09,United,EWR,125,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2026-12-09,JetBlue,JFK,134,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2026-12-09,JetBlue,EWR,249,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2026-12-09,JetBlue,LGA,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2026-12-09,JetBlue,JFK,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2026-12-09,JetBlue,EWR,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2026-12-09,United,EWR,179,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+TPA,2026-12-09,United,EWR,174,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+TPA,2026-12-09,JetBlue,JFK,279,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2026-12-09,JetBlue,LGA,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2026-12-09,United,EWR,144,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2026-12-09,JetBlue,EWR,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2026-12-09,JetBlue,JFK,149,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2026-12-09,JetBlue,EWR,99,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2026-12-09,JetBlue,JFK,104,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2026-12-09,United,EWR,194,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2026-12-09,United,LGA,139,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2026-12-09,JetBlue,JFK,139,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2026-12-09,United,EWR,354,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PHX,2026-12-09,United,EWR,203,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PHX,2026-12-09,JetBlue,JFK,214,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RDU,2026-12-09,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RDU,2026-12-09,United,EWR,144,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SAN,2026-12-09,JetBlue,JFK,154,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SAN,2026-12-09,United,EWR,154,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2027-01-13,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2027-01-13,United,EWR,149,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SFO,2027-01-13,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SFO,2027-01-13,United,EWR,149,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAS,2027-01-13,JetBlue,JFK,174,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAS,2027-01-13,United,EWR,230,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2027-01-13,JetBlue,LGA,105,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2027-01-13,United,EWR,105,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2027-01-13,JetBlue,JFK,134,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2027-01-13,JetBlue,EWR,359,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2027-01-13,JetBlue,LGA,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2027-01-13,JetBlue,EWR,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2027-01-13,United,EWR,179,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2027-01-13,JetBlue,JFK,184,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+TPA,2027-01-13,JetBlue,JFK,179,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+TPA,2027-01-13,United,EWR,179,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2027-01-13,JetBlue,LGA,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2027-01-13,JetBlue,EWR,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2027-01-13,JetBlue,JFK,149,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2027-01-13,United,EWR,150,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2027-01-13,JetBlue,EWR,99,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2027-01-13,JetBlue,JFK,104,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2027-01-13,United,EWR,194,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2027-01-13,JetBlue,JFK,139,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2027-01-13,United,LGA,139,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2027-01-13,United,EWR,354,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PHX,2027-01-13,JetBlue,JFK,169,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PHX,2027-01-13,United,EWR,169,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RDU,2027-01-13,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RDU,2027-01-13,United,EWR,144,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SAN,2027-01-13,JetBlue,JFK,154,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SAN,2027-01-13,United,EWR,154,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2027-01-27,JetBlue,JFK,144,Main Base,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2027-01-27,United,EWR,149,Basic Economy,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SFO,2027-01-27,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SFO,2027-01-27,United,EWR,149,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAS,2027-01-27,JetBlue,JFK,174,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAS,2027-01-27,United,EWR,230,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2027-01-27,United,EWR,117,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2027-01-27,JetBlue,JFK,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2027-01-27,JetBlue,LGA,254,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+MCO,2027-01-27,JetBlue,EWR,274,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2027-01-27,JetBlue,LGA,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2027-01-27,JetBlue,EWR,179,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2027-01-27,United,EWR,179,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+FLL,2027-01-27,JetBlue,JFK,184,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+TPA,2027-01-27,JetBlue,JFK,179,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+TPA,2027-01-27,United,EWR,179,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2027-01-27,JetBlue,LGA,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2027-01-27,JetBlue,EWR,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2027-01-27,JetBlue,JFK,149,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PBI,2027-01-27,United,EWR,149,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2027-01-27,JetBlue,EWR,99,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2027-01-27,JetBlue,JFK,104,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SJU,2027-01-27,United,EWR,194,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2027-01-27,JetBlue,JFK,139,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2027-01-27,United,LGA,139,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+DEN,2027-01-27,United,EWR,354,lowest posted; bag icons not parsed,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PHX,2027-01-27,JetBlue,JFK,169,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+PHX,2027-01-27,United,EWR,169,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RDU,2027-01-27,JetBlue,JFK,144,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RDU,2027-01-27,United,EWR,144,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SAN,2027-01-27,JetBlue,JFK,154,lowest posted; 1 carry-on incl.,raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+SAN,2027-01-27,United,EWR,154,lowest posted; no carry-on (Basic Economy),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2027-01-27,JetBlue,JFK,199,Main (main cabin; spot check),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+LAX,2027-01-27,United,EWR,214,Economy (main cabin; spot check),raw/google_flights/t1s2/live_jfk_ewr.csv,round1_12_routes
+RSW,2026-12-02,JetBlue,JFK,179,lowest shown; carry-on included,raw/google_flights/rv_fares/agent_01.csv,round2_agents
+RSW,2026-12-02,United,EWR,200,lowest shown; no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_01.csv,round2_agents
+RSW,2026-12-09,JetBlue,JFK,179,lowest shown; carry-on included,raw/google_flights/rv_fares/agent_01.csv,round2_agents
+RSW,2026-12-09,United,EWR,200,lowest shown; no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_01.csv,round2_agents
+RSW,2027-01-13,JetBlue,JFK,184,lowest shown; carry-on included,raw/google_flights/rv_fares/agent_01.csv,round2_agents
+RSW,2027-01-13,United,EWR,200,lowest shown; no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_01.csv,round2_agents
+RSW,2027-01-27,JetBlue,JFK,184,lowest shown; carry-on included,raw/google_flights/rv_fares/agent_01.csv,round2_agents
+RSW,2027-01-27,United,EWR,200,lowest shown; no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_01.csv,round2_agents
+LAX,2027-02-03,JetBlue,JFK,144,lowest shown; carry-on included,raw/google_flights/rv_fares/agent_01.csv,round2_agents
+LAX,2027-02-03,United,EWR,149,lowest shown; no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_01.csv,round2_agents
+LAX,2027-02-10,JetBlue,JFK,144,lowest shown; carry-on included,raw/google_flights/rv_fares/agent_01.csv,round2_agents
+LAX,2027-02-10,United,EWR,247,lowest shown; no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_01.csv,round2_agents
+LAX,2027-02-24,JetBlue,JFK,194,lowest shown; carry-on included,raw/google_flights/rv_fares/agent_01.csv,round2_agents
+LAX,2027-02-24,United,EWR,214,lowest shown; no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_01.csv,round2_agents
+LAX,2027-03-03,JetBlue,JFK,194,lowest shown; carry-on included,raw/google_flights/rv_fares/agent_01.csv,round2_agents
+LAX,2027-03-03,United,EWR,214,lowest shown; no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_01.csv,round2_agents
+BOS,2026-12-02,JetBlue,JFK,110,Blue Basic or Blue (not shown); 1 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+BOS,2026-12-02,United,EWR,119,likely Basic Economy (not shown); 0 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+BOS,2026-12-09,JetBlue,JFK,113,Blue Basic or Blue (not shown); 1 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+BOS,2026-12-09,United,EWR,119,likely Basic Economy (not shown); 0 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+BOS,2027-01-13,JetBlue,JFK,119,Blue Basic or Blue (not shown); 1 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+BOS,2027-01-13,United,EWR,119,likely Basic Economy (not shown); 0 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+BOS,2027-01-27,JetBlue,JFK,118,Blue Basic or Blue (not shown); 1 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+BOS,2027-01-27,United,EWR,119,likely Basic Economy (not shown); 0 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+SFO,2027-02-03,JetBlue,JFK,144,Blue Basic or Blue (not shown); 1 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+SFO,2027-02-03,United,EWR,149,likely Basic Economy (not shown); 0 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+SFO,2027-02-10,JetBlue,JFK,144,Blue Basic or Blue (not shown); 1 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+SFO,2027-02-10,United,EWR,149,likely Basic Economy (not shown); 0 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+SFO,2027-02-24,United,EWR,189,likely Basic Economy (not shown); 0 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+SFO,2027-02-24,JetBlue,JFK,189,Blue Basic or Blue (not shown); 1 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+SFO,2027-03-03,JetBlue,JFK,189,Blue Basic or Blue (not shown); 1 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+SFO,2027-03-03,United,EWR,189,likely Basic Economy (not shown); 0 carry-on,raw/google_flights/rv_fares/agent_02.csv,round2_agents
+ATL,2026-12-02,JetBlue,JFK,109,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+ATL,2026-12-02,United,EWR,109,no carry-on (likely Basic Economy; product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+ATL,2026-12-09,JetBlue,JFK,109,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+ATL,2026-12-09,United,EWR,109,no carry-on (likely Basic Economy; product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+ATL,2027-01-13,JetBlue,JFK,109,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+ATL,2027-01-13,United,EWR,109,no carry-on (likely Basic Economy; product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+ATL,2027-01-27,JetBlue,JFK,109,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+ATL,2027-01-27,United,EWR,109,no carry-on (likely Basic Economy; product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-03,JetBlue,LGA,105,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-03,JetBlue,EWR,105,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-03,JetBlue,JFK,134,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-03,United,EWR,151,no carry-on (likely Basic Economy; product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-10,JetBlue,JFK,134,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-10,JetBlue,LGA,199,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-10,JetBlue,EWR,409,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-10,United,EWR,181,no carry-on (likely Basic Economy; product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-24,JetBlue,EWR,119,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-24,United,EWR,119,no carry-on (likely Basic Economy; product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-24,JetBlue,LGA,160,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-02-24,JetBlue,JFK,224,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-03-03,JetBlue,EWR,119,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-03-03,United,EWR,135,no carry-on (likely Basic Economy; product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-03-03,JetBlue,LGA,160,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+MCO,2027-03-03,JetBlue,JFK,224,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_03.csv,round2_agents
+JAX,2026-12-02,JetBlue,JFK,154,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+JAX,2026-12-02,United,EWR,154,lowest shown (no carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+JAX,2026-12-09,JetBlue,JFK,154,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+JAX,2026-12-09,United,EWR,154,lowest shown (no carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+JAX,2027-01-13,JetBlue,JFK,154,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+JAX,2027-01-13,United,EWR,154,lowest shown (no carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+JAX,2027-01-27,JetBlue,JFK,154,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+JAX,2027-01-27,United,EWR,154,lowest shown (no carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-03,JetBlue,LGA,179,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-03,JetBlue,EWR,179,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-03,JetBlue,JFK,184,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-03,United,EWR,179,lowest shown (no carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-10,JetBlue,LGA,179,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-10,JetBlue,JFK,184,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-10,JetBlue,EWR,254,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-10,United,EWR,279,lowest shown (no carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-24,JetBlue,LGA,179,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-24,JetBlue,EWR,179,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-24,JetBlue,JFK,229,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-02-24,United,EWR,179,lowest shown (no carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-03-03,JetBlue,LGA,179,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-03-03,JetBlue,EWR,179,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-03-03,JetBlue,JFK,229,lowest shown (1 carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+FLL,2027-03-03,United,EWR,179,lowest shown (no carry-on); product not checked,raw/google_flights/rv_fares/agent_04.csv,round2_agents
+BQN,2026-12-02,JetBlue,JFK,285,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+BQN,2026-12-02,United,EWR,277,no carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+BQN,2026-12-09,JetBlue,JFK,199,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+BQN,2026-12-09,United,EWR,203,no carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+BQN,2027-01-13,JetBlue,JFK,220,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+BQN,2027-01-13,United,EWR,203,no carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+BQN,2027-01-27,JetBlue,JFK,174,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+BQN,2027-01-27,United,EWR,203,no carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+TPA,2027-02-03,JetBlue,JFK,179,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+TPA,2027-02-03,United,EWR,179,no carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+TPA,2027-02-10,JetBlue,JFK,179,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+TPA,2027-02-10,United,EWR,248,no carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+TPA,2027-02-24,JetBlue,JFK,184,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+TPA,2027-02-24,United,EWR,184,no carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+TPA,2027-03-03,JetBlue,JFK,184,1 carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+TPA,2027-03-03,United,EWR,184,no carry-on (product not shown),raw/google_flights/rv_fares/agent_05.csv,round2_agents
+CHS,2026-12-02,JetBlue,JFK,124,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+CHS,2026-12-02,United,EWR,124,"United lowest (no carry-on; Basic Economy inferred, label not shown)",raw/google_flights/rv_fares/agent_06.csv,round2_agents
+CHS,2026-12-09,JetBlue,JFK,124,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+CHS,2026-12-09,United,EWR,124,"United lowest (no carry-on; Basic Economy inferred, label not shown)",raw/google_flights/rv_fares/agent_06.csv,round2_agents
+CHS,2027-01-13,JetBlue,JFK,124,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+CHS,2027-01-13,United,EWR,124,"United lowest (no carry-on; Basic Economy inferred, label not shown)",raw/google_flights/rv_fares/agent_06.csv,round2_agents
+CHS,2027-01-27,JetBlue,JFK,124,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+CHS,2027-01-27,United,EWR,124,"United lowest (no carry-on; Basic Economy inferred, label not shown)",raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-03,JetBlue,LGA,144,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-03,JetBlue,EWR,144,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-03,JetBlue,JFK,149,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-03,United,EWR,150,"United lowest (no carry-on; Basic Economy inferred, label not shown)",raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-10,JetBlue,LGA,199,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-10,JetBlue,JFK,204,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-10,JetBlue,EWR,264,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-10,United,EWR,318,"United lowest (no carry-on; Basic Economy inferred, label not shown)",raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-24,JetBlue,LGA,174,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-24,United,EWR,174,"United lowest (no carry-on; Basic Economy inferred, label not shown)",raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-24,JetBlue,JFK,174,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-02-24,JetBlue,EWR,174,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-03-03,JetBlue,LGA,174,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-03-03,United,EWR,174,"United lowest (no carry-on; Basic Economy inferred, label not shown)",raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-03-03,JetBlue,JFK,174,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+PBI,2027-03-03,JetBlue,EWR,174,JetBlue lowest (1 carry-on incl.; product label not shown),raw/google_flights/rv_fares/agent_06.csv,round2_agents
+ORD,2026-12-02,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2026-12-02,United,LGA,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2026-12-02,United,EWR,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2026-12-02,United Express,LGA,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2026-12-09,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2026-12-09,United,LGA,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2026-12-09,United,EWR,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2026-12-09,United Express,LGA,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2027-01-13,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2027-01-13,United,LGA,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2027-01-13,United,EWR,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2027-01-13,United Express,LGA,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2027-01-27,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2027-01-27,United,LGA,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2027-01-27,United,EWR,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+ORD,2027-01-27,United Express,LGA,165.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-03,JetBlue,EWR,99.0,carry-on 1 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-03,JetBlue,JFK,104.0,carry-on 1 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-03,United,EWR,194.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-10,JetBlue,EWR,99.0,carry-on 1 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-10,JetBlue,JFK,229.0,carry-on 1 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-10,United,EWR,263.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-24,JetBlue,JFK,225.0,carry-on 1 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-24,JetBlue,EWR,225.0,carry-on 1 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-02-24,United,EWR,225.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-03-03,JetBlue,JFK,225.0,carry-on 1 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-03-03,JetBlue,EWR,225.0,carry-on 1 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+SJU,2027-03-03,United,EWR,225.0,carry-on 0 / checked 0 (product not shown),raw/google_flights/rv_fares/agent_07.csv,round2_agents
+BNA,2026-12-02,JetBlue,none,,,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2026-12-02,United,EWR,149.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2026-12-02,United Express,EWR,149.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2026-12-09,JetBlue,none,,,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2026-12-09,United,EWR,149.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2026-12-09,United Express,EWR,200.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2027-01-13,JetBlue,none,,,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2027-01-13,United,EWR,149.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2027-01-27,JetBlue,none,,,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+BNA,2027-01-27,United,EWR,149.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-03,JetBlue,JFK,139.0,1 carry-on (Blue Basic not shown),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-03,United,LGA,139.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-03,United,EWR,354.0,no carry-on,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-10,JetBlue,JFK,139.0,1 carry-on,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-10,United,LGA,203.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-10,United,EWR,354.0,no carry-on,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-24,JetBlue,JFK,164.0,1 carry-on,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-24,United,LGA,164.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-02-24,United,EWR,354.0,no carry-on,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-03-03,JetBlue,JFK,164.0,1 carry-on,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-03-03,United,LGA,164.0,no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_08.csv,round2_agents
+DEN,2027-03-03,United,EWR,354.0,no carry-on,raw/google_flights/rv_fares/agent_08.csv,round2_agents
+SAV,2026-12-02,JetBlue,JFK,134,product not shown; carry-on 1,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+SAV,2026-12-02,United,EWR,190,product not shown; carry-on 0,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+SAV,2026-12-09,JetBlue,JFK,134,product not shown; carry-on 1,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+SAV,2026-12-09,United,EWR,190,product not shown; carry-on 0,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+SAV,2027-01-13,JetBlue,none,none,no nonstop,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+SAV,2027-01-13,United,EWR,190,product not shown; carry-on 0,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+SAV,2027-01-27,JetBlue,none,none,no nonstop,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+SAV,2027-01-27,United,EWR,190,product not shown; carry-on 0,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+PHX,2027-02-03,JetBlue,JFK,169,product not shown; carry-on 1,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+PHX,2027-02-03,United,EWR,219,product not shown; carry-on 0,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+PHX,2027-02-10,JetBlue,JFK,169,product not shown; carry-on 1,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+PHX,2027-02-10,United,EWR,219,product not shown; carry-on 0,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+PHX,2027-02-24,JetBlue,JFK,199,product not shown; carry-on 1,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+PHX,2027-02-24,United,EWR,199,product not shown; carry-on 0,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+PHX,2027-03-03,JetBlue,JFK,199,product not shown; carry-on 1,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+PHX,2027-03-03,United,EWR,199,product not shown; carry-on 0,raw/google_flights/rv_fares/agent_09.csv,round2_agents
+SLC,2026-12-02,United,EWR,154,carry-on 0/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+SLC,2026-12-02,JetBlue,JFK,154,carry-on 1/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+SLC,2026-12-09,United,EWR,154,carry-on 0/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+SLC,2026-12-09,JetBlue,JFK,154,carry-on 1/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+SLC,2027-01-13,JetBlue,JFK,234,carry-on 1/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+SLC,2027-01-13,United,EWR,252,carry-on 0/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+SLC,2027-01-27,United,EWR,209,carry-on 0/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+SLC,2027-01-27,JetBlue,JFK,234,carry-on 1/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+RDU,2027-02-03,JetBlue,JFK,144,carry-on 1/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+RDU,2027-02-03,United,EWR,144,carry-on 0/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+RDU,2027-02-10,JetBlue,JFK,144,carry-on 1/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+RDU,2027-02-10,United,EWR,144,carry-on 0/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+RDU,2027-02-24,JetBlue,JFK,164,carry-on 1/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+RDU,2027-02-24,United,EWR,164,carry-on 0/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+RDU,2027-03-03,JetBlue,JFK,164,carry-on 1/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+RDU,2027-03-03,United,EWR,164,carry-on 0/checked 0 (product not shown),raw/google_flights/rv_fares/agent_10.csv,round2_agents
+MSY,2026-12-02,United,EWR,134,"United lowest fare (0 carry-on, 0 checked; likely Basic Economy, product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+MSY,2026-12-02,JetBlue,JFK,143,"JetBlue lowest fare (1 carry-on, 0 checked; product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+MSY,2026-12-09,JetBlue,JFK,134,"JetBlue lowest fare (1 carry-on, 0 checked; product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+MSY,2026-12-09,United,EWR,134,"United lowest fare (0 carry-on, 0 checked; likely Basic Economy, product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+MSY,2027-01-13,United,EWR,134,"United lowest fare (0 carry-on, 0 checked; likely Basic Economy, product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+MSY,2027-01-13,JetBlue,JFK,134,"JetBlue lowest fare (1 carry-on, 0 checked; product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+MSY,2027-01-27,United,EWR,134,"United lowest fare (0 carry-on, 0 checked; likely Basic Economy, product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+MSY,2027-01-27,JetBlue,JFK,134,"JetBlue lowest fare (1 carry-on, 0 checked; product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SAN,2027-02-03,JetBlue,JFK,154,"JetBlue lowest fare (1 carry-on, 0 checked; product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SAN,2027-02-03,United,EWR,154,"United lowest fare (0 carry-on, 0 checked; likely Basic Economy, product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SAN,2027-02-10,JetBlue,JFK,154,"JetBlue lowest fare (1 carry-on, 0 checked; product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SAN,2027-02-10,United,EWR,154,"United lowest fare (0 carry-on, 0 checked; likely Basic Economy, product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SAN,2027-02-24,United,EWR,184,"United lowest fare (0 carry-on, 0 checked; likely Basic Economy, product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SAN,2027-02-24,JetBlue,JFK,194,"JetBlue lowest fare (1 carry-on, 0 checked; product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SAN,2027-03-03,United,EWR,184,"United lowest fare (0 carry-on, 0 checked; likely Basic Economy, product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SAN,2027-03-03,JetBlue,JFK,194,"JetBlue lowest fare (1 carry-on, 0 checked; product not shown)",raw/google_flights/rv_fares/agent_11.csv,round2_agents
+SRQ,2026-12-02,JetBlue,JFK,175,lowest shown; carry-on incl,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2026-12-02,United,EWR,200,lowest shown; no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2026-12-02,United Express,EWR,276,lowest shown; no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2026-12-09,JetBlue,JFK,159,lowest shown; carry-on incl,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2026-12-09,United,EWR,200,lowest shown; no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2026-12-09,United Express,EWR,251,lowest shown; no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2027-01-13,JetBlue,JFK,159,lowest shown; carry-on incl,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2027-01-13,United,EWR,200,lowest shown; no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2027-01-13,United Express,EWR,200,lowest shown; no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2027-01-27,JetBlue,JFK,159,lowest shown; carry-on incl,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2027-01-27,United,EWR,200,lowest shown; no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_12.csv,round2_agents
+SRQ,2027-01-27,United Express,EWR,200,lowest shown; no carry-on (likely Basic Economy),raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2026-12-02,JetBlue,JFK,254,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2026-12-02,United,EWR,305,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2026-12-02,JetBlue,EWR,323,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2026-12-09,JetBlue,JFK,323,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2026-12-09,JetBlue,EWR,323,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2026-12-09,United,EWR,354,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2027-01-13,JetBlue,JFK,137,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2027-01-13,United,EWR,220,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2027-01-13,JetBlue,EWR,258,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2027-01-27,JetBlue,JFK,137,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2027-01-27,JetBlue,EWR,141,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+STI,2027-01-27,United,EWR,209,not shown,raw/google_flights/rv_fares/agent_12.csv,round2_agents
+PWM,2026-12-02,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2026-12-02,United Express,EWR,119.0,no carry-on shown (likely Basic Economy),raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2026-12-02,United,EWR,119.0,no carry-on shown (likely Basic Economy),raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2026-12-09,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2026-12-09,United Express,EWR,119.0,no carry-on shown (likely Basic Economy),raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2026-12-09,United,EWR,119.0,no carry-on shown (likely Basic Economy),raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2027-01-13,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2027-01-13,United Express,EWR,119.0,no carry-on shown (likely Basic Economy),raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2027-01-27,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+PWM,2027-01-27,United Express,EWR,119.0,no carry-on shown (likely Basic Economy),raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SDQ,2026-12-02,JetBlue,JFK,296.0,not shown,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SDQ,2026-12-02,United,EWR,252.0,not shown,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SDQ,2026-12-09,JetBlue,JFK,296.0,not shown,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SDQ,2026-12-09,United,EWR,328.0,not shown,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SDQ,2027-01-13,JetBlue,JFK,140.0,not shown,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SDQ,2027-01-13,United,EWR,250.0,not shown,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SDQ,2027-01-27,JetBlue,JFK,140.0,not shown,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SDQ,2027-01-27,United,EWR,146.0,not shown,raw/google_flights/rv_fares/agent_13.csv,round2_agents
+SEA,2026-12-02,United,EWR,144.0,Basic Economy (no carry-on),raw/google_flights/rv_fares/agent_14.csv,round2_agents
+SEA,2026-12-02,JetBlue,none,,,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+SEA,2026-12-09,United,EWR,144.0,Basic Economy (no carry-on),raw/google_flights/rv_fares/agent_14.csv,round2_agents
+SEA,2026-12-09,JetBlue,none,,,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+SEA,2027-01-13,United,EWR,144.0,Basic Economy (no carry-on),raw/google_flights/rv_fares/agent_14.csv,round2_agents
+SEA,2027-01-13,JetBlue,none,,,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+SEA,2027-01-27,United,EWR,144.0,Basic Economy (no carry-on),raw/google_flights/rv_fares/agent_14.csv,round2_agents
+SEA,2027-01-27,JetBlue,none,,,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+PUJ,2026-12-02,United,EWR,269.0,not shown,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+PUJ,2026-12-02,JetBlue,JFK,274.0,not shown,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+PUJ,2026-12-09,United,EWR,269.0,not shown,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+PUJ,2026-12-09,JetBlue,JFK,274.0,not shown,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+PUJ,2027-01-13,United,EWR,252.0,not shown,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+PUJ,2027-01-13,JetBlue,JFK,274.0,not shown,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+PUJ,2027-01-27,United,EWR,252.0,not shown,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+PUJ,2027-01-27,JetBlue,JFK,144.0,not shown,raw/google_flights/rv_fares/agent_14.csv,round2_agents
+SMF,2026-12-02,United,EWR,344.0,0 carry-on/0 checked (likely Basic Economy),raw/google_flights/rv_fares/agent_15.csv,round2_agents
+SMF,2026-12-02,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+SMF,2026-12-09,United,EWR,344.0,0 carry-on/0 checked (likely Basic Economy),raw/google_flights/rv_fares/agent_15.csv,round2_agents
+SMF,2026-12-09,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+SMF,2027-01-13,United,none,,no nonstop,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+SMF,2027-01-13,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+SMF,2027-01-27,United,none,,no nonstop,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+SMF,2027-01-27,JetBlue,none,,no nonstop,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+CUN,2026-12-02,JetBlue,JFK,268.0,not shown,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+CUN,2026-12-02,United,EWR,332.0,not shown,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+CUN,2026-12-09,JetBlue,JFK,211.0,not shown,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+CUN,2026-12-09,United,EWR,221.0,not shown,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+CUN,2027-01-13,JetBlue,JFK,211.0,not shown,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+CUN,2027-01-13,United,EWR,254.0,not shown,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+CUN,2027-01-27,JetBlue,JFK,300.0,not shown,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+CUN,2027-01-27,United,EWR,221.0,not shown,raw/google_flights/rv_fares/agent_15.csv,round2_agents
+IAH,2026-12-02,JetBlue,JFK,144,lowest shown; 1 carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2026-12-02,United,LGA,144,lowest shown; no carry-on (Basic),raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2026-12-02,United Express,LGA,144,lowest shown; no carry-on (Basic),raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2026-12-02,United,EWR,334,lowest shown; no carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2026-12-09,JetBlue,JFK,144,lowest shown; 1 carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2026-12-09,United Express,LGA,144,lowest shown; no carry-on (Basic),raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2026-12-09,United,LGA,199,lowest shown; no carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2026-12-09,United,EWR,334,lowest shown; no carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2027-01-13,JetBlue,JFK,139,lowest shown; 1 carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2027-01-13,United,LGA,139,lowest shown; no carry-on (Basic),raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2027-01-13,United Express,LGA,139,lowest shown; no carry-on (Basic),raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2027-01-13,United,EWR,334,lowest shown; no carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2027-01-27,JetBlue,JFK,139,lowest shown; 1 carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2027-01-27,United,LGA,139,lowest shown; no carry-on (Basic),raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2027-01-27,United Express,LGA,139,lowest shown; no carry-on (Basic),raw/google_flights/rv_fares/agent_16.csv,round2_agents
+IAH,2027-01-27,United,EWR,334,lowest shown; no carry-on,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+AUA,2026-12-02,JetBlue,JFK,284,product/bags not shown,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+AUA,2026-12-02,United,EWR,296,product/bags not shown,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+AUA,2026-12-09,JetBlue,JFK,104,product/bags not shown,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+AUA,2026-12-09,United,EWR,205,product/bags not shown,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+AUA,2027-01-13,JetBlue,JFK,104,product/bags not shown,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+AUA,2027-01-13,United,EWR,189,product/bags not shown,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+AUA,2027-01-27,JetBlue,JFK,104,product/bags not shown,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+AUA,2027-01-27,United,EWR,104,product/bags not shown,raw/google_flights/rv_fares/agent_16.csv,round2_agents
+BZN,2026-12-02,JetBlue,none,,,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+BZN,2026-12-02,United,none,,,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+BZN,2026-12-09,JetBlue,none,,,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+BZN,2026-12-09,United,none,,,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+BZN,2027-01-13,JetBlue,none,,,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+BZN,2027-01-13,United,EWR,205.0,no carry-on (0/0; likely Basic Economy),raw/google_flights/rv_fares/agent_17.csv,round2_agents
+BZN,2027-01-27,JetBlue,none,,,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+BZN,2027-01-27,United,EWR,205.0,no carry-on (0/0; likely Basic Economy),raw/google_flights/rv_fares/agent_17.csv,round2_agents
+MBJ,2026-12-02,JetBlue,JFK,362.0,not shown,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+MBJ,2026-12-02,United,EWR,356.0,not shown,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+MBJ,2026-12-09,JetBlue,JFK,312.0,not shown,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+MBJ,2026-12-09,United,EWR,336.0,not shown,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+MBJ,2027-01-13,JetBlue,JFK,144.0,not shown,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+MBJ,2027-01-13,United,EWR,155.0,not shown,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+MBJ,2027-01-27,JetBlue,JFK,144.0,not shown,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+MBJ,2027-01-27,United,EWR,205.0,not shown,raw/google_flights/rv_fares/agent_17.csv,round2_agents
+CLE,2026-12-02,JetBlue,JFK,89,1 carry-on (likely Blue Basic not shown),raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2026-12-02,United,EWR,89,no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2026-12-09,JetBlue,JFK,89,1 carry-on,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2026-12-09,United,EWR,89,no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2027-01-13,JetBlue,JFK,89,1 carry-on,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2027-01-13,United,EWR,89,no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2027-01-13,United Express,EWR,89,no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2027-01-27,JetBlue,JFK,89,1 carry-on,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2027-01-27,United,EWR,89,no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_18.csv,round2_agents
+CLE,2027-01-27,United Express,EWR,89,no carry-on (Basic Economy),raw/google_flights/rv_fares/agent_18.csv,round2_agents
+SXM,2026-12-02,JetBlue,JFK,94,not shown,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+SXM,2026-12-02,United,EWR,283,not shown,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+SXM,2026-12-09,JetBlue,JFK,94,not shown,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+SXM,2026-12-09,United,EWR,124,not shown,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+SXM,2027-01-13,JetBlue,JFK,94,not shown,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+SXM,2027-01-13,United,EWR,91,not shown,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+SXM,2027-01-27,JetBlue,JFK,94,not shown,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+SXM,2027-01-27,United,EWR,210,not shown,raw/google_flights/rv_fares/agent_18.csv,round2_agents
+LHR,2026-12-02,JetBlue,JFK,373,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+LHR,2026-12-02,United,EWR,300,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+LHR,2026-12-09,JetBlue,JFK,373,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+LHR,2026-12-09,United,EWR,300,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+LHR,2027-01-13,JetBlue,JFK,249,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+LHR,2027-01-13,United,EWR,300,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+LHR,2027-01-27,JetBlue,JFK,249,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+LHR,2027-01-27,United,EWR,300,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+NAS,2026-12-02,JetBlue,JFK,94,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+NAS,2026-12-02,United,EWR,104,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+NAS,2026-12-09,JetBlue,JFK,94,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+NAS,2026-12-09,United,EWR,104,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+NAS,2027-01-13,JetBlue,JFK,94,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+NAS,2027-01-13,United,EWR,104,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+NAS,2027-01-27,JetBlue,JFK,94,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+NAS,2027-01-27,United,EWR,104,not shown,raw/google_flights/rv_fares/agent_19.csv,round2_agents
+PLS,2026-12-02,United,EWR,357,no overhead bin (Google note; Basic Economy),raw/google_flights/rv_fares/agent_20.csv,round2_agents
+PLS,2026-12-02,JetBlue,JFK,384,carry-on included,raw/google_flights/rv_fares/agent_20.csv,round2_agents
+PLS,2026-12-09,United,EWR,114,no overhead bin (Google note; Basic Economy),raw/google_flights/rv_fares/agent_20.csv,round2_agents
+PLS,2026-12-09,JetBlue,JFK,114,carry-on included,raw/google_flights/rv_fares/agent_20.csv,round2_agents
+PLS,2027-01-13,United,EWR,158,no overhead bin (Google note; Basic Economy),raw/google_flights/rv_fares/agent_20.csv,round2_agents
+PLS,2027-01-13,JetBlue,JFK,217,carry-on included,raw/google_flights/rv_fares/agent_20.csv,round2_agents
+PLS,2027-01-27,JetBlue,JFK,114,carry-on included,raw/google_flights/rv_fares/agent_20.csv,round2_agents
+PLS,2027-01-27,United,EWR,293,no overhead bin (Google note; Basic Economy),raw/google_flights/rv_fares/agent_20.csv,round2_agents
+SJO,2026-12-02,United,EWR,283,no overhead bin (Google note; Basic Economy),raw/google_flights/rv_fares/agent_20.csv,round2_agents
+SJO,2026-12-02,JetBlue,JFK,491,carry-on included,raw/google_flights/rv_fares/agent_20.csv,round2_agents
+SJO,2026-12-09,United,EWR,358,no overhead bin (Google note; Basic Economy),raw/google_flights/rv_fares/agent_20.csv,round2_agents
+SJO,2026-12-09,JetBlue,JFK,476,carry-on included,raw/google_flights/rv_fares/agent_20.csv,round2_agents
+SJO,2027-01-13,United,EWR,239,no overhead bin (Google note; Basic Economy),raw/google_flights/rv_fares/agent_20.csv,round2_agents
+SJO,2027-01-13,JetBlue,JFK,239,carry-on included,raw/google_flights/rv_fares/agent_20.csv,round2_agents
+SJO,2027-01-27,United,EWR,239,no overhead bin (Google note; Basic Economy),raw/google_flights/rv_fares/agent_20.csv,round2_agents
+SJO,2027-01-27,JetBlue,JFK,239,carry-on included,raw/google_flights/rv_fares/agent_20.csv,round2_agents
+LAX,2026-12-02,United,EWR,149,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2026-12-02,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2026-12-09,United,EWR,149,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2026-12-09,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2027-01-13,United,EWR,149,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2027-01-13,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2027-01-27,United,EWR,149,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2027-01-27,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2027-02-10,United,EWR,247,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2027-02-10,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2027-02-24,United,EWR,214,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAX,2027-02-24,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2026-12-02,United,EWR,174,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2026-12-02,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2026-12-09,United,EWR,174,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2026-12-09,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2027-01-13,United,EWR,179,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2027-01-13,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2027-01-27,United,EWR,179,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2027-01-27,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2027-02-10,United,EWR,248,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2027-02-10,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2027-02-24,United,EWR,184,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+TPA,2027-02-24,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2026-12-02,United,EWR,200,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2026-12-02,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2026-12-09,United,EWR,200,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2026-12-09,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2027-01-13,United,EWR,200,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2027-01-13,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2027-01-27,United,EWR,200,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2027-01-27,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2027-02-10,United,EWR,308,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2027-02-10,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2027-02-24,United,EWR,200,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+RSW,2027-02-24,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2026-12-02,United,EWR,230,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2026-12-02,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2026-12-09,United,EWR,230,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2026-12-09,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2027-01-13,United,EWR,230,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2027-01-13,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2027-01-27,United,EWR,230,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2027-01-27,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2027-02-10,United,EWR,230,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2027-02-10,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2027-02-24,United,EWR,230,Basic Economy (0/0 carry-on),raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+LAS,2027-02-24,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_21.csv,same_airport_ewr
+STI,2026-12-02,JetBlue,EWR,323,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2026-12-02,United,EWR,305,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2026-12-09,JetBlue,EWR,323,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2026-12-09,United,EWR,354,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2027-01-13,JetBlue,EWR,258,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2027-01-13,United,EWR,220,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2027-01-27,JetBlue,EWR,141,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2027-01-27,United,EWR,209,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2027-02-10,JetBlue,EWR,258,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2027-02-10,United,EWR,303,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2027-02-24,JetBlue,EWR,231,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+STI,2027-02-24,United,EWR,301,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2026-12-02,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2026-12-02,United,EWR,269,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2026-12-09,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2026-12-09,United,EWR,269,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2027-01-13,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2027-01-13,United,EWR,252,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2027-01-27,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2027-01-27,United,EWR,252,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2027-02-10,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2027-02-10,United,EWR,509,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2027-02-24,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+PUJ,2027-02-24,United,EWR,309,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2026-12-02,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2026-12-02,United,EWR,332,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2026-12-09,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2026-12-09,United,EWR,221,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2027-01-13,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2027-01-13,United,EWR,254,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2027-01-27,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2027-01-27,United,EWR,221,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2027-02-10,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2027-02-10,United,EWR,376,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2027-02-24,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+CUN,2027-02-24,United,EWR,249,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2026-12-02,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2026-12-02,United,EWR,296,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2026-12-09,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2026-12-09,United,EWR,205,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2027-01-13,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2027-01-13,United,EWR,189,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2027-01-27,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2027-01-27,United,EWR,104,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2027-02-10,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2027-02-10,United,EWR,268,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2027-02-24,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+AUA,2027-02-24,United,EWR,133,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2026-12-02,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2026-12-02,United,EWR,303,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2026-12-09,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2026-12-09,United,EWR,328,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2027-01-13,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2027-01-13,United,EWR,250,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2027-01-27,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2027-01-27,United,EWR,146,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2027-02-10,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2027-02-10,United,EWR,252,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2027-02-24,JetBlue,EWR,none,,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr
+SDQ,2027-02-24,United,EWR,292,unknown,raw/google_flights/rv_fares/agent_23.csv,same_airport_ewr

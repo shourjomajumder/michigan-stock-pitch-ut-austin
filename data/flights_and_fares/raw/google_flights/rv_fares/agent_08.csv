@@ -1,0 +1,23 @@
+route,date,airline,airport,fare,fare_type
+BNA,2026-12-02,JetBlue,none,,
+BNA,2026-12-02,United,EWR,149,no carry-on (likely Basic Economy)
+BNA,2026-12-02,United Express,EWR,149,no carry-on (likely Basic Economy)
+BNA,2026-12-09,JetBlue,none,,
+BNA,2026-12-09,United,EWR,149,no carry-on (likely Basic Economy)
+BNA,2026-12-09,United Express,EWR,200,no carry-on (likely Basic Economy)
+BNA,2027-01-13,JetBlue,none,,
+BNA,2027-01-13,United,EWR,149,no carry-on (likely Basic Economy)
+BNA,2027-01-27,JetBlue,none,,
+BNA,2027-01-27,United,EWR,149,no carry-on (likely Basic Economy)
+DEN,2027-02-03,JetBlue,JFK,139,1 carry-on (Blue Basic not shown)
+DEN,2027-02-03,United,LGA,139,no carry-on (likely Basic Economy)
+DEN,2027-02-03,United,EWR,354,no carry-on
+DEN,2027-02-10,JetBlue,JFK,139,1 carry-on
+DEN,2027-02-10,United,LGA,203,no carry-on (likely Basic Economy)
+DEN,2027-02-10,United,EWR,354,no carry-on
+DEN,2027-02-24,JetBlue,JFK,164,1 carry-on
+DEN,2027-02-24,United,LGA,164,no carry-on (likely Basic Economy)
+DEN,2027-02-24,United,EWR,354,no carry-on
+DEN,2027-03-03,JetBlue,JFK,164,1 carry-on
+DEN,2027-03-03,United,LGA,164,no carry-on (likely Basic Economy)
+DEN,2027-03-03,United,EWR,354,no carry-on

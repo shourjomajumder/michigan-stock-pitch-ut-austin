@@ -1,0 +1,17 @@
+route,date,airline,airport,fare,fare_type
+RSW,2026-12-02,JetBlue,JFK,179,lowest shown; carry-on included
+RSW,2026-12-02,United,EWR,200,lowest shown; no carry-on (Basic Economy)
+RSW,2026-12-09,JetBlue,JFK,179,lowest shown; carry-on included
+RSW,2026-12-09,United,EWR,200,lowest shown; no carry-on (Basic Economy)
+RSW,2027-01-13,JetBlue,JFK,184,lowest shown; carry-on included
+RSW,2027-01-13,United,EWR,200,lowest shown; no carry-on (Basic Economy)
+RSW,2027-01-27,JetBlue,JFK,184,lowest shown; carry-on included
+RSW,2027-01-27,United,EWR,200,lowest shown; no carry-on (Basic Economy)
+LAX,2027-02-03,JetBlue,JFK,144,lowest shown; carry-on included
+LAX,2027-02-03,United,EWR,149,lowest shown; no carry-on (Basic Economy)
+LAX,2027-02-10,JetBlue,JFK,144,lowest shown; carry-on included
+LAX,2027-02-10,United,EWR,247,lowest shown; no carry-on (Basic Economy)
+LAX,2027-02-24,JetBlue,JFK,194,lowest shown; carry-on included
+LAX,2027-02-24,United,EWR,214,lowest shown; no carry-on (Basic Economy)
+LAX,2027-03-03,JetBlue,JFK,194,lowest shown; carry-on included
+LAX,2027-03-03,United,EWR,214,lowest shown; no carry-on (Basic Economy)

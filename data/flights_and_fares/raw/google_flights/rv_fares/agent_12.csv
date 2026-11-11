@@ -1,0 +1,25 @@
+route,date,airline,airport,fare,fare_type
+SRQ,2026-12-02,JetBlue,JFK,175,lowest shown; carry-on incl
+SRQ,2026-12-02,United,EWR,200,lowest shown; no carry-on (likely Basic Economy)
+SRQ,2026-12-02,United Express,EWR,276,lowest shown; no carry-on (likely Basic Economy)
+SRQ,2026-12-09,JetBlue,JFK,159,lowest shown; carry-on incl
+SRQ,2026-12-09,United,EWR,200,lowest shown; no carry-on (likely Basic Economy)
+SRQ,2026-12-09,United Express,EWR,251,lowest shown; no carry-on (likely Basic Economy)
+SRQ,2027-01-13,JetBlue,JFK,159,lowest shown; carry-on incl
+SRQ,2027-01-13,United,EWR,200,lowest shown; no carry-on (likely Basic Economy)
+SRQ,2027-01-13,United Express,EWR,200,lowest shown; no carry-on (likely Basic Economy)
+SRQ,2027-01-27,JetBlue,JFK,159,lowest shown; carry-on incl
+SRQ,2027-01-27,United,EWR,200,lowest shown; no carry-on (likely Basic Economy)
+SRQ,2027-01-27,United Express,EWR,200,lowest shown; no carry-on (likely Basic Economy)
+STI,2026-12-02,JetBlue,JFK,254,not shown
+STI,2026-12-02,United,EWR,305,not shown
+STI,2026-12-02,JetBlue,EWR,323,not shown
+STI,2026-12-09,JetBlue,JFK,323,not shown
+STI,2026-12-09,JetBlue,EWR,323,not shown
+STI,2026-12-09,United,EWR,354,not shown
+STI,2027-01-13,JetBlue,JFK,137,not shown
+STI,2027-01-13,United,EWR,220,not shown
+STI,2027-01-13,JetBlue,EWR,258,not shown
+STI,2027-01-27,JetBlue,JFK,137,not shown
+STI,2027-01-27,JetBlue,EWR,141,not shown
+STI,2027-01-27,United,EWR,209,not shown

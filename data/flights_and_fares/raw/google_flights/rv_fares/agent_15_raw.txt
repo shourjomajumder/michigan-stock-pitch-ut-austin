@@ -1,0 +1,8 @@
+SMF|2026-12-02|United@EWR–SMF=344(0/0) JetBlue=none
+SMF|2026-12-09|United@EWR–SMF=344(0/0) JetBlue=none
+SMF|2027-01-13|United=none JetBlue=none
+SMF|2027-01-27|United=none JetBlue=none
+CUN|2026-12-02|JetBlue@JFK–CUN=268(?) United@EWR–CUN=332(?)
+CUN|2026-12-09|JetBlue@JFK–CUN=211(?) United@EWR–CUN=221(?)
+CUN|2027-01-13|JetBlue@JFK–CUN=211(?) United@EWR–CUN=254(?)
+CUN|2027-01-27|United@EWR–CUN=221(?) JetBlue@JFK–CUN=300(?)

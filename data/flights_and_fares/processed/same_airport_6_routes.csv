@@ -1,0 +1,7 @@
+route,jetblue_pax_t100_aug25_jul26,jetblue_pax_on_slide_k,gap_on_slide,live458_n,live458_mean,live458_median,live458_share_within_15,status,rebuilt_n_dates,rebuilt_gap,rebuilt_rounded
+BOS-LAX,462535,462.5,0,36,-0.47,0.0,0.75,"SLIDE VALUE, per-route quote set not found on disk; live458 columns give the closest file-based check",,,
+BOS-SFO,464206,464.2,3,36,6.56,0.0,0.778,"SLIDE VALUE, per-route quote set not found on disk; live458 columns give the closest file-based check",,,
+FLL-SFO,208271,208.3,-2,36,-33.22,0.0,0.778,"SLIDE VALUE, per-route quote set not found on disk; live458 columns give the closest file-based check",,,
+FLL-IAH,15220,15.2,-9,36,-1.47,-30.0,0.194,"SLIDE VALUE, per-route quote set not found on disk; live458 columns give the closest file-based check",,,
+EWR-FLL,276921,276.9,-1,36,1.72,0.0,0.944,"REBUILT from raw/google_flights (JetBlue EWR vs United EWR, mean after dropping largest-|gap| date)",8.0,-1.43,-1.0
+EWR-PBI,189149,188.8,-2,35,-2.69,0.0,0.771,"REBUILT from raw/google_flights (JetBlue EWR vs United EWR, mean after dropping largest-|gap| date)",8.0,-1.71,-2.0

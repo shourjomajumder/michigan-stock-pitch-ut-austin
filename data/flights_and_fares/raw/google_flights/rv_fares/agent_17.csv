@@ -1,0 +1,17 @@
+route,date,airline,airport,fare,fare_type
+BZN,2026-12-02,JetBlue,none,,
+BZN,2026-12-02,United,none,,
+BZN,2026-12-09,JetBlue,none,,
+BZN,2026-12-09,United,none,,
+BZN,2027-01-13,JetBlue,none,,
+BZN,2027-01-13,United,EWR,205,no carry-on (0/0; likely Basic Economy)
+BZN,2027-01-27,JetBlue,none,,
+BZN,2027-01-27,United,EWR,205,no carry-on (0/0; likely Basic Economy)
+MBJ,2026-12-02,JetBlue,JFK,362,not shown
+MBJ,2026-12-02,United,EWR,356,not shown
+MBJ,2026-12-09,JetBlue,JFK,312,not shown
+MBJ,2026-12-09,United,EWR,336,not shown
+MBJ,2027-01-13,JetBlue,JFK,144,not shown
+MBJ,2027-01-13,United,EWR,155,not shown
+MBJ,2027-01-27,JetBlue,JFK,144,not shown
+MBJ,2027-01-27,United,EWR,205,not shown

@@ -1,0 +1,105 @@
+type,dest,quarter_lbl,route_b6,role_b6,fare_b6,route_ua,role_ua,fare_ua,gap,within10
+JFK vs EWR,BOS,2024Q2,JFK-BOS,largest,149.14,EWR-BOS,largest,191.47,-42.33,False
+JFK vs EWR,BOS,2024Q2,LGA-BOS,lowest-fare,141.02,EWR-BOS,largest,191.47,-50.45,False
+JFK vs EWR,BOS,2024Q3,JFK-BOS,largest,127.2,EWR-BOS,largest,167.03,-39.83,False
+JFK vs EWR,BOS,2024Q3,LGA-BOS,lowest-fare,126.93,EWR-BOS,largest,167.03,-40.09,False
+JFK vs EWR,BOS,2024Q4,JFK-BOS,largest,135.07,EWR-BOS,largest,174.6,-39.53,False
+JFK vs EWR,BOS,2024Q4,LGA-BOS,lowest-fare,141.89,EWR-BOS,largest,174.6,-32.71,False
+JFK vs EWR,BOS,2025Q1,JFK-BOS,largest,177.91,EWR-BOS,largest,209.69,-31.78,False
+JFK vs EWR,BOS,2025Q1,LGA-BOS,lowest-fare,166.93,EWR-BOS,largest,209.69,-42.77,False
+JFK vs EWR,BOS,2025Q2,JFK-BOS,largest,178.34,EWR-BOS,largest,224.4,-46.06,False
+JFK vs EWR,BOS,2025Q3,JFK-BOS,largest,146.59,EWR-BOS,largest,205.43,-58.84,False
+JFK vs EWR,BOS,2025Q4,JFK-BOS,largest,125.54,EWR-BOS,largest,180.44,-54.9,False
+JFK vs EWR,BOS,2026Q1,JFK-BOS,largest,148.64,EWR-BOS,largest,198.47,-49.83,False
+JFK vs EWR,BUF,2025Q2,JFK-BUF,largest,128.22,EWR-BUF,largest,168.79,-40.57,False
+JFK vs EWR,BUF,2025Q3,JFK-BUF,largest,130.3,EWR-BUF,largest,197.48,-67.18,False
+JFK vs EWR,BUF,2025Q4,JFK-BUF,largest,129.76,EWR-BUF,largest,176.29,-46.53,False
+JFK vs EWR,BUF,2026Q1,JFK-BUF,lowest-fare,127.65,EWR-BUF,largest,207.87,-80.22,False
+JFK vs EWR,DEN,2025Q2,JFK-DEN,lowest-fare,209.01,EWR-DEN,largest,313.53,-104.52,False
+JFK vs EWR,DEN,2025Q3,JFK-DEN,lowest-fare,195.25,EWR-DEN,largest,283.14,-87.89,False
+JFK vs EWR,DEN,2026Q1,JFK-DEN,lowest-fare,185.33,EWR-DEN,largest,294.55,-109.22,False
+JFK vs EWR,FLL,2025Q2,JFK-FLL,largest,189.2,EWR-FLL,largest,232.05,-42.85,False
+JFK vs EWR,FLL,2025Q3,JFK-FLL,largest,152.68,EWR-FLL,largest,209.33,-56.65,False
+JFK vs EWR,FLL,2025Q4,JFK-FLL,largest,168.59,EWR-FLL,largest,229.01,-60.42,False
+JFK vs EWR,FLL,2026Q1,JFK-FLL,largest,190.6,EWR-FLL,largest,268.42,-77.82,False
+JFK vs EWR,IAH,2025Q2,JFK-IAH,largest,204.21,EWR-IAH,largest,298.84,-94.63,False
+JFK vs EWR,JAX,2025Q2,JFK-JAX,largest,193.92,EWR-JAX,largest,227.49,-33.57,False
+JFK vs EWR,JAX,2025Q3,JFK-JAX,largest,154.84,EWR-JAX,largest,188.66,-33.82,False
+JFK vs EWR,JAX,2025Q4,JFK-JAX,largest,168.08,EWR-JAX,largest,206.8,-38.72,False
+JFK vs EWR,JAX,2026Q1,JFK-JAX,largest,169.57,EWR-JAX,largest,221.82,-52.25,False
+JFK vs EWR,LAS,2024Q2,JFK-LAS,lowest-fare,349.26,EWR-LAS,largest,394.34,-45.08,False
+JFK vs EWR,LAS,2024Q3,JFK-LAS,lowest-fare,330.58,EWR-LAS,largest,339.93,-9.35,True
+JFK vs EWR,LAS,2024Q4,JFK-LAS,lowest-fare,322.82,EWR-LAS,largest,385.29,-62.47,False
+JFK vs EWR,LAS,2025Q1,JFK-LAS,lowest-fare,319.95,EWR-LAS,largest,354.2,-34.25,False
+JFK vs EWR,LAS,2025Q2,JFK-LAS,lowest-fare,337.7,EWR-LAS,largest,356.08,-18.38,False
+JFK vs EWR,LAS,2026Q1,JFK-LAS,lowest-fare,322.24,EWR-LAS,largest,388.29,-66.05,False
+JFK vs EWR,LAX,2024Q2,JFK-LAX,lowest-fare,406.39,EWR-LAX,largest,437.19,-30.8,False
+JFK vs EWR,LAX,2024Q3,JFK-LAX,lowest-fare,370.79,EWR-LAX,largest,410.14,-39.35,False
+JFK vs EWR,LAX,2024Q4,JFK-LAX,lowest-fare,415.98,EWR-LAX,largest,470.99,-55.01,False
+JFK vs EWR,LAX,2025Q1,JFK-LAX,lowest-fare,351.87,EWR-LAX,largest,441.36,-89.49,False
+JFK vs EWR,LAX,2025Q2,JFK-LAX,lowest-fare,390.42,EWR-LAX,largest,417.0,-26.58,False
+JFK vs EWR,LAX,2025Q3,JFK-LAX,lowest-fare,341.71,EWR-LAX,largest,397.01,-55.3,False
+JFK vs EWR,LAX,2025Q4,JFK-LAX,lowest-fare,390.35,EWR-LAX,largest,460.46,-70.11,False
+JFK vs EWR,LAX,2026Q1,JFK-LAX,lowest-fare,357.69,EWR-LAX,largest,462.12,-104.43,False
+JFK vs EWR,MCO,2025Q2,JFK-MCO,largest,185.43,EWR-MCO,largest,225.59,-40.16,False
+JFK vs EWR,MCO,2025Q3,JFK-MCO,largest,158.19,EWR-MCO,largest,195.3,-37.11,False
+JFK vs EWR,MCO,2025Q4,JFK-MCO,largest,154.95,EWR-MCO,largest,203.86,-48.91,False
+JFK vs EWR,MCO,2026Q1,JFK-MCO,largest,170.57,EWR-MCO,largest,222.22,-51.65,False
+JFK vs EWR,ORD,2025Q2,JFK-ORD,largest,169.47,EWR-ORD,largest,263.32,-93.85,False
+JFK vs EWR,ORD,2025Q3,JFK-ORD,largest,156.52,EWR-ORD,largest,231.42,-74.9,False
+JFK vs EWR,PBI,2025Q2,JFK-PBI,largest,194.05,EWR-PBI,largest,241.22,-47.17,False
+JFK vs EWR,PBI,2025Q3,JFK-PBI,largest,150.7,EWR-PBI,largest,206.95,-56.25,False
+JFK vs EWR,PBI,2025Q4,JFK-PBI,largest,169.86,EWR-PBI,largest,241.6,-71.74,False
+JFK vs EWR,PBI,2026Q1,JFK-PBI,largest,198.54,EWR-PBI,largest,288.09,-89.55,False
+JFK vs EWR,PHX,2024Q2,JFK-PHX,lowest-fare,242.78,EWR-PHX,largest,324.07,-81.29,False
+JFK vs EWR,PHX,2024Q3,JFK-PHX,lowest-fare,201.17,EWR-PHX,largest,265.77,-64.6,False
+JFK vs EWR,PHX,2024Q4,JFK-PHX,lowest-fare,267.1,EWR-PHX,largest,342.34,-75.24,False
+JFK vs EWR,PHX,2025Q1,JFK-PHX,lowest-fare,288.81,EWR-PHX,largest,331.77,-42.96,False
+JFK vs EWR,PHX,2025Q2,JFK-PHX,lowest-fare,269.11,EWR-PHX,largest,331.64,-62.53,False
+JFK vs EWR,PHX,2025Q3,JFK-PHX,lowest-fare,207.62,EWR-PHX,largest,287.93,-80.31,False
+JFK vs EWR,PHX,2025Q4,JFK-PHX,lowest-fare,281.24,EWR-PHX,largest,340.24,-59.0,False
+JFK vs EWR,PHX,2026Q1,JFK-PHX,lowest-fare,292.05,EWR-PHX,largest,347.51,-55.46,False
+JFK vs EWR,RDU,2025Q2,JFK-RDU,largest,134.07,EWR-RDU,largest,169.61,-35.54,False
+JFK vs EWR,RDU,2025Q3,JFK-RDU,largest,120.41,EWR-RDU,largest,162.64,-42.23,False
+JFK vs EWR,RDU,2025Q4,JFK-RDU,largest,139.03,EWR-RDU,largest,173.39,-34.36,False
+JFK vs EWR,RDU,2026Q1,JFK-RDU,largest,129.3,EWR-RDU,largest,175.22,-45.92,False
+JFK vs EWR,RSW,2025Q2,JFK-RSW,largest,194.45,EWR-RSW,largest,244.41,-49.96,False
+JFK vs EWR,RSW,2025Q3,JFK-RSW,largest,142.81,EWR-RSW,largest,195.83,-53.02,False
+JFK vs EWR,RSW,2025Q4,JFK-RSW,largest,177.87,EWR-RSW,largest,238.83,-60.96,False
+JFK vs EWR,RSW,2026Q1,JFK-RSW,largest,205.94,EWR-RSW,largest,271.6,-65.66,False
+JFK vs EWR,SEA,2024Q3,JFK-SEA,lowest-fare,322.6,EWR-SEA,largest,346.97,-24.37,False
+JFK vs EWR,SEA,2025Q3,JFK-SEA,lowest-fare,231.73,EWR-SEA,largest,323.76,-92.03,False
+JFK vs EWR,SLC,2024Q4,JFK-SLC,lowest-fare,255.28,EWR-SLC,lowest-fare,338.51,-83.23,False
+JFK vs EWR,SLC,2025Q1,JFK-SLC,lowest-fare,293.35,EWR-SLC,largest,381.03,-87.68,False
+JFK vs EWR,SLC,2025Q3,JFK-SLC,lowest-fare,188.61,EWR-SLC,lowest-fare,296.17,-107.56,False
+JFK vs EWR,SLC,2025Q4,JFK-SLC,lowest-fare,217.54,EWR-SLC,lowest-fare,298.26,-80.72,False
+JFK vs EWR,SLC,2026Q1,JFK-SLC,lowest-fare,286.29,EWR-SLC,largest,358.87,-72.58,False
+JFK vs EWR,TPA,2025Q2,JFK-TPA,largest,174.45,EWR-TPA,largest,211.87,-37.42,False
+JFK vs EWR,TPA,2025Q4,JFK-TPA,lowest-fare,155.32,EWR-TPA,largest,198.97,-43.65,False
+JFK vs EWR,TPA,2026Q1,JFK-TPA,lowest-fare,157.09,EWR-TPA,largest,224.33,-67.24,False
+Newark same-airport,LAS,2026Q1,EWR-LAS,lowest-fare,278.41,EWR-LAS,largest,388.29,-109.88,False
+Newark same-airport,PBI,2024Q2,EWR-PBI,lowest-fare,174.06,EWR-PBI,largest,228.62,-54.56,False
+Newark same-airport,PBI,2024Q3,EWR-PBI,lowest-fare,157.49,EWR-PBI,largest,197.25,-39.76,False
+Newark same-airport,PBI,2024Q4,EWR-PBI,lowest-fare,188.77,EWR-PBI,largest,256.91,-68.13,False
+Newark same-airport,PBI,2025Q1,EWR-PBI,lowest-fare,177.33,EWR-PBI,largest,246.24,-68.91,False
+Newark same-airport,PBI,2025Q2,EWR-PBI,lowest-fare,181.6,EWR-PBI,largest,241.22,-59.62,False
+Newark same-airport,PBI,2025Q3,EWR-PBI,lowest-fare,146.0,EWR-PBI,largest,206.95,-60.94,False
+Newark same-airport,PBI,2025Q4,EWR-PBI,lowest-fare,183.05,EWR-PBI,largest,241.6,-58.56,False
+Newark same-airport,PBI,2026Q1,EWR-PBI,lowest-fare,198.18,EWR-PBI,largest,288.09,-89.91,False
+Newark same-airport,PVD,2025Q3,EWR-PVD,lowest-fare,386.29,EWR-PVD,largest,447.1,-60.82,False
+Newark same-airport,PVD,2025Q4,EWR-PVD,lowest-fare,248.3,EWR-PVD,largest,409.59,-161.29,False
+Newark same-airport,RSW,2024Q2,EWR-RSW,lowest-fare,175.49,EWR-RSW,largest,219.53,-44.05,False
+Newark same-airport,RSW,2024Q3,EWR-RSW,lowest-fare,166.08,EWR-RSW,largest,214.65,-48.57,False
+Newark same-airport,RSW,2024Q4,EWR-RSW,lowest-fare,198.21,EWR-RSW,largest,255.61,-57.4,False
+Newark same-airport,RSW,2025Q1,EWR-RSW,lowest-fare,172.47,EWR-RSW,largest,235.21,-62.74,False
+Newark same-airport,RSW,2025Q2,EWR-RSW,lowest-fare,182.76,EWR-RSW,largest,244.41,-61.66,False
+Newark same-airport,RSW,2025Q3,EWR-RSW,lowest-fare,138.24,EWR-RSW,largest,195.83,-57.59,False
+Newark same-airport,RSW,2025Q4,EWR-RSW,lowest-fare,162.38,EWR-RSW,largest,238.83,-76.45,False
+Newark same-airport,RSW,2026Q1,EWR-RSW,lowest-fare,185.96,EWR-RSW,largest,271.6,-85.65,False
+Newark same-airport,TPA,2024Q2,EWR-TPA,lowest-fare,176.71,EWR-TPA,largest,215.02,-38.31,False
+Newark same-airport,TPA,2024Q3,EWR-TPA,lowest-fare,170.13,EWR-TPA,largest,205.39,-35.26,False
+Newark same-airport,TPA,2024Q4,EWR-TPA,lowest-fare,166.09,EWR-TPA,largest,205.85,-39.77,False
+Newark same-airport,TPA,2025Q1,EWR-TPA,lowest-fare,154.51,EWR-TPA,largest,195.63,-41.12,False
+Newark same-airport,TPA,2025Q2,EWR-TPA,lowest-fare,158.07,EWR-TPA,largest,211.87,-53.79,False
+Newark same-airport,TPA,2025Q3,EWR-TPA,lowest-fare,142.87,EWR-TPA,largest,179.63,-36.76,False
+Newark same-airport,TPA,2025Q4,EWR-TPA,lowest-fare,151.22,EWR-TPA,largest,198.97,-47.75,False

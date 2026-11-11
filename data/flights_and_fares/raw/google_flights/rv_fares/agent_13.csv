@@ -1,0 +1,19 @@
+route,date,airline,airport,fare,fare_type
+PWM,2026-12-02,JetBlue,none,,no nonstop
+PWM,2026-12-02,United Express,EWR,119,no carry-on shown (likely Basic Economy)
+PWM,2026-12-02,United,EWR,119,no carry-on shown (likely Basic Economy)
+PWM,2026-12-09,JetBlue,none,,no nonstop
+PWM,2026-12-09,United Express,EWR,119,no carry-on shown (likely Basic Economy)
+PWM,2026-12-09,United,EWR,119,no carry-on shown (likely Basic Economy)
+PWM,2027-01-13,JetBlue,none,,no nonstop
+PWM,2027-01-13,United Express,EWR,119,no carry-on shown (likely Basic Economy)
+PWM,2027-01-27,JetBlue,none,,no nonstop
+PWM,2027-01-27,United Express,EWR,119,no carry-on shown (likely Basic Economy)
+SDQ,2026-12-02,JetBlue,JFK,296,not shown
+SDQ,2026-12-02,United,EWR,252,not shown
+SDQ,2026-12-09,JetBlue,JFK,296,not shown
+SDQ,2026-12-09,United,EWR,328,not shown
+SDQ,2027-01-13,JetBlue,JFK,140,not shown
+SDQ,2027-01-13,United,EWR,250,not shown
+SDQ,2027-01-27,JetBlue,JFK,140,not shown
+SDQ,2027-01-27,United,EWR,146,not shown

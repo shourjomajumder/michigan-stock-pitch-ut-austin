@@ -1,0 +1,8 @@
+SEA|2026-12-02|United@EWR–SEA=144(0/0) JetBlue=none
+SEA|2026-12-09|United@EWR–SEA=144(0/0) JetBlue=none
+SEA|2027-01-13|United@EWR–SEA=144(0/0) JetBlue=none
+SEA|2027-01-27|United@EWR–SEA=144(0/0) JetBlue=none
+PUJ|2026-12-02|United@EWR–PUJ=269(?) JetBlue@JFK–PUJ=274(?)
+PUJ|2026-12-09|United@EWR–PUJ=269(?) JetBlue@JFK–PUJ=274(?)
+PUJ|2027-01-13|United@EWR–PUJ=252(?) JetBlue@JFK–PUJ=274(?)
+PUJ|2027-01-27|JetBlue@JFK–PUJ=144(?) United@EWR–PUJ=252(?)

@@ -1,0 +1,17 @@
+route,date,airline,airport,fare,fare_type
+LHR,2026-12-02,JetBlue,JFK,373,not shown
+LHR,2026-12-02,United,EWR,300,not shown
+LHR,2026-12-09,JetBlue,JFK,373,not shown
+LHR,2026-12-09,United,EWR,300,not shown
+LHR,2027-01-13,JetBlue,JFK,249,not shown
+LHR,2027-01-13,United,EWR,300,not shown
+LHR,2027-01-27,JetBlue,JFK,249,not shown
+LHR,2027-01-27,United,EWR,300,not shown
+NAS,2026-12-02,JetBlue,JFK,94,not shown
+NAS,2026-12-02,United,EWR,104,not shown
+NAS,2026-12-09,JetBlue,JFK,94,not shown
+NAS,2026-12-09,United,EWR,104,not shown
+NAS,2027-01-13,JetBlue,JFK,94,not shown
+NAS,2027-01-13,United,EWR,104,not shown
+NAS,2027-01-27,JetBlue,JFK,94,not shown
+NAS,2027-01-27,United,EWR,104,not shown

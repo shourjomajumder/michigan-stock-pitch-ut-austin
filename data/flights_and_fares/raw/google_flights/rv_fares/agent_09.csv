@@ -1,0 +1,17 @@
+route,date,airline,airport,fare,fare_type
+SAV,2026-12-02,JetBlue,JFK,134,product not shown; carry-on 1
+SAV,2026-12-02,United,EWR,190,product not shown; carry-on 0
+SAV,2026-12-09,JetBlue,JFK,134,product not shown; carry-on 1
+SAV,2026-12-09,United,EWR,190,product not shown; carry-on 0
+SAV,2027-01-13,JetBlue,none,none,no nonstop
+SAV,2027-01-13,United,EWR,190,product not shown; carry-on 0
+SAV,2027-01-27,JetBlue,none,none,no nonstop
+SAV,2027-01-27,United,EWR,190,product not shown; carry-on 0
+PHX,2027-02-03,JetBlue,JFK,169,product not shown; carry-on 1
+PHX,2027-02-03,United,EWR,219,product not shown; carry-on 0
+PHX,2027-02-10,JetBlue,JFK,169,product not shown; carry-on 1
+PHX,2027-02-10,United,EWR,219,product not shown; carry-on 0
+PHX,2027-02-24,JetBlue,JFK,199,product not shown; carry-on 1
+PHX,2027-02-24,United,EWR,199,product not shown; carry-on 0
+PHX,2027-03-03,JetBlue,JFK,199,product not shown; carry-on 1
+PHX,2027-03-03,United,EWR,199,product not shown; carry-on 0

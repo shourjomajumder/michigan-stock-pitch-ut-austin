@@ -1,0 +1,17 @@
+dest,scope,dates_both,jetblue_dates,united_dates,gaps,median_gap,mean_gap,mean_gap_ex_largest,within_15,within_10pct,verdict_rule,b6_pax_JFK_t100,ua_pax_JFK_t100,b6_pax_EWR_t100,ua_pax_EWR_t100
+STI,NYC any airport,4,4,4,-51 -31 -83 -72,-61.5,-59.25,-51.33,0.0,1.0,NO MATCH,670008.0,0.0,127104.0,344843.0
+STI,EWR same airport,6,6,6,+18 -31 +38 -68 -45 -70,-38.0,-26.33,-17.6,0.0,2.0,NO MATCH,670008.0,0.0,127104.0,344843.0
+SDQ,NYC any airport,4,4,4,+44 -32 -110 -6,-19.0,-26.0,2.0,1.0,2.0,NO MATCH,555989.0,0.0,39242.0,340138.0
+SDQ,EWR same airport,0,0,6,,,,,,,NO DATA,555989.0,0.0,39242.0,340138.0
+PUJ,NYC any airport,4,4,4,+5 +5 +22 -108,5.0,-19.0,10.67,2.0,3.0,MATCH,386552.0,0.0,96375.0,238378.0
+PUJ,EWR same airport,0,0,6,,,,,,,NO DATA,386552.0,0.0,96375.0,238378.0
+CUN,NYC any airport,4,4,4,-64 -10 -43 +79,-26.5,-9.5,-39.0,1.0,1.0,NO MATCH,337132.0,0.0,89432.0,366485.0
+CUN,EWR same airport,0,0,6,,,,,,,NO DATA,337132.0,0.0,89432.0,366485.0
+AUA,NYC any airport,4,4,4,-12 -101 -85 +0,-48.5,-49.5,-32.33,2.0,2.0,NO MATCH,314809.0,0.0,46848.0,248504.0
+AUA,EWR same airport,0,0,6,,,,,,,NO DATA,314809.0,0.0,46848.0,248504.0
+MBJ,NYC any airport,4,4,4,+6 -24 -11 -61,-17.5,-22.5,-9.67,2.0,3.0,MATCH,223368.0,0.0,0.0,111646.0
+SXM,NYC any airport,4,4,4,-189 -30 +3 -116,-73.0,-83.0,-47.67,1.0,1.0,NO MATCH,,,,
+LHR,NYC any airport,4,4,4,+73 +73 -51 -51,11.0,11.0,-9.67,0.0,0.0,NO MATCH,164861.0,0.0,57.0,684158.0
+NAS,NYC any airport,4,4,4,-10 -10 -10 -10,-10.0,-10.0,-10.0,4.0,4.0,MATCH,143297.0,0.0,0.0,182741.0
+PLS,NYC any airport,4,4,4,+27 +0 +59 -179,13.5,-23.25,28.67,1.0,2.0,NO MATCH,,,,
+SJO,NYC any airport,4,4,4,+208 +118 +0 +0,59.0,81.5,39.33,2.0,2.0,NO MATCH,,,,
