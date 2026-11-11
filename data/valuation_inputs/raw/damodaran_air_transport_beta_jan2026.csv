@@ -1,0 +1,2 @@
+industry,number_of_firms,beta,de_ratio,effective_tax_rate,unlevered_beta,cash_firm_value,unlevered_beta_corrected_for_cash,hilo_risk,sd_equity,sd_operating_income_10y
+Air Transport,23,1.19,0.9117,0.0829,0.70,0.0711,0.76,0.5152,0.59,2.1043

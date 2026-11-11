@@ -1,0 +1,3 @@
+ticker,price,price_date,model_diluted_shares_mm,reported_q3_2026_diluted_shares_mm,mcap_mm,price_source,shares_source
+ULCC,8.35,2026-11-09,230.24,230.242641,1922.504,Yahoo Finance close,"Frontier Q3 2026 earnings release (10/28/2026): weighted-average diluted shares 230,242,641"
+JBLU,3.94,2026-11-09,377.3,377.3,1486.562,Yahoo Finance close,JetBlue Q3 2026 earnings release (10/26/2026): weighted-average diluted shares 377.3M
