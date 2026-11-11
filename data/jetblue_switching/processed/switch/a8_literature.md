@@ -1,0 +1,14 @@
+# a8_literature: lag structure of airline demand/share responses (k=0 = first quarter in effect)
+- Alliances/codeshares (BCN 2004 CO/HP; Gayle 2008 DL/CO/NW): only single pre/post windows. Effects already full-size at k=2-4 (CO/HP traffic +6.5-7.2% at k=3; DL/CO/NW partner traffic +19.8-24.4% at k=2). NW/AS was phased in over 2 yrs and was n.s. at k=4. No quarterly path is published.
+- Lederman 2007 RAND / 2008 JEMS: effects confirmed (share gains where the partner dominates; FFPs account for >=25% of the hub premium). Her lag structure could not be checked in public sources, so it is not used.
+- Entry event studies (supply-led fares): Daraban-Fournier, Southwest entry: 73% of plateau at k0, 100% at k1, no decay. Other LCCs: 53% at k0, 70% at k1-3, 100% at k4+. Goolsbee-Syverson: incumbent fares 67/78/82% of the t+3..12 level at k0/k1/k2. Passenger coefs rise from 0.196 (k0) to 0.329 (te+3..12), n.s. Ito-Lee: incumbent O&D pax +16.2% over the first 4 quarters.
+- Loyalty/consumer: Liu 2007 says the "most visible jump" comes within 3 months of joining (k0), then slower growth through month 24. Leone 1995: 90% of the ad effect lands in 6-9 months, which implies lambda_q 0.32-0.46.
+- Inertia: Hess 2008 SP finds 22% of travelers never left their current trip (inertia const 1.09). Suzuki 2000: share moves through delay experience on later trips, so adjustment speed scales with trip frequency.
+- Churn baselines (unprompted attrition, so an upper bound on slowness): Verizon 0.90%/mo gives a ~77-month cohort half-life (~26 q). Bank checking tenure of 19 yrs gives a ~13-yr half-life.
+- Implied partial adjustment F(k)=1-lambda^(k+1):
+  - central lambda_q=0.45: 55% at k0, 80% at k1, 91% at k2.
+  - fast 0.30: 50% at k0, 90% at k1.
+  - slow/phased 0.65: 50% at k1, 90% at k5.
+- Decay: none in any source unless the cause is removed. After WN exit, about half the fare cut reversed. Liu shows continued slow drift upward.
+- Caveats: the airline evidence is mostly supply-led (fares, capacity) or single-window, with no published quarterly demand path for an FFP/partnership event. Blue Sky is one-way and phased (Oct-25, Feb-26, May-26), which argues for the slow lambda, measured from May 2026.
+- Best-supported number: about 90% of the eventual effect within 4 quarters (k<=3) of the event being fully in effect. Every airline study with a time path reaches its plateau by k1-k4.

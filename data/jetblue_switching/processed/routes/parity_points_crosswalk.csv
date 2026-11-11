@@ -1,0 +1,26 @@
+case,route,source_file,source_route,carrier_tracked,role,period_before,period_after,match
+Delta vs JetBlue (Boston),BOS-BUF,r04_bos_dl_b6.csv,BOS-BUF,B6,loser,2017Q4,2019Q4,direct
+Delta vs JetBlue (Boston),BOS-PIT,r04_bos_dl_b6.csv,BOS-PIT,B6,loser,2018Q1,2019Q4,direct
+Delta vs JetBlue (Boston),BOS-TPA,r04_bos_dl_b6.csv,BOS-TPA,B6,winner,2018Q4,2020Q1,direct
+Delta vs JetBlue (Boston),BOS-RDU,r04_bos_dl_b6.csv,BOS-RDU,B6,loser,2017Q1,2019Q4,direct
+Delta vs JetBlue (Boston),BOS-RIC,r04_bos_dl_b6.csv,BOS-RIC,B6,winner,2014Q2,2018Q3,direct
+Delta vs JetBlue (Boston),BOS-CHS,r04_bos_dl_b6.csv,BOS-CHS,B6,winner,2015Q2,2019Q2,direct
+Delta vs JetBlue (Boston),BOS-PBI,r04_bos_dl_b6.csv,BOS-PBI,B6,loser,2015Q3,2020Q1,direct
+Delta vs Alaska (Seattle),SEA-GEG,r05_sea_dl_as.csv,SEA-GEG,AS,loser,2015Q1,2019Q1,direct
+Delta vs Alaska (Seattle),SEA-PDX,r05_sea_dl_as.csv,SEA-PDX,AS,loser,2014Q4,2019Q4,direct
+Delta vs Alaska (Seattle),SEA-LAX,r05_sea_dl_as.csv,SEA-LAX,AS,winner,2015Q2,2019Q1,direct
+Delta vs Alaska (Seattle),SEA-SFO,r05_sea_dl_as.csv,SEA-SFO,AS,winner,2014Q3,2017Q3,direct
+Delta vs Alaska (Seattle),SEA-SAN,r05_sea_dl_as.csv,SEA-SAN,AS,loser,2017Q3,2019Q3,direct
+Delta vs Alaska (Seattle),SEA-BOI,r05_sea_dl_as.csv,SEA-BOI,AS,loser/winner chained,2015Q3,2019Q3,chained two windows
+Delta vs Alaska (Seattle),SEA-PSC,r05_sea_dl_as.csv,SEA-PSC,AS,loser,2015Q4,2018Q4,direct
+Delta vs Alaska (Seattle),SEA-EUG,r05_sea_dl_as.csv,SEA-EUG,AS,loser,2017Q3,2019Q1,direct
+Delta vs Alaska (Seattle),SEA-DEN,r05_sea_dl_as.csv,SEA-DEN,AS,loser,2018Q2,2019Q2,direct
+Delta vs Alaska (Seattle),SEA-AUS,r05_sea_dl_as.csv,SEA-AUS,AS,winner,2018Q1,2019Q4,direct
+Delta vs Alaska (Seattle),SEA-SLC,r05_sea_dl_as.csv,SEA-SLC,AS,loser/winner chained,2014Q4,2019Q2,chained two windows
+JetBlue Mint vs United,NYC-LAX,r10_product.csv,NYC-LAX (city pair),UA,loser,2013Q3,2015Q3,direct
+Continental / Northwest,CLE-DTW,r02_conwdl.csv,Cleveland-Detroit,NW,loser,1998Q1,2000Q4,direct
+Continental / Northwest,DTW-IAH,r02_conwdl.csv,Detroit-Houston,NW,loser,1998Q1,2002Q4,direct
+Continental / Northwest,IAH-MEM,r02_conwdl.csv,Houston-Memphis,NW,loser,1998Q1,2000Q4,direct
+Delta / Continental / Northwest,CVG-IAH,r02_conwdl.csv,Cincinnati-Houston,DL,loser,2002Q4,2004Q4,direct
+Delta / Continental / Northwest,MSP-SLC,r02_conwdl.csv,Minneapolis-Salt Lake City,NW,loser,2002Q4,2004Q4,direct
+American / Alaska,SEA-PHL,r07_dlws_aaas.csv,SEA-PHL,AA,loser,2019Q2,2024Q2,direct

@@ -1,0 +1,7 @@
+case,k10,k50,k90,scale,source_note
+Delta / Alaska,4.0,5.0,6.0,0.45511961331341866,"a1_delta_alaska.md (loyalty-driven excess: sustained k4, peak k6)"
+Continental / Northwest,0.0,0.5,3.0,1.1377990332835466,"a2_co_nw.md (50% by k0-k1, 90% by k2-k4)"
+American / JetBlue,4.0,5.0,6.0,0.45511961331341866,"a5_nea.md (first k5, 50% k5, 90% k6)"
+American / Alaska,7.0,8.0,9.5,0.682679419970128,"a3_aa_as.md (first k7, 50% k8, 90% k9-10)"
+Alaska / Virgin,2.0,3.0,4.0,0.45511961331341866,"a4_vx_merge.md (first k2-5, 50% k2-5, 90% k3-5)"
+Median,4.0,5.0,6.0,0.45511961331341866,median of the 5 precedents

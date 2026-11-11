@@ -1,0 +1,21 @@
+sheet,row,label,unit,c1,c2,c3,c4
+Assumptions,16,THESIS INPUTS,,Value,,,
+Assumptions,17,Thesis 1: switching passenger base (annual),mm,2.316,,,
+Assumptions,18,Thesis 1: switching rate per year,%,0.031,,,
+Assumptions,19,Thesis 1: eventual switching rate,%,0.06,,,
+Assumptions,20,Thesis 1: average fare,$,180,,,
+Assumptions,21,Thesis 1: first quarter of switching,quarter,Q4 2026,,,
+Assumptions,14,Variable cost on thesis revenue,%,0.12,,,
+Assumptions,25,Long-run tax rate,%,0.24,,,
+Assumptions,7,Diluted shares outstanding,mm,377.3,,,
+DCF,51,THESIS BRIDGE,,FY2027E,FY2028E,FY2029E,FY2030E
+DCF,53,Thesis 1 EBIT,$mm,-9.9509256,-20.2457772,-22.011264,-22.011264
+DCF,54,Thesis 1 after-tax EBIT,$mm,-7.562703456,-15.386790672,-16.72856064,-16.72856064
+DCF,55,PV of Thesis 1 after-tax EBIT,$mm,-7.1159958163687,-12.818106730025,-12.3381952371328,-10.9236773353066
+DCF,62,VALUE PER SHARE FROM THESIS,,Thesis 1,Thesis 2,Total,
+DCF,63,Sum of PV of after-tax EBIT,$mm,-43.1959751188331,-6.28130115851515,-49.4772762773483,
+DCF,64,"Terminal value, 12/31/30E",$mm,-132.416729008194,-26.8276648724622,-159.244393880656,
+DCF,65,PV of terminal value,$mm,-81.3601530171299,-16.4835888596881,-97.843741876818,
+DCF,66,"Enterprise value from thesis, 12/31/26E",$mm,-124.556128135963,-22.7648900182033,-147.321018154166,
+DCF,67,Equity value from thesis today,$mm,-120.869706938626,-22.0911297273684,-142.960836665994,
+DCF,68,Value per share from thesis,$,-0.320354378315997,-0.0585505691157392,-0.378904947431736,

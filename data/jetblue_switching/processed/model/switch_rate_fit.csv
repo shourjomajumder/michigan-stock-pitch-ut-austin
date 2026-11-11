@@ -1,0 +1,12 @@
+metric,value
+n_routes,25.0
+intercept,0.5176963619201511
+slope_per_link_level,2.6210575513542897
+r,0.42254018997837145
+fitted_loss_pct_yr_at_link1,3.138753913274441
+model_rate_pct_yr_rounded,3.1
+window_Q4_26_to_Q3_27_pct,3.1
+eventual_pct,6.0
+share_of_eventual,0.5166666666666667
+line_endpoint_y_at_x-0.3,-0.26862090348613576
+line_endpoint_y_at_x2.3,6.546128730035017

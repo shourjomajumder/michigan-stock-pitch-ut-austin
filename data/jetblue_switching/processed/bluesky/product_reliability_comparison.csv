@@ -1,0 +1,6 @@
+item,united,jetblue,derived,source_url,fetched,note
+On-time arrivals 2025 (%),77.65,72.34,gap 5.3 pts,https://www.transportation.gov/sites/dot.gov/files/2026-03/February%20%202026%20ATCR.pdf,2026-11 (via corr/c1_ontime.csv),DOT Air Travel Consumer Report full-year 2025; slide rounds to 77.6 / 72.3
+Cancelled flights 2025 (%),1.36,1.65,P(>=1 cancel in 20 flights) = 24% vs 28%,https://www.transportation.gov/sites/dot.gov/files/2026-03/February%20%202026%20ATCR.pdf,2026-11 (via corr/c4_cancel.csv),United value is NETWORK incl. regionals (mainline 0.82%); JetBlue single brand. Using network is conservative for the thesis
+Wi-Fi provider,Starlink (low Earth orbit),Viasat (geostationary),,switch/agent05.md; United press release 2 Feb 2026,,
+Satellite altitude (miles),340,22000,22000/340 = 65x closer,https://www.earthsims.com/starlink/how-starlink-works/ ; https://www.satelliteinternet.com/resources/what-is-satellite-internet/,2026-11-11,"Starlink ~340 mi (550 km); GEO 22,236 mi (35,786 km), slide rounds to 22,000"
+Seatback screens (economy),"10"" touchscreen + Bluetooth (A321neo); Coastliner 'all seats will have screen'","10.1"" 1080p HD",parity on size; United cabins newer,see jfk27_6_product_comparison.md (SeatCompare 2026-07-30; JetBlue release 2021-02-26),2026-11-11,
