@@ -1,0 +1,9 @@
+source: Frontier Airlines newsroom, "Frontier announces major international expansion with first-ever service to Colombia" (published September 10, 2026)
+url: https://news.flyfrontier.com/frontier-announces-major-international-expansion-with-first-ever-service-to-colombia/
+fetched: 2026-11-11 (WebFetch text extract)
+
+Route                                   Start date      Frequency
+Orlando (MCO) - Medellin (MDE)          Dec. 10, 2026   Daily
+Orlando (MCO) - Bogota (BOG)            Dec. 14, 2026   6x/week, daily from Mar. 6, 2027
+Orlando (MCO) - Cartagena (CTG)         Dec. 19, 2026   1x/week
+"subject to government approval"; "frequencies and times may change"

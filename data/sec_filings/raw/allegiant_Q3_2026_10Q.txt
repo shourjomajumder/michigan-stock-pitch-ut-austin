@@ -1,0 +1,24 @@
+source: Allegiant Travel Co Form 10-Q for quarter ended Sep 30, 2026 (includes Sun Country from May 13, 2026 acquisition)
+url: https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+fetched: 2026-11-11 (WebFetch text extract, offsets 0 / 100000 / 200000)
+
+Income statement ($000)                        Q3 2026     Q3 2025
+Passenger revenue                              777,448     494,144
+Total operating revenues                       961,559     561,932
+"Financial results for periods prior to May 13, 2026, do not include Sun Country results."
+
+Operating statistics, total system             Q3 2026     Q3 2025
+Passengers                                   5,707,095   4,629,834
+Available seat miles (000)                   6,305,477   4,939,441
+Departures                                      45,747      32,991
+
+Operating statistics, scheduled service        Q3 2026     Q3 2025
+Passengers                                   5,447,166   4,572,081
+Revenue passenger miles (000)                5,024,132   4,022,761
+Available seat miles (000)                   5,796,211   4,769,245
+Load factor                                      86.7%       84.3%
+Departures                                      36,011      31,656
+Average fare - scheduled service ($)             74.27       43.44
+Average fare - air-related charges ($)           68.45       64.64
+Average fare - third party products ($)           8.19        8.62
+Average fare - total ($)                        150.92      116.70

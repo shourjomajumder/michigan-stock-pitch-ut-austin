@@ -1,0 +1,24 @@
+source: Sun Country Airlines Holdings 8-K ex. 99.1, Q4 and FY2023 results (January 31, 2024)
+url: https://www.sec.gov/Archives/edgar/data/1743907/000174390724000003/q42023-ex991.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Scheduled service                              Q4 2023     Q4 2022
+Departures                                       6,688       5,654
+Passengers                                   1,047,127     882,877
+RPMs (000)                                   1,316,877   1,141,495
+ASMs (000)                                   1,554,043   1,352,830
+Load factor                                      84.7%       84.4%
+Average base fare per passenger ($)              89.06      117.38
+Ancillary revenue per passenger ($)              67.33       59.98
+Total system
+Departures                                      12,745      11,440
+ASMs (000)                                   1,899,363   1,657,207
+
+Operating revenue ($000)                       Q4 2023     Q4 2022
+Scheduled service                               93,254     103,629
+Charter                                         46,879      43,092
+Ancillary                                       70,500      52,958
+Passenger                                      210,633     199,679
+Cargo                                           25,297      24,421
+Other                                            9,613       3,054
+Total operating revenue                        245,543     227,154

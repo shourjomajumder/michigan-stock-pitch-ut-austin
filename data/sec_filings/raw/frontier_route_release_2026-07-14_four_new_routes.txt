@@ -1,0 +1,10 @@
+source: Frontier Airlines newsroom, "Frontier announces four new routes launching late 2026" (published July 14, 2026)
+url: https://news.flyfrontier.com/frontier-announces-four-new-routes-launching-late-2026/
+fetched: 2026-11-11 (WebFetch text extract)
+
+Route                                   Start date   Frequency
+Denver (DEN) - Fort Lauderdale (FLL)    Nov. 20      Daily
+Detroit (DTW) - Los Angeles (LAX)       Nov. 20      Daily
+Kansas City (MCI) - Orlando (MCO)       Nov. 20      4x/week
+Houston Bush (IAH) - San Juan (SJU)     Dec. 17      Daily
+"frequency and times are subject to change"

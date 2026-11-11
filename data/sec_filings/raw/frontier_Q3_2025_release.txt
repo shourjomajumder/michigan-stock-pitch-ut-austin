@@ -1,0 +1,18 @@
+source: Frontier Airlines press release "Frontier Airlines Reports Third Quarter 2025 Financial Results" (Nov 5, 2025)
+url: https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx
+fetched: 2026-11-11 (WebFetch text extract)
+
+Operating statistics                                    Q3 2025   Q3 2024
+Passengers (thousands)                                  8,325     8,834
+RPMs (millions)                                         7,815     7,855
+ASMs (millions)                                         9,689    10,075
+Load factor                                             80.7%     78.0%
+Fare revenue per passenger ($)                          39.74     38.70
+Non-fare passenger revenue per passenger ($)            62.78     64.38
+Total revenue per passenger ($)                        106.44    105.83
+
+Operating revenues ($M)                                 Q3 2025   Q3 2024
+Passenger                                                 854       910
+Other                                                      32        25
+Total operating revenues                                  886       935
+(fare revenue derived: 330.8 / 341.9)

@@ -1,0 +1,24 @@
+source: Frontier Group Holdings Form 8-K exhibit 99.1, Q3 2026 earnings release (October 28, 2026)
+url: https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+alt url: https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Delivers-Record-Third-Quarter-2026-Revenue-of-1-4-billion-up-53-percent-Year-over-Year-and-Adjusted-EPS-Significant-KHCGC.pdf
+fetched: 2026-11-11 (WebFetch text extract)
+
+Operating statistics (three months ended Sep 30)        Q3 2026   Q3 2025
+Passengers (thousands)                                  9,805     8,325
+RPMs (millions)                                         9,000     7,815
+ASMs (millions)                                        11,419     9,689
+Load factor                                             78.8%     80.7%
+Fare revenue per passenger ($)                          67.82     39.74
+Non-fare passenger revenue per passenger ($)            67.47     62.78
+Total revenue per passenger ($)                        138.22    106.44
+Average stage length (miles)                              891       917
+Aircraft, end of period                                   164       166
+Average aircraft in service                               163       163
+
+Income statement ($M)                                   Q3 2026   Q3 2025
+Passenger revenue                                       1,327       854
+Other revenue                                              28        32
+Total operating revenues                                1,355       886
+(fare revenue derived = fare/pax x pax: 665.0 / 330.8)
+
+Fleet at Sep 30, 2026: A320neo 68, A321neo 69, A320ceo 6, A321ceo 21; total 164

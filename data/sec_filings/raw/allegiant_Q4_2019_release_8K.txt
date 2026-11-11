@@ -1,0 +1,18 @@
+source: Allegiant Travel Co 8-K ex. 99.1, Q4 2019 earnings release (January 29, 2020)
+url: https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Total system                                   Q4 2019     Q4 2018
+Passengers                                   3,585,966   3,239,286
+ASMs (000)                                   3,928,536   3,605,069
+Scheduled service
+Passengers                                   3,516,263   3,183,524
+RPMs (000)                                   3,073,055   2,846,246
+ASMs (000)                                   3,745,031   3,457,044
+Load factor                                      82.1%       82.3%
+Average fare - scheduled service ($)             65.35       71.23
+Average fare - air-related charges ($)           53.24       46.96
+Average fare - third party products ($)           4.68        4.40
+Average fare - total ($)                        123.26      122.59
+Passenger revenue ($M)                           417.0       376.3
+Total operating revenue ($M)                     461.1       412.1

@@ -1,0 +1,22 @@
+source: Frontier Airlines press release "Frontier Airlines Reports Fourth Quarter 2025 Financial Results" (February 11, 2026)
+url: https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+fetched: 2026-11-11 (WebFetch text extract)
+
+Operating statistics                                    Q4 2025   Q4 2024
+Passengers (thousands)                                  8,537     8,558
+RPMs (millions)                                         7,736     7,668
+ASMs (millions)                                         9,803     9,798
+Load factor                                             78.9%     78.3%
+Fare revenue per passenger ($)                          52.99     48.40
+Non-fare passenger revenue per passenger ($)            59.78     65.81
+Total revenue per passenger ($)                        116.83    117.17
+Average stage length (miles)                              892       874
+Aircraft, end of period                                   176       159
+
+Income statement ($M)                     Q4 2025  Q4 2024  FY2025  FY2024
+Passenger revenue                           962      978    3,598   3,683
+Other revenue                                35       24      126      92
+Total operating revenues                    997    1,002    3,724   3,775
+(fare revenue derived: 452.4 / 414.2)
+
+Fleet at Dec 31, 2025: A320ceo 6, A320neo 89, A321ceo 21, A321neo 60; total 176

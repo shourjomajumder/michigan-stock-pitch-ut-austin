@@ -1,0 +1,18 @@
+source: Frontier Group Holdings 8-K ex. 99.1, Q1 2025 earnings release (May 1, 2025)
+url: https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Operating statistics                                    Q1 2025   Q1 2024
+Passengers (thousands)                                  7,839     7,005
+RPMs (millions)                                         7,454     6,869
+ASMs (millions)                                         9,949     9,446
+Load factor                                             74.9%     72.7%
+Fare revenue per passenger ($)                          44.61     46.21
+Non-fare passenger revenue per passenger ($)            68.15     74.41
+Total revenue per passenger ($)                        116.33    123.53
+
+Operating revenues ($M)                                 Q1 2025   Q1 2024
+Passenger revenue                                         884       845
+Other revenue                                              28        20
+Total operating revenues                                  912       865
+(fare revenue derived: 349.7 / 323.7)

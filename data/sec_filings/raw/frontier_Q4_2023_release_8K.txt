@@ -1,0 +1,20 @@
+source: Frontier Group Holdings 8-K ex. 99.1, Q4 2023 earnings release (February 6, 2024)
+url: https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Operating statistics                                    Q4 2023   Q4 2022
+Passengers (thousands)                                  8,099     6,836
+RPMs (millions)                                         7,817     7,122
+ASMs (millions)                                        10,013     8,670
+Load factor                                             78.1%     82.1%
+Fare revenue per passenger ($)                          38.44     50.76
+Non-fare passenger revenue per passenger ($)            69.16     78.99
+Total revenue per passenger ($)                        110.05    132.52
+
+Operating revenues ($M)                                 Q4 2023   Q4 2022
+Passenger revenue                                         872       887
+Other revenue                                              19        19
+Total operating revenues                                  891       906
+(fare revenue derived: 311.3 / 347.0)
+
+Fleet at Dec 31, 2023: A320ceo 8, A320neo 82, A321ceo 21, A321neo 25; total 136 (Dec 31, 2022 total 120, no type split in release)

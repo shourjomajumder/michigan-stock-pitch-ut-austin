@@ -1,0 +1,16 @@
+source 1: Frontier Group Holdings Form 10-K for FY2023, Item 1 (Business - Fleet)
+url: https://www.sec.gov/Archives/edgar/data/1670076/000167007624000021/fron-20231231.htm
+fetched: 2026-11-11 (WebFetch text extract)
+"[As of December 31, 2023,] we had a fleet of 136 Airbus single-aisle aircraft, consisting of 8 A320ceos, 82 A320neos, 21 A321ceos and 25 A321neos."
+
+source 2: Frontier Group Holdings Form 10-K for FY2024, Item 1 (Business - Fleet)
+url: https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+fetched: 2026-11-11 (WebFetch text extract)
+"As of December 31, 2024, we had a fleet of 159 Airbus single-aisle aircraft, consisting of 8 A320ceos, 82 A320neos, 21 A321ceos and 48 A321neos."
+"As of December 31, 2024, all 159 aircraft in our fleet were financed under operating leases."
+Seats cited in 10-K text: "186-seat A320neo aircraft and 240-seat A321neo aircraft"; average seats per departure 199 (2023) -> 205 (2024).
+
+Cross-checks from releases (see frontier_Q4_2023_release_8K.txt, frontier_Q4_2025_release.txt, frontier_Q3_2026_release_8K.txt):
+Dec 31, 2023 release fleet table: A320ceo 8 (180 or 186 seats), A320neo 82 (186), A321ceo 21 (230), A321neo 25 (240) = 136
+Dec 31, 2025: A320ceo 6, A320neo 89, A321ceo 21, A321neo 60 = 176
+Sep 30, 2026: A320ceo 6, A320neo 68, A321ceo 21, A321neo 69 = 164

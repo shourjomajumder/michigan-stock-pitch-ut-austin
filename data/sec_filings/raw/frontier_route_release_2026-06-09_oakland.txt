@@ -1,0 +1,7 @@
+source: Frontier Airlines newsroom, "Frontier announces two new routes launching late summer 2026, including its return to Oakland San Francisco Bay Airport" (published June 9, 2026)
+url: https://news.flyfrontier.com/frontier-announces-two-new-routes-launching-late-summer-2026-including-its-return-to-oakland-san-francisco-bay-airport/
+fetched: 2026-11-11 (WebFetch text extract)
+
+Route                                   Start date   Frequency
+Las Vegas (LAS) - Oakland (OAK)         Aug. 20      11x/week
+Boise (BOI) - Las Vegas (LAS)           Sept. 10     4x/week

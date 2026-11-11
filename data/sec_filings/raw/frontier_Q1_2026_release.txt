@@ -1,0 +1,22 @@
+source: Frontier Airlines press release "Frontier Airlines Reports First Quarter 2026 Financial Results" (May 5, 2026); also 8-K 0001670076-26-000049
+url: https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Reports-First-Quarter-2026-Financial-Results-2026.pdf
+fetched: 2026-11-11 (WebFetch text extract)
+
+Operating statistics                                    Q1 2026   Q1 2025
+Passengers (thousands)                                  8,324     7,839
+RPMs (millions)                                         7,686     7,454
+ASMs (millions)                                         9,809     9,949
+Load factor                                             78.4%     74.9%
+Fare revenue per passenger ($)                          53.93     44.61
+Non-fare passenger revenue per passenger ($)            60.45     68.15
+Total revenue per passenger ($)                        119.17    116.33
+Average stage length (miles)                              899       925
+Aircraft, end of period                                   183       163
+
+Income statement ($M)                                   Q1 2026   Q1 2025
+Passenger revenue                                         952       884
+Other revenue                                              40        28
+Total operating revenues                                  992       912
+(fare revenue derived: 448.9 / 349.7)
+
+Fleet at Mar 31, 2026: A320neo 94, A320ceo 6, A321ceo 21, A321neo 62; total 183

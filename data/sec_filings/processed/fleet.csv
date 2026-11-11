@@ -1,0 +1,25 @@
+as_of,type,our_value,filing_value,match,source,source_url
+2023-12-31,A320ceo,8,8,yes,Frontier 10-K FY2023 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000021/fron-20231231.htm
+2023-12-31,A321ceo,21,21,yes,Frontier 10-K FY2023 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000021/fron-20231231.htm
+2023-12-31,A320neo,82,82,yes,Frontier 10-K FY2023 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000021/fron-20231231.htm
+2023-12-31,A321neo,25,25,yes,Frontier 10-K FY2023 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000021/fron-20231231.htm
+2023-12-31,total,136,136,yes,Frontier 10-K FY2023 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000021/fron-20231231.htm
+2024-12-31,A320ceo,8,8,yes,Frontier 10-K FY2024 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+2024-12-31,A321ceo,21,21,yes,Frontier 10-K FY2024 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+2024-12-31,A320neo,82,82,yes,Frontier 10-K FY2024 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+2024-12-31,A321neo,48,48,yes,Frontier 10-K FY2024 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+2024-12-31,total,159,159,yes,Frontier 10-K FY2024 Item 1,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+2025-12-31,A320ceo,6,6,yes,Frontier Q4 2025 earnings release fleet table (10-K FY2025 not fetched),https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+2025-12-31,A321ceo,21,21,yes,Frontier Q4 2025 earnings release fleet table (10-K FY2025 not fetched),https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+2025-12-31,A320neo,89,89,yes,Frontier Q4 2025 earnings release fleet table (10-K FY2025 not fetched),https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+2025-12-31,A321neo,60,60,yes,Frontier Q4 2025 earnings release fleet table (10-K FY2025 not fetched),https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+2025-12-31,total,176,176,yes,Frontier Q4 2025 earnings release fleet table (10-K FY2025 not fetched),https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+2026-09-30,A320ceo,6,6,yes,Frontier Q3 2026 earnings release (8-K) fleet table,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+2026-09-30,A321ceo,21,21,yes,Frontier Q3 2026 earnings release (8-K) fleet table,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+2026-09-30,A320neo,68,68,yes,Frontier Q3 2026 earnings release (8-K) fleet table,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+2026-09-30,A321neo,69,69,yes,Frontier Q3 2026 earnings release (8-K) fleet table,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+2026-09-30,total,164,164,yes,Frontier Q3 2026 earnings release (8-K) fleet table,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+seats,A320ceo,186,180-186,partial,"release fleet tables give '180 or 186' / '180 - 186' seats for A320ceo; our 186 is the upper end",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+seats,A321ceo,230,230,yes,release fleet table,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+seats,A320neo,186,186,yes,release fleet table and 10-K text,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+seats,A321neo,240,240,yes,release fleet table and 10-K text,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm

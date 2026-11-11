@@ -1,0 +1,20 @@
+source: Allegiant Travel Co Q2 2026 earnings release, 8-K ex. 99.1 (August 4, 2026); Sun Country included from May 13, 2026
+url: https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+fetched: 2026-11-11 (WebFetch text extract)
+
+Total system                                   Q2 2026     Q2 2025
+Passengers                                   5,753,539   5,127,025
+ASMs (000)                                   6,406,325   5,799,409
+Departures                                      42,833      37,314
+Scheduled service
+Passengers                                   5,616,207   5,077,788
+RPMs (000)                                   5,226,070   4,610,321
+ASMs (000)                                   6,097,107   5,629,040
+Load factor                                      85.7%       81.9%
+Departures                                      37,502      36,056
+Average fare - scheduled service ($)             76.90       52.20
+Average fare - air-related charges ($)           69.55       69.49
+Average fare - third party products ($)           8.15        6.63
+Average fare - total ($)                        154.60      128.32
+Passenger revenue ($M)                           822.5       617.9
+Total operating revenue ($M)                     943.5       689.4

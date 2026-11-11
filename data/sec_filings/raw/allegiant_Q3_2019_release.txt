@@ -1,0 +1,18 @@
+source: Allegiant Travel Co press release "Allegiant Travel Company Third Quarter 2019 Financial Results" (October 24, 2019), PR Newswire (same text as 8-K ex. 99.1, accession 0001362468-19-000042)
+url: https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+fetched: 2026-11-11 (WebFetch text extract)
+
+Total system                                   Q3 2019     Q3 2018
+Passengers                                   3,806,369   3,503,849
+ASMs (000)                                   3,888,400   3,643,948
+Scheduled service
+Passengers                                   3,753,611   3,461,267
+RPMs (000)                                   3,170,826   2,988,962
+ASMs (000)                                   3,687,473   3,485,800
+Load factor                                      86.0%       85.7%
+Average fare - scheduled service ($)             54.20       59.23
+Average fare - air-related charges ($)           50.03       43.36
+Average fare - third party products ($)           4.85        4.60
+Average fare - total ($)                        109.08      107.19
+Passenger revenue ($000)                       391,222     355,100
+Total operating revenue ($000)                 436,509     393,109

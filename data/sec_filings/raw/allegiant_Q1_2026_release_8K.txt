@@ -1,0 +1,20 @@
+source: Allegiant Travel Co 8-K ex. 99.1, Q1 2026 earnings release (April 30, 2026), accession 0001362468-26-000019
+url: https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Total system                                   Q1 2026     Q1 2025
+Passengers                                   4,428,463   4,451,306
+ASMs (000)                                   5,130,542   5,451,584
+Departures                                      31,570      33,235
+Scheduled service
+Passengers                                   4,398,107   4,420,811
+RPMs (000)                                   4,210,895   4,271,328
+ASMs (000)                                   4,991,560   5,305,191
+Load factor                                      84.4%       80.5%
+Departures                                      30,472      32,133
+Average fare - scheduled service ($)             81.66       68.19
+Average fare - air-related charges ($)           71.09       71.32
+Average fare - third party products ($)           9.63        7.96
+Average fare - total ($)                        162.37      147.47
+Passenger revenue ($000)                       671,799     616,750
+Total operating revenue ($000)                 732,432     699,074

@@ -1,0 +1,18 @@
+source: Allegiant Travel Co 8-K ex. 99.1, Q3 2023 earnings release (November 2, 2023)
+url: https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Total system                                   Q3 2023     Q3 2022
+Passengers                                   4,292,031   4,359,417
+ASMs (000)                                   4,433,767   4,450,595
+Scheduled service
+Passengers                                   4,234,196   4,316,163
+RPMs (000)                                   3,744,225   3,820,339
+ASMs (000)                                   4,280,034   4,315,984
+Load factor                                      87.5%       88.5%
+Average fare - scheduled service ($)             57.43       61.26
+Average fare - air-related charges ($)           64.50       58.40
+Average fare - third party products ($)           7.31        6.29
+Average fare - total ($)                        129.23      125.95
+Passenger revenue ($000)                       516,251     516,476
+Total operating revenues ($000)                565,359     560,325

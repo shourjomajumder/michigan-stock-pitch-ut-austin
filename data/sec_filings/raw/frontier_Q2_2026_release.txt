@@ -1,0 +1,22 @@
+source: Frontier Airlines press release "Frontier Airlines Delivers Record Second Quarter 2026 Revenue of $1.3 billion..." (July 29, 2026)
+url: https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Delivers-Record-Second-Quarter-2026-Revenue-of-1-3-billion-up-38-percent-Year-over-Year-and-Significantly-Beats-Wal-3O320.pdf
+fetched: 2026-11-11 (WebFetch text extract; tables re-typed from extract)
+
+Operating statistics (three months ended June 30)      Q2 2026   Q2 2025
+Passengers (thousands)                                  9,730     8,499
+Revenue passenger miles (RPMs) (millions)               8,915     8,182
+Available seat miles (ASMs) (millions)                 11,103    10,313
+Load factor                                             80.3%     79.3%
+Fare revenue per passenger ($)                          63.04     40.94
+Non-fare passenger revenue per passenger ($)            63.87     64.77
+Total revenue per passenger ($)                        131.46    109.27
+Average stage length (miles)                              897       942
+Average aircraft in service                               172       163
+
+Income statement ($M)                                   Q2 2026   Q2 2025
+Passenger                                               1,235       898
+Other                                                      44        31
+Total operating revenues                                1,279       929
+(no separate quarterly fare-revenue line; fare revenue = fare/pax x pax: 613.4 / 348.0)
+
+Fleet at June 30, 2026: A320neo 72, A320ceo 6, A321ceo 21, A321neo 66; total 165

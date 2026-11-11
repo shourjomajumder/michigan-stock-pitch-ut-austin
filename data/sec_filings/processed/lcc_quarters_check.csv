@@ -1,0 +1,545 @@
+airline,field,quarter,our_value,filing_value,match,note,source_url
+Frontier,rpm_m,2019Q1,5344.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2019Q1,6220.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2019Q1,85.9,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2019Q1,533.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2019Q1,267.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2019Q1,4884.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2019Q2,6048.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2019Q2,6877.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2019Q2,87.9,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2019Q2,622.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2019Q2,316.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2019Q2,5692.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2019Q3,6405.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2019Q3,7463.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2019Q3,85.8,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2019Q3,652.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2019Q3,323.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2019Q3,6137.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2019Q4,6406.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2019Q4,7560.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2019Q4,84.7,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2019Q4,638.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2019Q4,300.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2019Q4,6110.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2020Q1,5315.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2020Q1,7140.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2020Q1,74.4,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2020Q1,528.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2020Q1,219.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2020Q1,4982.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2020Q2,841.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2020Q2,1549.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2020Q2,54.3,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2020Q2,185.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2020Q2,124.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2020Q2,868.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2020Q3,2491.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2020Q3,3986.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2020Q3,62.5,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2020Q3,237.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2020Q3,103.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2020Q3,2523.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2020Q4,2796.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2020Q4,4280.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2020Q4,65.3,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2020Q4,257.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2020Q4,102.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2020Q4,2865.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2021Q1,3211.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2021Q1,4592.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2021Q1,69.9,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2021Q1,262.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2021Q1,100.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2021Q1,3252.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2021Q2,5544.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2021Q2,6934.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2021Q2,80.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2021Q2,536.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2021Q2,214.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2021Q2,5602.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2021Q3,5807.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2021Q3,7505.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2021Q3,77.4,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2021Q3,610.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2021Q3,254.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2021Q3,5958.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2021Q4,5818.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,asm_m,2021Q4,7836.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,load_factor_pct,2021Q4,74.2,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passenger_revenue_usd_m,2021Q4,592.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,fare_revenue_usd_m,2021Q4,238.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,passengers_k,2021Q4,5896.0,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Frontier,rpm_m,2022Q1,5524.0,5524,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,asm_m,2022Q1,7442.0,7442,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2022Q1,74.2,74.2,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2022Q1,588.0,588,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2022Q1,5428.0,5428,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2022Q1,229.0,229.1,yes,filing value derived = fare revenue per passenger $42.2 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2022Q2,6388.0,6388,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,asm_m,2022Q2,7594.0,7594,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2022Q2,84.1,84.1,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2022Q2,890.0,890,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2022Q2,6518.0,6518,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2022Q2,420.0,420.0,yes,filing value derived = fare revenue per passenger $64.44 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2022Q3,6635.0,6635,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,asm_m,2022Q3,8040.0,8040,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2022Q3,82.5,82.5,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2022Q3,883.0,883,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2022Q3,6704.0,6704,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2022Q3,386.0,385.9,yes,filing value derived = fare revenue per passenger $57.57 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2022Q4,7122.0,7122,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,asm_m,2022Q4,8670.0,8670,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2022Q4,82.1,82.1,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2022Q4,887.0,887,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2022Q4,6836.0,6836,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2022Q4,347.0,347.0,yes,filing value derived = fare revenue per passenger $50.76 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2023Q1,7262.0,7262,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,asm_m,2023Q1,8775.0,8775,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2023Q1,82.8,82.8,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2023Q1,830.0,830,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2023Q1,6826.0,6826,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2023Q1,303.0,302.6,yes,filing value derived = fare revenue per passenger $44.33 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2023Q2,7964.0,7964,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,asm_m,2023Q2,9337.0,9337,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2023Q2,85.3,85.3,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2023Q2,945.0,945,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2023Q2,7596.0,7596,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2023Q2,361.0,361.5,yes,filing value derived = fare revenue per passenger $47.59 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2023Q3,7755.0,7755,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,asm_m,2023Q3,9697.0,9697,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2023Q3,80.0,80.0,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2023Q3,862.0,862,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2023Q3,7697.0,7697,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2023Q3,302.0,301.5,yes,filing value derived = fare revenue per passenger $39.17 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2023Q4,7817.0,7817,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,asm_m,2023Q4,10013.0,10013,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2023Q4,78.1,78.1,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2023Q4,872.0,872,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2023Q4,8099.0,8099,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2023Q4,311.0,311.3,yes,filing value derived = fare revenue per passenger $38.44 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2024Q1,6869.0,6869,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,asm_m,2024Q1,9446.0,9446,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2024Q1,72.7,72.7,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2024Q1,845.0,845,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2024Q1,7005.0,7005,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2024Q1,324.0,323.7,yes,filing value derived = fare revenue per passenger $46.21 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2024Q2,8238.0,8238,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,asm_m,2024Q2,10552.0,10552,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2024Q2,78.1,78.1,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2024Q2,950.0,950,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2024Q2,8899.0,8899,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2024Q2,355.0,355.2,yes,filing value derived = fare revenue per passenger $39.91 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2024Q3,7855.0,7855,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm
+Frontier,asm_m,2024Q3,10075.0,10075,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2024Q3,78.0,78.0,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2024Q3,910.0,910,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2024Q3,8834.0,8834,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2024Q3,342.0,341.9,yes,filing value derived = fare revenue per passenger $38.7 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2024Q4,7668.0,7668,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,asm_m,2024Q4,9798.0,9798,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,load_factor_pct,2024Q4,78.3,78.3,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,passenger_revenue_usd_m,2024Q4,978.0,978,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,passengers_k,2024Q4,8558.0,8558,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,fare_revenue_usd_m,2024Q4,414.0,414.2,yes,filing value derived = fare revenue per passenger $48.4 x passengers (no quarterly fare-revenue line); tolerance $1M,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,rpm_m,2025Q1,7454.0,7454,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm
+Frontier,asm_m,2025Q1,9949.0,9949,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2025Q1,74.9,74.9,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2025Q1,884.0,884,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2025Q1,7839.0,7839,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2025Q1,350.0,349.7,yes,filing value derived = fare revenue per passenger $44.61 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2025Q2,8182.0,8182,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm
+Frontier,asm_m,2025Q2,10313.0,10313,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2025Q2,79.3,79.3,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2025Q2,898.0,898,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2025Q2,8499.0,8499,yes,,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2025Q2,348.0,347.9,yes,filing value derived = fare revenue per passenger $40.94 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm
+Frontier,rpm_m,2025Q3,7815.0,7815,yes,,https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx
+Frontier,asm_m,2025Q3,9689.0,9689,yes,,https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx
+Frontier,load_factor_pct,2025Q3,80.7,80.7,yes,,https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx
+Frontier,passenger_revenue_usd_m,2025Q3,854.0,854,yes,,https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx
+Frontier,passengers_k,2025Q3,8325.0,8325,yes,,https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx
+Frontier,fare_revenue_usd_m,2025Q3,330.0,330.8,yes,filing value derived = fare revenue per passenger $39.74 x passengers (no quarterly fare-revenue line); tolerance $1M,https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx
+Frontier,rpm_m,2025Q4,7736.0,7736,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,asm_m,2025Q4,9803.0,9803,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,load_factor_pct,2025Q4,78.9,78.9,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,passenger_revenue_usd_m,2025Q4,962.0,962,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,passengers_k,2025Q4,8537.0,8537,yes,,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,fare_revenue_usd_m,2025Q4,453.0,452.4,yes,filing value derived = fare revenue per passenger $52.99 x passengers (no quarterly fare-revenue line); tolerance $1M,https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf
+Frontier,rpm_m,2026Q1,7686.0,7686,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Reports-First-Quarter-2026-Financial-Results-2026.pdf
+Frontier,asm_m,2026Q1,9809.0,9809,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Reports-First-Quarter-2026-Financial-Results-2026.pdf
+Frontier,load_factor_pct,2026Q1,78.4,78.4,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Reports-First-Quarter-2026-Financial-Results-2026.pdf
+Frontier,passenger_revenue_usd_m,2026Q1,952.0,952,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Reports-First-Quarter-2026-Financial-Results-2026.pdf
+Frontier,passengers_k,2026Q1,8324.0,8324,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Reports-First-Quarter-2026-Financial-Results-2026.pdf
+Frontier,fare_revenue_usd_m,2026Q1,449.0,448.9,yes,filing value derived = fare revenue per passenger $53.93 x passengers (no quarterly fare-revenue line); tolerance $1M,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Reports-First-Quarter-2026-Financial-Results-2026.pdf
+Frontier,rpm_m,2026Q2,8915.0,8915,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Delivers-Record-Second-Quarter-2026-Revenue-of-1-3-billion-up-38-percent-Year-over-Year-and-Significantly-Beats-Wal-3O320.pdf
+Frontier,asm_m,2026Q2,11103.0,11103,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Delivers-Record-Second-Quarter-2026-Revenue-of-1-3-billion-up-38-percent-Year-over-Year-and-Significantly-Beats-Wal-3O320.pdf
+Frontier,load_factor_pct,2026Q2,80.3,80.3,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Delivers-Record-Second-Quarter-2026-Revenue-of-1-3-billion-up-38-percent-Year-over-Year-and-Significantly-Beats-Wal-3O320.pdf
+Frontier,passenger_revenue_usd_m,2026Q2,1235.0,1235,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Delivers-Record-Second-Quarter-2026-Revenue-of-1-3-billion-up-38-percent-Year-over-Year-and-Significantly-Beats-Wal-3O320.pdf
+Frontier,passengers_k,2026Q2,9730.0,9730,yes,,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Delivers-Record-Second-Quarter-2026-Revenue-of-1-3-billion-up-38-percent-Year-over-Year-and-Significantly-Beats-Wal-3O320.pdf
+Frontier,fare_revenue_usd_m,2026Q2,613.0,613.4,yes,filing value derived = fare revenue per passenger $63.04 x passengers (no quarterly fare-revenue line); tolerance $1M,https://s21.q4cdn.com/257736825/files/doc_news/Frontier-Airlines-Delivers-Record-Second-Quarter-2026-Revenue-of-1-3-billion-up-38-percent-Year-over-Year-and-Significantly-Beats-Wal-3O320.pdf
+Frontier,rpm_m,2026Q3,9000.0,9000,yes,,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+Frontier,asm_m,2026Q3,11419.0,11419,yes,,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+Frontier,load_factor_pct,2026Q3,78.8,78.8,yes,,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+Frontier,passenger_revenue_usd_m,2026Q3,1327.0,1327,yes,,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+Frontier,passengers_k,2026Q3,9805.0,9805,yes,,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+Frontier,fare_revenue_usd_m,2026Q3,665.0,665.0,yes,filing value derived = fare revenue per passenger $67.82 x passengers (no quarterly fare-revenue line); tolerance $1M,https://www.sec.gov/Archives/edgar/data/0001670076/000167007626000102/frontier_earningsreleasexq.htm
+Allegiant,rpm_m,2018Q3,2988.96,2988.962,yes,scheduled service RPM,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,asm_m,2018Q3,3643.95,3643.95,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 3485.80. Basis differs across quarters (see README),https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,load_factor_pct,2018Q3,82.03,85.7,NO,"scheduled service LF; our value = RPM / total-system ASM, not the reported LF",https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,passenger_revenue_usd_m,2018Q3,355.1,355.1,yes,filing rounded to $0.1M,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,passengers_k,2018Q3,3503.85,3503.849,yes,total-system passengers,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,fare_per_pax_usd,2018Q3,107.19,107.19,yes,average fare - total,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,rpm_m,2018Q4,2846.25,2846.246,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,asm_m,2018Q4,3605.07,3605.07,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 3457.04. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,load_factor_pct,2018Q4,78.95,82.3,NO,"scheduled service LF; our value = RPM / total-system ASM, not the reported LF",https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,passenger_revenue_usd_m,2018Q4,376.26,376.3,yes,filing rounded to $0.1M,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,passengers_k,2018Q4,3239.29,3239.286,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,fare_per_pax_usd,2018Q4,122.59,122.59,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,rpm_m,2019Q1,3228.59,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2019Q1,3910.24,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2019Q1,82.6,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2019Q1,419.98,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2019Q1,3450.28,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2019Q1,127.75,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2019Q2,3654.37,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2019Q2,4447.07,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2019Q2,82.2,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2019Q2,454.78,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2019Q2,4169.54,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2019Q2,114.47,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2019Q3,3170.83,3170.826,yes,scheduled service RPM,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,asm_m,2019Q3,3888.4,3888.4,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 3687.47. Basis differs across quarters (see README),https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,load_factor_pct,2019Q3,81.54,86.0,NO,"scheduled service LF; our value = RPM / total-system ASM, not the reported LF",https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,passenger_revenue_usd_m,2019Q3,391.22,391.222,yes,,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,passengers_k,2019Q3,3806.37,3806.369,yes,total-system passengers,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,fare_per_pax_usd,2019Q3,109.08,109.08,yes,average fare - total,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,rpm_m,2019Q4,3073.06,3073.055,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,asm_m,2019Q4,3928.54,3928.54,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 3745.03. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,load_factor_pct,2019Q4,82.1,82.1,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,passenger_revenue_usd_m,2019Q4,416.98,417.0,yes,filing rounded to $0.1M,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,passengers_k,2019Q4,3585.97,3585.966,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,fare_per_pax_usd,2019Q4,123.26,123.26,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,rpm_m,2020Q1,2925.48,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2020Q1,4067.67,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2020Q1,73.8,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2020Q1,378.91,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2020Q1,3175.45,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2020Q1,125.18,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2020Q2,1107.53,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2020Q2,2220.76,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2020Q2,50.9,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2020Q2,116.52,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2020Q2,1273.26,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2020Q2,98.7,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2020Q3,1714.62,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2020Q3,3521.51,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2020Q3,49.7,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2020Q3,181.92,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2020Q3,2016.24,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2020Q3,96.45,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2020Q4,1878.83,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2020Q4,3315.6,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2020Q4,58.2,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2020Q4,224.84,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2020Q4,2159.04,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2020Q4,110.63,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2021Q1,2166.42,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2021Q1,4013.99,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2021Q1,55.3,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2021Q1,256.7,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2021Q1,2334.5,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2021Q1,116.35,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2021Q2,3188.22,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2021Q2,4594.54,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2021Q2,70.8,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2021Q2,443.75,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2021Q2,3699.22,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2021Q2,126.82,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2021Q3,3302.52,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2021Q3,4441.2,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2021Q3,76.6,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2021Q3,423.8,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2021Q3,3872.65,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2021Q3,116.91,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2021Q4,3306.56,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,asm_m,2021Q4,4440.84,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,load_factor_pct,2021Q4,77.1,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passenger_revenue_usd_m,2021Q4,454.2,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,passengers_k,2021Q4,3731.03,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,fare_per_pax_usd,2021Q4,130.62,,not checked,no filing fetched (quarter not used in lcc_quarters),
+Allegiant,rpm_m,2022Q1,3558.05,3558.045,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000021/a2023q18-kex991.htm
+Allegiant,asm_m,2022Q1,4620.14,4620.14,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4512.31. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246823000021/a2023q18-kex991.htm
+Allegiant,load_factor_pct,2022Q1,78.9,78.9,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000021/a2023q18-kex991.htm
+Allegiant,passenger_revenue_usd_m,2022Q1,463.96,463.961,yes,,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000021/a2023q18-kex991.htm
+Allegiant,passengers_k,2022Q1,3734.26,3734.262,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000021/a2023q18-kex991.htm
+Allegiant,fare_per_pax_usd,2022Q1,131.15,131.15,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000021/a2023q18-kex991.htm
+Allegiant,rpm_m,2022Q2,4267.83,4267.828,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,asm_m,2022Q2,4990.09,4990.09,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4888.54. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,load_factor_pct,2022Q2,87.3,87.3,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,passenger_revenue_usd_m,2022Q2,592.6,592.604,yes,,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,passengers_k,2022Q2,4740.4,4740.399,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,fare_per_pax_usd,2022Q2,131.69,131.69,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,rpm_m,2022Q3,3820.34,3820.339,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,asm_m,2022Q3,4450.6,4450.6,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4315.98. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,load_factor_pct,2022Q3,88.5,88.5,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,passenger_revenue_usd_m,2022Q3,516.48,516.476,yes,,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,passengers_k,2022Q3,4359.42,4359.417,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,fare_per_pax_usd,2022Q3,125.95,125.95,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,rpm_m,2022Q4,3578.13,3578.134,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,asm_m,2022Q4,4358.22,4358.22,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4192.35. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,load_factor_pct,2022Q4,85.3,85.3,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,passenger_revenue_usd_m,2022Q4,564.72,564.7,yes,filing rounded to $0.1M,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,passengers_k,2022Q4,3962.47,3962.466,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,fare_per_pax_usd,2022Q4,151.08,151.08,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,rpm_m,2023Q1,3925.36,3925.362,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,asm_m,2023Q1,4677.62,4677.62,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4573.77. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,load_factor_pct,2023Q1,85.8,85.8,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,passenger_revenue_usd_m,2023Q1,609.28,609.277,yes,,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,passengers_k,2023Q1,4148.45,4148.453,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,fare_per_pax_usd,2023Q1,154.12,154.12,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,rpm_m,2023Q2,4278.4,4278.399,yes,scheduled service RPM,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,asm_m,2023Q2,5053.55,5053.55,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4925.19. Basis differs across quarters (see README),https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,load_factor_pct,2023Q2,86.9,86.9,yes,scheduled service LF,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,passenger_revenue_usd_m,2023Q2,642.75,642.747,yes,,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,passengers_k,2023Q2,4755.98,4755.981,yes,total-system passengers,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,fare_per_pax_usd,2023Q2,142.31,142.31,yes,average fare - total,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,rpm_m,2023Q3,3744.23,3744.225,yes,scheduled service RPM,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,asm_m,2023Q3,4433.77,4433.77,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4280.03. Basis differs across quarters (see README),https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,load_factor_pct,2023Q3,87.5,87.5,yes,scheduled service LF,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,passenger_revenue_usd_m,2023Q3,516.25,516.251,yes,,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,passengers_k,2023Q3,4292.03,4292.031,yes,total-system passengers,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,fare_per_pax_usd,2023Q3,129.23,129.23,yes,average fare - total,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,rpm_m,2023Q4,3691.34,3691.343,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,asm_m,2023Q4,4607.17,4607.17,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4429.83. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,load_factor_pct,2023Q4,83.3,83.3,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,passenger_revenue_usd_m,2023Q4,556.12,556.1,yes,filing rounded to $0.1M,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,passengers_k,2023Q4,4145.77,4145.771,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,fare_per_pax_usd,2023Q4,143.27,143.27,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,rpm_m,2024Q1,3883.81,3883.81,yes,scheduled service RPM,https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,asm_m,2024Q1,4771.97,4771.97,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4636.92. Basis differs across quarters (see README),https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,load_factor_pct,2024Q1,83.8,83.8,yes,scheduled service LF,https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,passenger_revenue_usd_m,2024Q1,579.94,579.936,yes,,https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,passengers_k,2024Q1,4104.86,4104.86,yes,total-system passengers,https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,fare_per_pax_usd,2024Q1,150.71,150.71,yes,average fare - total,https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,rpm_m,2024Q2,4108.29,4108.288,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,asm_m,2024Q2,5013.21,5013.21,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4848.02. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,load_factor_pct,2024Q2,84.7,84.7,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,passenger_revenue_usd_m,2024Q2,594.5,594.499,yes,,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,passengers_k,2024Q2,4621.85,4621.848,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,fare_per_pax_usd,2024Q2,138.12,138.12,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,rpm_m,2024Q3,3701.75,3701.747,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Allegiant,asm_m,2024Q3,4501.53,4501.53,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4326.87. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Allegiant,load_factor_pct,2024Q3,85.6,85.6,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Allegiant,passenger_revenue_usd_m,2024Q3,488.99,488.989,yes,,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Allegiant,passengers_k,2024Q3,4256.25,4256.249,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Allegiant,fare_per_pax_usd,2024Q3,125.95,125.95,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Allegiant,rpm_m,2024Q4,3609.89,3609.892,yes,scheduled service RPM,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,asm_m,2024Q4,4698.0,4698.0,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4503.06. Basis differs across quarters (see README),https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,load_factor_pct,2024Q4,80.2,80.2,yes,scheduled service LF,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,passenger_revenue_usd_m,2024Q4,553.64,553.6,yes,filing rounded to $0.1M,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,passengers_k,2024Q4,3999.88,3999.879,yes,total-system passengers,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,fare_per_pax_usd,2024Q4,149.17,149.17,yes,average fare - total,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,rpm_m,2025Q1,4271.33,4271.328,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,asm_m,2025Q1,5451.58,5451.58,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 5305.19. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,load_factor_pct,2025Q1,80.5,80.5,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,passenger_revenue_usd_m,2025Q1,616.75,616.75,yes,,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,passengers_k,2025Q1,4451.31,4451.306,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,fare_per_pax_usd,2025Q1,147.47,147.47,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,rpm_m,2025Q2,4610.32,4610.321,yes,scheduled service RPM,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,asm_m,2025Q2,5629.04,5629.04,yes (scheduled),equals SCHEDULED-service ASM; total-system ASM is 5799.41. Basis differs across quarters (see README),https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,load_factor_pct,2025Q2,81.9,81.9,yes,scheduled service LF,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,passenger_revenue_usd_m,2025Q2,617.91,617.9,yes,filing rounded to $0.1M,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,passengers_k,2025Q2,5127.02,5127.025,yes,total-system passengers,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,fare_per_pax_usd,2025Q2,128.32,128.32,yes,average fare - total,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,rpm_m,2025Q3,4022.76,4022.761,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,asm_m,2025Q3,4939.44,4939.44,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4769.24. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,load_factor_pct,2025Q3,84.3,84.3,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,passenger_revenue_usd_m,2025Q3,494.14,494.144,yes,,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,passengers_k,2025Q3,4629.83,4629.834,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,fare_per_pax_usd,2025Q3,116.7,116.7,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,rpm_m,2025Q4,4043.24,4043.244,yes,scheduled service RPM,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,asm_m,2025Q4,4976.43,4976.43,yes (scheduled),equals SCHEDULED-service ASM; total-system ASM is 5179.10. Basis differs across quarters (see README),https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,load_factor_pct,2025Q4,81.2,81.2,yes,scheduled service LF,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,passenger_revenue_usd_m,2025Q4,595.54,595.5,yes,filing rounded to $0.1M,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,passengers_k,2025Q4,4528.99,4528.986,yes,total-system passengers,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,fare_per_pax_usd,2025Q4,141.75,141.75,yes,average fare - total,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx
+Allegiant,rpm_m,2026Q1,4210.9,4210.895,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,asm_m,2026Q1,5130.54,5130.54,yes (total system),equals TOTAL-SYSTEM ASM; scheduled ASM (same basis as RPM/LF) is 4991.56. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,load_factor_pct,2026Q1,84.4,84.4,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,passenger_revenue_usd_m,2026Q1,671.8,671.799,yes,,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,passengers_k,2026Q1,4428.46,4428.463,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,fare_per_pax_usd,2026Q1,162.37,162.37,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm
+Allegiant,rpm_m,2026Q2,5226.07,5226.07,yes,scheduled service RPM,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,asm_m,2026Q2,6097.11,6097.11,yes (scheduled),equals SCHEDULED-service ASM; total-system ASM is 6406.32. Basis differs across quarters (see README),https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,load_factor_pct,2026Q2,85.7,85.7,yes,scheduled service LF,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,passenger_revenue_usd_m,2026Q2,822.49,822.5,yes,filing rounded to $0.1M,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,passengers_k,2026Q2,5753.54,5753.539,yes,total-system passengers,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,fare_per_pax_usd,2026Q2,154.6,154.6,yes,average fare - total,https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf
+Allegiant,rpm_m,2026Q3,5024.13,5024.132,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,asm_m,2026Q3,5796.21,5796.21,yes (scheduled),equals SCHEDULED-service ASM; total-system ASM is 6305.48. Basis differs across quarters (see README),https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,load_factor_pct,2026Q3,86.7,86.7,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,passenger_revenue_usd_m,2026Q3,777.45,777.448,yes,,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,passengers_k,2026Q3,5707.1,5707.095,yes,total-system passengers,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Allegiant,fare_per_pax_usd,2026Q3,150.92,150.92,yes,average fare - total,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm
+Sun Country,rpm_m,2022Q2,1126.03,1126.03,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390723000015/q22023-ex991.htm
+Sun Country,asm_total_m,2022Q2,1632.5,1632.5,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390723000015/q22023-ex991.htm
+Sun Country,load_factor_pct,2022Q2,83.8,83.8,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390723000015/q22023-ex991.htm
+Sun Country,passenger_revenue_usd_m,2022Q2,195.36,195.362,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390723000015/q22023-ex991.htm
+Sun Country,rpm_m,2022Q3,1101.01,1101.011,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390723000022/q32023-ex991.htm
+Sun Country,asm_total_m,2022Q3,1553.48,1553.48,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390723000022/q32023-ex991.htm
+Sun Country,load_factor_pct,2022Q3,87.6,87.6,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390723000022/q32023-ex991.htm
+Sun Country,passenger_revenue_usd_m,2022Q3,195.36,195.36,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390723000022/q32023-ex991.htm
+Sun Country,rpm_m,2022Q4,1141.49,1141.495,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000003/q42023-ex991.htm
+Sun Country,asm_total_m,2022Q4,1645.66,1657.21,NO,matches neither total nor scheduled (1352.83); not used by build script,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000003/q42023-ex991.htm
+Sun Country,load_factor_pct,2022Q4,84.4,84.4,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000003/q42023-ex991.htm
+Sun Country,passenger_revenue_usd_m,2022Q4,199.68,199.679,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390724000003/q42023-ex991.htm
+Sun Country,rpm_m,2023Q1,1432.13,1432.131,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000007/q12024-ex991.htm
+Sun Country,asm_total_m,2023Q1,1625.73,1945.0,NO,"our value is SCHEDULED ASM (1625.73), column is labelled total; not used by build script (ASM = RPM/LF)",https://www.sec.gov/Archives/edgar/data/1743907/000174390724000007/q12024-ex991.htm
+Sun Country,load_factor_pct,2023Q1,88.1,88.1,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000007/q12024-ex991.htm
+Sun Country,passenger_revenue_usd_m,2023Q1,267.27,267.269,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390724000007/q12024-ex991.htm
+Sun Country,rpm_m,2023Q2,1216.26,1216.261,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm
+Sun Country,asm_total_m,2023Q2,1417.78,1780.34,NO,"our value is SCHEDULED ASM (1417.78), column is labelled total; not used by build script (ASM = RPM/LF)",https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm
+Sun Country,load_factor_pct,2023Q2,85.8,85.8,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm
+Sun Country,passenger_revenue_usd_m,2023Q2,227.87,227.866,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm
+Sun Country,rpm_m,2023Q3,1252.58,1252.583,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm
+Sun Country,asm_total_m,2023Q3,1791.49,1791.48,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm
+Sun Country,load_factor_pct,2023Q3,86.6,86.6,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm
+Sun Country,passenger_revenue_usd_m,2023Q3,214.36,214.355,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm
+Sun Country,rpm_m,2023Q4,1316.88,1316.877,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm
+Sun Country,asm_total_m,2023Q4,1554.04,1899.36,NO,"our value is SCHEDULED ASM (1554.04), column is labelled total; not used by build script (ASM = RPM/LF)",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm
+Sun Country,load_factor_pct,2023Q4,84.74,84.7,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm
+Sun Country,passenger_revenue_usd_m,2023Q4,210.63,210.633,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm
+Sun Country,rpm_m,2024Q1,1654.85,1654.851,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm
+Sun Country,asm_total_m,2024Q1,2211.89,2211.89,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm
+Sun Country,load_factor_pct,2024Q1,87.4,87.4,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm
+Sun Country,passenger_revenue_usd_m,2024Q1,274.66,274.664,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm
+Sun Country,rpm_m,2024Q2,1392.31,1392.312,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,asm_total_m,2024Q2,2011.92,2011.92,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,load_factor_pct,2024Q2,83.1,83.1,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,passenger_revenue_usd_m,2024Q2,216.4,216.395,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,rpm_m,2024Q3,1288.46,1288.46,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,asm_total_m,2024Q3,1884.89,1884.89,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,load_factor_pct,2024Q3,84.2,84.2,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,passenger_revenue_usd_m,2024Q3,207.76,207.764,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,rpm_m,2024Q4,1312.73,1312.728,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+Sun Country,asm_total_m,2024Q4,1963.25,1963.25,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+Sun Country,load_factor_pct,2024Q4,81.6,81.6,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+Sun Country,passenger_revenue_usd_m,2024Q4,215.26,215.264,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+Sun Country,rpm_m,2025Q1,1686.48,1686.484,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm
+Sun Country,asm_total_m,2025Q1,2370.76,2370.76,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm
+Sun Country,load_factor_pct,2025Q1,83.5,83.5,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm
+Sun Country,passenger_revenue_usd_m,2025Q1,285.89,285.888,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm
+Sun Country,rpm_m,2025Q2,1285.93,1285.926,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,asm_total_m,2025Q2,1933.87,1933.87,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,load_factor_pct,2025Q2,81.8,81.8,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,passenger_revenue_usd_m,2025Q2,214.67,214.668,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,rpm_m,2025Q3,1165.18,1165.182,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,asm_total_m,2025Q3,1770.57,1770.57,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,load_factor_pct,2025Q3,84.8,84.8,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,passenger_revenue_usd_m,2025Q3,201.1,201.098,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,rpm_m,2025Q4,1224.94,1224.939,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+Sun Country,asm_total_m,2025Q4,1450.56,1848.66,NO,"our value is SCHEDULED ASM (1450.56), column is labelled total; not used by build script (ASM = RPM/LF)",https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+Sun Country,load_factor_pct,2025Q4,84.4,84.4,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+Sun Country,passenger_revenue_usd_m,2025Q4,221.48,221.475,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+Sun Country,rpm_m,2026Q1,1501.17,1501.173,yes,scheduled service RPM,https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm
+Sun Country,asm_total_m,2026Q1,2112.94,2112.94,yes,total-system ASM (not used by build script),https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm
+Sun Country,load_factor_pct,2026Q1,85.5,85.5,yes,scheduled service LF,https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm
+Sun Country,passenger_revenue_usd_m,2026Q1,285.26,285.259,yes,total passenger revenue (scheduled + charter + ancillary),https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm
+Allegiant,lcc_quarters.fare,2019Q3,3.85,3.85,yes,"YoY %, recomputed from filings",https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html ; https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,lcc_quarters.traffic,2019Q3,6.08,6.08,yes,"YoY %, recomputed from filings",https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html ; https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,lcc_quarters.seats,2019Q3,6.71,6.71,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 5.79,https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html ; https://prnewswire.com/news-releases/allegiant-travel-company-third-quarter-2019-financial-results-300945106.html
+Allegiant,lcc_quarters.fare,2019Q4,2.64,2.64,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,lcc_quarters.traffic,2019Q4,7.97,7.97,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,lcc_quarters.seats,2019Q4,8.97,8.97,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 8.33,https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246820000002/a2019q48-kex991.htm
+Allegiant,lcc_quarters.fare,2023Q2,8.19,8.19,yes,"YoY %, recomputed from filings",https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,lcc_quarters.traffic,2023Q2,0.25,0.25,yes,"YoY %, recomputed from filings",https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,lcc_quarters.seats,2023Q2,1.27,1.27,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 0.75,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246823000037/a2023q28-kex991.htm
+Allegiant,lcc_quarters.fare,2023Q3,1.99,1.99,yes,"YoY %, recomputed from filings",https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,lcc_quarters.traffic,2023Q3,-1.99,-1.99,yes,"YoY %, recomputed from filings",https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,lcc_quarters.seats,2023Q3,-0.38,-0.38,yes (total system),YoY % of total-system ASM; scheduled-service basis would be -0.83,https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246823000054/a2023q38-kex991.htm
+Allegiant,lcc_quarters.fare,2023Q4,-4.54,-4.54,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,lcc_quarters.traffic,2023Q4,3.16,3.16,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,lcc_quarters.seats,2023Q4,5.71,5.71,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 5.66,https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,lcc_quarters.fare,2024Q1,-3.8,-3.8,yes,"YoY %, recomputed from filings",https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,lcc_quarters.traffic,2024Q1,-1.06,-1.06,yes,"YoY %, recomputed from filings",https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,lcc_quarters.seats,2024Q1,2.02,2.02,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 1.38,https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000017/a2024q18-kex991.htm
+Allegiant,lcc_quarters.fare,2024Q2,-3.68,-3.68,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.traffic,2024Q2,-3.98,-3.98,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.seats,2024Q2,-0.8,-0.8,yes (total system),YoY % of total-system ASM; scheduled-service basis would be -1.57,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2024/q2/2024-Q2-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.fare,2024Q3,-4.19,-4.19,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.traffic,2024Q3,-1.13,-1.13,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.seats,2024Q3,1.53,1.53,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 1.09,https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.fare,2024Q4,1.8,1.8,yes,"YoY %, recomputed from filings",https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,lcc_quarters.traffic,2024Q4,-2.21,-2.21,yes,"YoY %, recomputed from filings",https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,lcc_quarters.seats,2024Q4,1.97,1.97,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 1.65,https://ir.allegiantair.com/news/news-details/2026/ALLEGIANT-TRAVEL-COMPANY-FOURTH-QUARTER-AND-FULL-YEAR-2025-FINANCIAL-RESULTS/default.aspx ; https://www.sec.gov/Archives/edgar/data/1362468/000136246824000004/a2023q48-kex991.htm
+Allegiant,lcc_quarters.fare,2025Q1,-3.3,-3.3,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.traffic,2025Q1,9.98,9.98,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.seats,2025Q1,14.24,14.24,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 14.41,https://www.sec.gov/Archives/edgar/data/1362468/000136246826000019/a2026q18-kex991.htm ; https://s203.q4cdn.com/206970327/files/doc_financials/2025/q1/2025-Q1-8-K-Ex-99-1.pdf
+Allegiant,lcc_quarters.fare,2025Q2,-7.38,-7.38,yes,"YoY %, recomputed from filings",https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,lcc_quarters.traffic,2025Q2,12.22,12.22,yes,"YoY %, recomputed from filings",https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,lcc_quarters.seats,2025Q2,12.28,15.68,NO,"mixes bases (scheduled ASM this year / total-system ASM prior year). Consistent: total 15.68, scheduled 16.11",https://s203.q4cdn.com/206970327/files/doc_financials/2026/q2/v2/2026-Q2-8-K-Ex-99-1-1-1.pdf ; https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+Allegiant,lcc_quarters.fare,2025Q3,-7.01,-7.01,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Allegiant,lcc_quarters.traffic,2025Q3,8.67,8.67,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Allegiant,lcc_quarters.seats,2025Q3,9.73,9.73,yes (total system),YoY % of total-system ASM; scheduled-service basis would be 10.22,https://www.sec.gov/Archives/edgar/data/0001362468/000136246826000065/algt-20260930.htm ; https://www.sec.gov/Archives/edgar/data/1362468/000136246825000051/a2025q38-kex991.htm
+Sun Country,lcc_quarters.fare,2023Q2,7.99,7.98,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390723000015/q22023-ex991.htm
+Sun Country,lcc_quarters.traffic,2023Q2,8.01,8.01,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390723000015/q22023-ex991.htm
+Sun Country,lcc_quarters.seats,2023Q2,5.5,5.5,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = 5.56",https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390723000015/q22023-ex991.htm
+Sun Country,lcc_quarters.fare,2023Q3,-3.55,-3.55,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390723000022/q32023-ex991.htm
+Sun Country,lcc_quarters.traffic,2023Q3,13.77,13.77,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390723000022/q32023-ex991.htm
+Sun Country,lcc_quarters.seats,2023Q3,15.08,15.08,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = 15.09",https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390723000022/q32023-ex991.htm
+Sun Country,lcc_quarters.fare,2023Q4,-8.57,-8.56,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000003/q42023-ex991.htm
+Sun Country,lcc_quarters.traffic,2023Q4,15.37,15.36,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000003/q42023-ex991.htm
+Sun Country,lcc_quarters.seats,2023Q4,14.9,14.96,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = 14.87",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000003/q42023-ex991.htm
+Sun Country,lcc_quarters.fare,2024Q1,-11.07,-11.06,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000007/q12024-ex991.htm
+Sun Country,lcc_quarters.traffic,2024Q1,15.55,15.55,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000007/q12024-ex991.htm
+Sun Country,lcc_quarters.seats,2024Q1,16.48,16.48,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = 16.43",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000007/q12024-ex991.htm
+Sun Country,lcc_quarters.fare,2024Q2,-17.04,-17.04,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm
+Sun Country,lcc_quarters.traffic,2024Q2,14.47,14.47,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm
+Sun Country,lcc_quarters.seats,2024Q2,18.19,18.19,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = 18.21",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000013/q22024-ex991.htm
+Sun Country,lcc_quarters.fare,2024Q3,-5.78,-5.77,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm
+Sun Country,lcc_quarters.traffic,2024Q3,2.86,2.86,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm
+Sun Country,lcc_quarters.seats,2024Q3,5.8,5.8,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = 5.78",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390724000019/q32024-ex991.htm
+Sun Country,lcc_quarters.fare,2024Q4,2.52,2.52,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm
+Sun Country,lcc_quarters.traffic,2024Q4,-0.32,-0.32,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm
+Sun Country,lcc_quarters.seats,2024Q4,3.52,3.47,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = 3.5",https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000003/q42024-ex991.htm
+Sun Country,lcc_quarters.fare,2025Q1,2.14,2.13,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm
+Sun Country,lcc_quarters.traffic,2025Q1,1.91,1.91,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm
+Sun Country,lcc_quarters.seats,2025Q1,6.67,6.67,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = 6.74",https://www.sec.gov/Archives/edgar/data/0001743907/000174390726000035/sncy-20260331.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000017/q12025-ex991.htm
+Sun Country,lcc_quarters.fare,2025Q2,7.41,7.41,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,lcc_quarters.traffic,2025Q2,-7.64,-7.64,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,lcc_quarters.seats,2025Q2,-6.17,-6.17,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = -6.25",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000026/q22025-ex991.htm
+Sun Country,lcc_quarters.fare,2025Q3,7.04,7.03,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,lcc_quarters.traffic,2025Q3,-9.57,-9.57,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Sun Country,lcc_quarters.seats,2025Q3,-10.21,-10.21,yes,"YoY %, recomputed from filings using ASM = RPM / reported LF (1-dp LF; tolerance 0.15pp); reported scheduled ASM growth = -10.17",https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm ; https://www.sec.gov/Archives/edgar/data/1743907/000174390725000067/q32025-ex991.htm
+Frontier,lcc_quarters.fare,2023Q2,-14.83,-14.83,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2023Q2,24.67,24.67,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2023Q2,22.95,22.95,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2023Q3,-16.48,-16.48,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2023Q3,16.88,16.88,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2023Q3,20.61,20.61,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2023Q4,-10.43,-10.43,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2023Q4,9.76,9.76,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2023Q4,15.49,15.49,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2024Q1,7.63,7.63,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2024Q1,-5.41,-5.41,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2024Q1,7.65,7.65,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000052/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2024Q2,-2.81,-2.81,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2024Q2,3.44,3.44,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2024Q2,13.01,13.01,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2024Q3,4.22,4.22,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2024Q3,1.29,1.29,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2024Q3,3.9,3.9,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007623000085/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2024Q4,14.34,14.34,yes,"YoY %, recomputed from filings",https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2024Q4,-1.91,-1.91,yes,"YoY %, recomputed from filings",https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2024Q4,-2.15,-2.15,yes,"YoY %, recomputed from filings",https://s21.q4cdn.com/257736825/files/doc_financials/2025/q4/Frontier-Airlines-Reports-Fourth-Quarter-2025-Financial-Results.pdf ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000004/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2025Q1,-3.59,-3.59,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2025Q1,8.52,8.52,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2025Q1,5.33,5.33,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000109/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000077/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2025Q2,-4.83,-4.83,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2025Q2,-0.68,-0.68,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2025Q2,-2.26,-2.26,yes,"YoY %, recomputed from filings",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/frontier_earningsreleasexq.htm ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000122/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.fare,2025Q3,-5.67,-5.67,yes,"YoY %, recomputed from filings",https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.traffic,2025Q3,-0.51,-0.51,yes,"YoY %, recomputed from filings",https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm
+Frontier,lcc_quarters.seats,2025Q3,-3.83,-3.83,yes,"YoY %, recomputed from filings",https://ir.flyfrontier.com/news-events/news/news-details/2025/Frontier-Airlines-Reports-Third-Quarter-2025-Financial-Results-11-05-2025/default.aspx ; https://www.sec.gov/Archives/edgar/data/1670076/000167007624000154/frontier_earningsreleasexq.htm

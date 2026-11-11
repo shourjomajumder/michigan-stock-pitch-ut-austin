@@ -1,0 +1,24 @@
+source: Sun Country Airlines Holdings 8-K ex. 99.1, Q4 and FY2025 results (February 5, 2026)
+url: https://www.sec.gov/Archives/edgar/data/1743907/000174390726000028/q42025-ex991.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Scheduled service                              Q4 2025     Q4 2024
+Departures                                       6,232       6,930
+Passengers                                     980,532   1,046,510
+RPMs (000)                                   1,224,939   1,312,728
+ASMs (000)                                   1,450,556   1,608,432
+Load factor                                      84.4%       81.6%
+Average base fare per passenger ($)              97.49       91.81
+Ancillary revenue per passenger ($)              70.67       68.07
+Total system
+Departures                                      14,604      13,130
+ASMs (000)                                   1,848,662   1,963,254
+
+Operating revenue ($000)                       Q4 2025     Q4 2024
+Scheduled service                               95,592      96,077
+Charter                                         56,591      47,955
+Ancillary                                       69,292      71,232
+Passenger revenue                              221,475     215,264
+Cargo                                           48,045      28,615
+Other                                           11,441      16,527
+Total operating revenue                        280,961     260,406

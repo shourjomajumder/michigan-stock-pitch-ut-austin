@@ -1,0 +1,19 @@
+source: Allegiant Travel Co Q3 2024 earnings release, 8-K ex. 99.1 (October 30, 2024)
+url: https://s203.q4cdn.com/206970327/files/doc_financials/2024/q3/2024-Q3-8-K-Ex-99-1.pdf
+alt url: https://www.sec.gov/Archives/edgar/data/1362468/000136246824000058/a2024q38-kex991.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Total system                                   Q3 2024     Q3 2023
+Passengers                                   4,256,249   4,292,031
+ASMs (000)                                   4,501,532   4,433,767
+Scheduled service
+Passengers                                   4,195,572   4,234,196
+RPMs (000)                                   3,701,747   3,744,225
+ASMs (000)                                   4,326,870   4,280,034
+Load factor                                      85.6%       87.5%
+Average fare - scheduled service ($)             51.92       57.43
+Average fare - air-related charges ($)           64.63       64.50
+Average fare - third party products ($)           9.40        7.31
+Average fare - total ($)                        125.95      129.23
+Passenger revenue ($000)                       488,989     516,251
+Total operating revenues ($000)                562,196     565,359

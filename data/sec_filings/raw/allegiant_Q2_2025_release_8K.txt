@@ -1,0 +1,20 @@
+source: Allegiant Travel Co 8-K ex. 99.1, Q2 2025 earnings release (August 4, 2025)
+url: https://www.sec.gov/Archives/edgar/data/1362468/000136246825000040/a2025q28-kex991.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Total system                                   Q2 2025     Q2 2024
+Passengers                                   5,127,025   4,621,848
+ASMs (000)                                   5,799,409   5,013,209
+Departures                                      37,314      32,252
+Scheduled service
+Passengers                                   5,077,788   4,572,769
+RPMs (000)                                   4,610,321   4,108,288
+ASMs (000)                                   5,629,040   4,848,017
+Load factor                                      81.9%       84.7%
+Departures                                      36,056      31,128
+Average fare - scheduled service ($)             52.20       62.79
+Average fare - air-related charges ($)           69.49       67.22
+Average fare - third party products ($)           6.63        8.11
+Average fare - total ($)                        128.32      138.12
+Passenger revenue ($M)                           617.9       594.5
+Total operating revenue ($M)                     689.4       666.3

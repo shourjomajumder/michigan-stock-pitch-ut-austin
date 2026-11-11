@@ -1,0 +1,18 @@
+source: Frontier Group Holdings 8-K ex. 99.1, Q2 2023 earnings release (August 1, 2023)
+url: https://www.sec.gov/Archives/edgar/data/1670076/000167007623000070/frontier_earningsreleasexq.htm
+fetched: 2026-11-11 (WebFetch text extract)
+
+Operating statistics                                    Q2 2023   Q2 2022
+Passengers (thousands)                                  7,596     6,518
+RPMs (millions)                                         7,964     6,388
+ASMs (millions)                                         9,337     7,594
+Load factor                                             85.3%     84.1%
+Fare revenue per passenger ($)                          47.59     64.44
+Non-fare passenger revenue per passenger ($)            76.89     72.01
+Total revenue per passenger ($)                        127.23    139.40
+
+Operating revenues ($M)                                 Q2 2023   Q2 2022
+Passenger revenue                                         945       890
+Other revenue                                              22        19
+Total operating revenues                                  967       909
+(fare revenue derived: 361.5 / 420.0)
