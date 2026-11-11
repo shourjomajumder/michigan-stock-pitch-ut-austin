@@ -1,0 +1,13 @@
+stat,value
+window,"2025-11-03 to 2026-11-02, Yahoo closes only"
+corr_weekly_log_returns,0.83
+corr_daily_log_returns,0.69
+ann_vol_frontier_daily_pct,78.2
+ann_vol_jetblue_daily_pct,68.0
+frontier_52w_high,8.35
+frontier_52w_low,3.1
+jetblue_52w_high,6.46
+jetblue_52w_low,2.37
+frontier_close_2026-11-09,8.35
+jetblue_close_2026-11-09,3.94
+spy_close_2026-11-09,752.69

@@ -1,0 +1,9 @@
+company,ticker,role,price_usd,market_cap_usd_mm,total_debt_incl_op_leases_usd_mm,cash_usd_mm,fy2027e_revenue_usd_mm,fy2027e_eps_usd
+Frontier Group,ULCC,subject,7.945,1830.668,5050.0,976.0,5449.082,0.1921
+JetBlue Airways,JBLU,subject,4.0066,1511.898,9346.0,1509.0,11495.48,-1.23734
+Allegiant Travel,ALGT,peer,93.77,2560.62,3006.304,854.196,4543.736,10.00263
+Southwest Airlines,LUV,peer,45.79,22413.124,6871.0,3624.0,35883.575,4.17076
+Alaska Air Group,ALK,peer,41.22,4648.644,7519.0,2231.0,17388.197,2.06668
+American Airlines,AAL,peer,13.9959,9273.941,37207.0,8738.0,68260.144,0.93463
+United Airlines,UAL,peer,118.6,38532.473,34294.0,14653.0,73565.631,11.77428
+Delta Air Lines,DAL,peer,91.225,60018.057,19935.0,3787.0,77336.883,7.29467

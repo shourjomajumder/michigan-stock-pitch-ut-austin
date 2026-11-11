@@ -1,0 +1,11 @@
+check,result,detail
+enc.txt JETS (cents) vs close csv,OK,257 values vs 257 rows
+enc.txt SPY (cents) vs close csv,OK,257 values vs 257 rows
+enc.txt IWM (cents) vs close csv,OK,257 values vs 257 rows
+enc.txt XLY (cents) vs close csv,OK,257 values vs 257 rows
+enc.txt ULCC (cents) vs close csv,OK,257 values vs 257 rows
+enc.txt JBLU (cents) vs close csv,OK,257 values vs 257 rows
+hyga.txt HYG (x1000) vs close csv,OK,257 values
+stock/raw.txt vs adjclose csv (common dates),OK,"251 capture rows, 251 csv rows, 0 csv dates not in capture"
+slides/stocks_raw.txt vs close csv (common dates),OK,250 capture rows over 250 trading days
+"JBLU, ULCC: Adj Close == Close (no dividends)",OK,
