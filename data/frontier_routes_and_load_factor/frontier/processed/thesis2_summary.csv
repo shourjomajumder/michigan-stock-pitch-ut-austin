@@ -1,0 +1,6 @@
+item,value,source
+"System RASM Q3 2026, cents",11.87,Frontier Q3 2026 10-Q (total revenue / ASM)
+"Q3 2027 route effect, $K",3009.0,code/f2_ramp_k.py
+"Run-rate, $M/yr (Q3 2027 x 4)",12.04,code/f2_ramp_k.py; = model FY2028 Thesis 2 revenue
+"Net effect Q4 2026-Q3 2027, $K",4469.0,code/f2_ramp_k.py (deck rounds to $4.5M)
+"Added capacity, % of Q3 2026 ASM",1.2,"code/f1_asm.py (134.76M / 11,419M)"
