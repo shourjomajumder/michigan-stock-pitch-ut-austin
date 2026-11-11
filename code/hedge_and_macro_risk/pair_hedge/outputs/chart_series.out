@@ -1,0 +1,9 @@
+hedge ratio 1.1630
+ratio 2.344  +2sd 2.06  -2sd 0.86  mean 1.4553  sd 0.3002  z 2.96
+Frontier one-week move to 2026-11-02: +51%
+rolling 60d corr with jet fuel, mean: {'frontier': -0.44, 'jetblue': -0.42, 'pair': -0.03}
+market (S&P 500) driven vol, mean: alone 32%  pair 9%
+rolling 60d corr with spy, mean: {'frontier': 0.43, 'jetblue': 0.45, 'pair': -0.02}
+rolling 60d corr with jets, mean: {'frontier': 0.78, 'jetblue': 0.8, 'pair': -0.01}
+September 2026: actual 4.39  expected 3.85  gap +0.54 $/gal
+jet fuel 27 Feb 2026 2.43 -> peak 4.71 on 2026-09-15; Sept-2026 high 4.71

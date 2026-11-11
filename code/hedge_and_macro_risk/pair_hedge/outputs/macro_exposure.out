@@ -1,0 +1,13 @@
+wage +5%: Frontier -2.64%  JetBlue -11.62%  pair +10.8%  (SWB {'ULCC': 1016, 'JBLU': 3454})
+credit (HYG -5%): +5.3% (assumed vol) to +7.7% (measured vol), midpoint +6.5%
+rates (+100bp floating, refi +100/+200bp): +2.7% to +3.7%  -> slide +3.5%
+                               episode   long   jblu   pair
+        Mar 2020, Spirit as ULCC proxy -0.547 -0.433 -0.043
+     2020 high to low, Spirit as proxy -0.820 -0.682 -0.027
+2025 tariff scare, Jan high to Apr low -0.728 -0.577 -0.057
+demand shock: range -2.7% to -5.7%, mean -4.3%  -> slide -4.5%
+               risk    low   high  slide
+     Wage inflation  0.108  0.108  0.108
+      Credit stress  0.053  0.077  0.065
+     Interest rates  0.027  0.037  0.035
+Sudden demand shock -0.027 -0.057 -0.045
