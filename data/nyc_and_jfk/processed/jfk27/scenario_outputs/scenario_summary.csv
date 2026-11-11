@@ -1,0 +1,12 @@
+case,status,t1_ps,t2_ps,our_price,base_price,base_return,bull_price,bear_price,weighted_target,weighted_return,wacc_implied
+L27Q2_base,archived (superseded: 100% launch incl. capacity),-0.3204,-0.4525,3.1686,3.1686,-0.1958,3.9415,2.7822,3.2652,-0.1713,0.1295
+L27Q2_high,archived (superseded: 100% launch incl. capacity),-0.3204,-0.5711,3.05,3.05,-0.2259,3.9415,2.6042,3.1614,-0.1976,0.1295
+L27Q2_low,archived (superseded: 100% launch incl. capacity),-0.3204,-0.3002,3.3209,3.3209,-0.1571,3.9415,3.0106,3.3985,-0.1374,0.1295
+L27Q3_base,kept,-0.3204,-0.4386,3.1825,3.1825,-0.1923,3.9415,2.803,3.2774,-0.1682,0.1295
+L27Q3_high,archived (superseded: 100% launch incl. capacity),-0.3204,-0.5536,3.0675,3.0675,-0.2214,3.9415,2.6306,3.1768,-0.1937,0.1295
+L27Q3_low,archived (superseded: 100% launch incl. capacity),-0.3204,-0.291,3.3301,3.3301,-0.1548,3.9415,3.0244,3.4065,-0.1354,0.1295
+L28Q1_base,archived (superseded: 100% launch incl. capacity),-0.3204,-0.4117,3.2094,3.2094,-0.1854,3.9415,2.8434,3.3009,-0.1622,0.1295
+L28Q1_high,archived (superseded: 100% launch incl. capacity),-0.3204,-0.5196,3.1015,3.1015,-0.2128,3.9415,2.6815,3.2065,-0.1862,0.1295
+L28Q1_low,archived (superseded: 100% launch incl. capacity),-0.3204,-0.2732,3.3479,3.3479,-0.1503,3.9415,3.0512,3.4221,-0.1314,0.1295
+none,kept,-0.3204,0.0,3.6211,3.6211,-0.0809,3.9415,3.4609,3.6612,-0.0708,0.1295
+FINAL (models_final): L27Q3_base switching only x 60%,"final, used in deck",-0.3204,-0.0586,3.5626,3.5626,-0.0958,3.9415,3.3731,3.6099,-0.0838,0.1295

@@ -1,0 +1,10 @@
+piece,pax_M,weight,in_base_M,group
+BOS-LAX,0.462535,1.0,0.462535,same airport
+BOS-SFO,0.464206,1.0,0.464206,same airport
+FLL-SFO,0.208271,1.0,0.208271,same airport
+FLL-IAH,0.01522,1.0,0.01522,same airport
+EWR-FLL,0.276921,1.0,0.276921,same airport
+EWR-PBI,0.188843,1.0,0.188843,same airport
+"New York domestic, 18 routes (JFK+LGA vs United EWR)",5.532906,0.1,0.553291,NYC domestic
+"New York international, 5 routes",1.474067,0.1,0.147407,NYC international
+Total switching base (sum of 3-dp pieces; model input),,,2.316,total

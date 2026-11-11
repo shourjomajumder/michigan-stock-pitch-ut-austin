@@ -1,0 +1,28 @@
+
+### NYC-LAX
+
+| Date | JetBlue JFK | Delta JFK | American JFK | Alaska | United EWR | JFK spread (max-min of B6/DL/AA) | JFK cluster ≤$15 | B6 − UA |
+|---|---|---|---|---|---|---|---|---|
+| 2026-12-09 | 135 | 169 | 164 | 136 (EWR) | 149 | 34 | no | -14 |
+| 2027-01-13 | 140 | 179 | 174 | 229 (EWR) | 149 | 39 | no | -9 |
+| 2027-02-10 | 141 | 439 | 174 | 221 (EWR) | 247 | 298 | no | -106 |
+| 2027-03-10 | 194 | 214 | 214 | 166 (EWR) | 214 | 20 | no | -20 |
+| 2027-04-14 | 194 | 214 | 214 | 186 (EWR) | 214 | 20 | no | -20 |
+| 2027-06-16 | 244 | 214 | 214 | 186 (EWR) | 258 | 30 | no | -14 |
+
+Medians: JetBlue 167.5 (n=6); Delta 214 (n=6); American 194 (n=6); Alaska 186 (n=6); United 214 (n=6)
+Median gap JetBlue minus: Delta -46.5; American -26.5; Alaska -18.5; United -46.5
+
+### NYC-SFO
+
+| Date | JetBlue JFK | Delta JFK | American JFK | Alaska | United EWR | JFK spread (max-min of B6/DL/AA) | JFK cluster ≤$15 | B6 − UA |
+|---|---|---|---|---|---|---|---|---|
+| 2026-12-09 | 136 | 149 | 144 | 131 (JFK) | 149 | 13 | yes | -13 |
+| 2027-01-13 | 144 | 149 | 144 | 131 (JFK) | 149 | 5 | yes | -5 |
+| 2027-02-10 | 144 | 149 | 144 | 143 (JFK) | 149 | 5 | yes | -5 |
+| 2027-03-10 | 189 | 194 | 189 | 176 (JFK) | 189 | 5 | yes | +0 |
+| 2027-04-14 | 189 | 194 | 189 | 189 (JFK) | 189 | 5 | yes | +0 |
+| 2027-06-16 | 214 | 194 | 189 | 189 (JFK) | 221 | 25 | no | -7 |
+
+Medians: JetBlue 166.5 (n=6); Delta 171.5 (n=6); American 166.5 (n=6); Alaska 159.5 (n=6); United 169 (n=6)
+Median gap JetBlue minus: Delta -5; American +0; Alaska +7; United -2.5

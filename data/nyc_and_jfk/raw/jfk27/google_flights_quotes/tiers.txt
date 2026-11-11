@@ -1,0 +1,4 @@
+SFO|2027-06-16|JetBlue@JFK 8:15PM: Main Base=214 Main=269
+SFO|2027-06-16|United@EWR 7:00AM: Basic Economy=221 Economy=286 Economy Fully Refundable=336 Economy Plus=544
+LAX|2027-01-13|JetBlue@JFK 11:00AM: headline=140 (wego OTA); airline direct Main Base=144 Main=199 Main Flex=276 Even More Base=338
+LAX|2027-01-13|United@EWR 7:00AM: Basic Economy=149 Economy=214 Economy Fully Refundable=259

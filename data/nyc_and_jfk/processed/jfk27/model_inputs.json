@@ -1,0 +1,139 @@
+{
+ "b6_pax_by_qtr": {
+  "value": {
+   "LAX": {
+    "1": 209123,
+    "2": 242674,
+    "3": 234185,
+    "4": 235067
+   },
+   "SFO": {
+    "1": 116866,
+    "2": 140845,
+    "3": 142090,
+    "4": 127760
+   }
+  },
+  "source": "BTS T-100 Segment (transtats.bts.gov, pulled Nov 8 2026) via raw/jfk/t100_panel_jfk_transcon_hub_routes_2019_2026m7.csv; JetBlue JFK-LAX/SFO by calendar quarter 2025Q3-2026Q2 (sums 921,049 / 527,561 = brief)"
+ },
+ "route_total_pax_L4Q": {
+  "value": {
+   "LAX": 3015438,
+   "SFO": 1906792
+  },
+  "source": "BTS T-100 L4Q 2025Q3-2026Q2 all carriers, <workspace>/jfk/out/csv1_jetblue_top15_jfk_routes.csv (JetBlue share 30.5% LAX, 27.7% SFO)"
+ },
+ "switch_rate_per_yr": {
+  "value": 0.031,
+  "source": "Brief: Blue Sky 25-route correlation, 3.1% of passengers/yr"
+ },
+ "switch_cap": {
+  "value": 0.06,
+  "source": "Brief: eventual 6%"
+ },
+ "ny_weight": {
+  "value": 0.1,
+  "source": "Brief: current 10% New York weight (nyc/SYNTHESIS.md argues 30%: sensitivity)"
+ },
+ "thesis_build_start": {
+  "value": [
+   2026,
+   4
+  ],
+  "source": "Brief: linear build from Q4'26"
+ },
+ "fare_parity_weight": {
+  "value": {
+   "LAX": 0.5,
+   "SFO": 1.0
+  },
+  "source": "Agent 5 (5_fares.md, Google Flights 2026-11-11): JetBlue within +-$15 of United EWR on 3 of 6 dates LAX (median gap -$17), 6 of 6 SFO (median -$5). ASSUMPTION A8-1: weight = share of dates at parity"
+ },
+ "launch_scenarios": {
+  "value": {
+   "L27Q2": [
+    2027,
+    2
+   ],
+   "L27Q3": [
+    2027,
+    3
+   ],
+   "L28Q1": [
+    2028,
+    1
+   ]
+  },
+  "source": "Task spec. JetBlue/United release Jul 29 2025 'as early as 2027'; Nocella UAL Q3'26 call Oct 21 2026; agent 10: P(in service by Q3'27) ~35%"
+ },
+ "first_quarter_capacity_factor": {
+  "value": 0.5,
+  "source": "ASSUMPTION (prior run A10): ~half schedule in launch quarter (United 2021 JFK ramp)"
+ },
+ "capacity_scenarios": {
+  "value": {
+   "low": {
+    "pairs": {
+     "LAX": 2,
+     "SFO": 2
+    },
+    "seats": 172,
+    "lf": 0.825
+   },
+   "base": {
+    "pairs": {
+     "LAX": 4,
+     "SFO": 3
+    },
+    "seats": 172,
+    "lf": 0.825
+   },
+   "high": {
+    "pairs": {
+     "LAX": 4,
+     "SFO": 3
+    },
+    "seats": 230,
+    "lf": 0.825
+   }
+  },
+  "source": "Agent 2 (2_slots.md): 7 daily RT contractual cap (JetBlue/United release Jul 29 2025); low = ~4 RT 2027 ramp (agent 2 R1), held through 2030; base 7 RT x 172 seats/dep (UA 2021-22 JFK T-100); high 7 RT x 230 (UA EWR-LAX/SFO avg seats/dep, T-100 L4Q); LF 82.5% (UA JFK 2021-22 T-100). Route split 4/3 = prior run A4 (~market size); low split 2/2 = ASSUMPTION A8-2"
+ },
+ "draw_factor": {
+  "value": 0.75,
+  "source": "Agent 4 (4_precedents.md): incumbent draw factor point 0.75, range 0.5-1.0 (26 precedents; median rel 1.03 ex incumbent growth; JFK-LAX 2021-22 ~0). Same as prior run A5 base (leakage 25%)"
+ },
+ "a6_pref_pts_crosscheck": {
+  "value": 0.8,
+  "source": "Prior run A6 Delta-Alaska +0.8 share pts (cross-check memo only, NOT added)"
+ },
+ "max_loss_share": {
+  "value": 0.5,
+  "source": "ASSUMPTION (prior run A12): loss capped at 50% of JetBlue route pax (never binds here)"
+ },
+ "fare": {
+  "value": {
+   "LAX": 167.5,
+   "SFO": 166.5
+  },
+  "source": "Agent 5 (5_fares.md): JetBlue lowest nonstop economy fare JFK, median of 6 Wednesdays Dec 2026-Jun 2027, Google Flights 2026-11-11"
+ },
+ "fare_t1a_all_cabin": {
+  "value": {
+   "LAX": 370.04,
+   "SFO": 339.93
+  },
+  "source": "Prior run csv1: DOT Table 1a JetBlue fare 2025Q2-2026Q1 (LAX direct; SFO = route avg x 0.733 proxy A1). Sensitivity only"
+ },
+ "b6_pax_growth_per_yr": {
+  "value": {
+   "LAX": 0.0,
+   "SFO": 0.0
+  },
+  "source": "Agent 7 (7_market.md): no JetBlue 2027 JFK schedule change found (Q3'26 call Oct 27 2026: 'not guiding 2027'); JetBlue JFK-LAX share flat 29-33% 2019-26; Dec 9 2026 schedule B6 11 JFK-LAX / 5 JFK-SFO deps (Google Flights). ASSUMPTION A8-3: flat at L4Q; +3%/yr sensitivity (prior 'low- to mid-single-digits' 2027 system guide)"
+ },
+ "b6_capacity_change": {
+  "value": {},
+  "source": "Agent 2: no sign of JetBlue JFK-LAX/SFO cuts (T-100: Q2'25 vs Q2'26 deps LAX flat, SFO -7%); slots expected to come from short-haul/Latin flying -> no change; agent 7 confirms no announced 2027 JFK-LAX/SFO change"
+ }
+}

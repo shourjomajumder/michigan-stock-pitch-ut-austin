@@ -1,0 +1,13 @@
+input,value
+wacc_implied,0.129491
+g,0.025
+ke,0.234765
+shares,377.3
+tax,0.24
+stub_years,0.142465753424658
+var_cost,0.12
+t1_ps_model,-0.320354
+t2_ps_model,-0.058551
+base_price,3.562562
+weighted_target,3.609926
+source,"Own JetBlue model (rv/appx4/models_final), Assumptions + WACC + DCF tabs; tax, stub and 12% variable cost from Assumptions tab. Price $3.94 is the Yahoo Finance close 11/09/2026."

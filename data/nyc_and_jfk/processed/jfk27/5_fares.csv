@@ -1,0 +1,92 @@
+section,dest,date,airline,airport,route,fare,fare_type,source,searched
+economy_lowest,LAX,2026-12-09,JetBlue,JFK,JFK-LAX,135,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2026-12-09,Alaska,EWR,EWR-LAX,136,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2026-12-09,United,EWR,EWR-LAX,149,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2026-12-09,American,JFK,JFK-LAX,164,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2026-12-09,Delta,JFK,JFK-LAX,169,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2026-12-09,Alaska,JFK,JFK-SFO,131,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2026-12-09,JetBlue,JFK,JFK-SFO,136,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2026-12-09,American,JFK,JFK-SFO,144,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2026-12-09,Delta,JFK,JFK-SFO,149,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2026-12-09,United,EWR,EWR-SFO,149,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-01-13,JetBlue,JFK,JFK-LAX,140,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-01-13,United,EWR,EWR-LAX,149,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-01-13,American,JFK,JFK-LAX,174,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-01-13,Delta,JFK,JFK-LAX,179,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-01-13,Alaska,EWR,EWR-LAX,229,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-01-13,Alaska,JFK,JFK-SFO,131,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-01-13,JetBlue,JFK,JFK-SFO,144,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-01-13,American,JFK,JFK-SFO,144,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-01-13,Delta,JFK,JFK-SFO,149,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-01-13,United,EWR,EWR-SFO,149,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-02-10,JetBlue,JFK,JFK-LAX,141,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-02-10,American,JFK,JFK-LAX,174,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-02-10,Alaska,EWR,EWR-LAX,221,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-02-10,United,EWR,EWR-LAX,247,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-02-10,Delta,JFK,JFK-LAX,439,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-02-10,Alaska,JFK,JFK-SFO,143,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-02-10,JetBlue,JFK,JFK-SFO,144,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-02-10,American,JFK,JFK-SFO,144,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-02-10,Delta,JFK,JFK-SFO,149,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-02-10,United,EWR,EWR-SFO,149,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-03-10,Alaska,EWR,EWR-LAX,166,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-03-10,JetBlue,JFK,JFK-LAX,194,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-03-10,American,JFK,JFK-LAX,214,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-03-10,Delta,JFK,JFK-LAX,214,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-03-10,United,EWR,EWR-LAX,214,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-03-10,Alaska,JFK,JFK-SFO,176,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-03-10,JetBlue,JFK,JFK-SFO,189,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-03-10,American,JFK,JFK-SFO,189,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-03-10,United,EWR,EWR-SFO,189,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-03-10,Delta,JFK,JFK-SFO,194,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-04-14,Alaska,EWR,EWR-LAX,186,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-04-14,JetBlue,JFK,JFK-LAX,194,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-04-14,Delta,EWR,EWR-LAX,199,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-04-14,American,JFK,JFK-LAX,214,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-04-14,Delta,JFK,JFK-LAX,214,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-04-14,United,EWR,EWR-LAX,214,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-04-14,JetBlue,JFK,JFK-SFO,189,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-04-14,Alaska,JFK,JFK-SFO,189,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-04-14,American,JFK,JFK-SFO,189,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-04-14,United,EWR,EWR-SFO,189,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-04-14,Delta,JFK,JFK-SFO,194,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-06-16,Alaska,EWR,EWR-LAX,186,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-06-16,Delta,JFK,JFK-LAX,214,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-06-16,American,JFK,JFK-LAX,214,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-06-16,JetBlue,JFK,JFK-LAX,244,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-06-16,United,EWR,EWR-LAX,258,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,LAX,2027-06-16,Delta,EWR,EWR-LAX,304,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-06-16,American,JFK,JFK-SFO,189,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-06-16,Alaska,JFK,JFK-SFO,189,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-06-16,Delta,JFK,JFK-SFO,194,lowest economy shown; 1 carry-on,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-06-16,JetBlue,JFK,JFK-SFO,214,"lowest shown (Blue/Main Base, 1 carry-on)","Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+economy_lowest,SFO,2027-06-16,United,EWR,EWR-SFO,221,Basic Economy (no carry-on),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+fare_tier,LAX,2027-01-13,JetBlue,JFK,JFK-LAX,144,Main Base (airline direct; $140 headline via OTA),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+fare_tier,LAX,2027-01-13,JetBlue,JFK,JFK-LAX,199,Main,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+fare_tier,LAX,2027-01-13,United,EWR,EWR-LAX,149,Basic Economy,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+fare_tier,LAX,2027-01-13,United,EWR,EWR-LAX,214,Economy,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+fare_tier,SFO,2027-06-16,JetBlue,JFK,JFK-SFO,214,Main Base,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+fare_tier,SFO,2027-06-16,JetBlue,JFK,JFK-SFO,269,Main,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+fare_tier,SFO,2027-06-16,United,EWR,EWR-SFO,221,Basic Economy,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+fare_tier,SFO,2027-06-16,United,EWR,EWR-SFO,286,Economy,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-01-13,Alaska,EWR,EWR-LAX,836,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-01-13,JetBlue,JFK,JFK-LAX,988,Mint,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-01-13,United,EWR,EWR-LAX,1224,United business (Polaris-branded on p.s. routes),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-01-13,Delta,JFK,JFK-LAX,1599,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-01-13,American,JFK,JFK-LAX,1899,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-01-13,Alaska,JFK,JFK-SFO,696,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-01-13,JetBlue,JFK,JFK-SFO,740,Mint,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-01-13,Delta,JFK,JFK-SFO,1199,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-01-13,United,EWR,EWR-SFO,1524,United business (Polaris-branded on p.s. routes),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-01-13,American,JFK,JFK-SFO,1774,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-04-14,Alaska,EWR,EWR-LAX,851,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-04-14,JetBlue,JFK,JFK-LAX,988,Mint,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-04-14,United,EWR,EWR-LAX,1224,United business (Polaris-branded on p.s. routes),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-04-14,Delta,EWR,EWR-LAX,1269,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-04-14,American,JFK,JFK-LAX,1299,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,LAX,2027-04-14,Delta,JFK,JFK-LAX,1599,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-04-14,Alaska,JFK,JFK-SFO,834,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-04-14,JetBlue,JFK,JFK-SFO,1037,Mint,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-04-14,Delta,JFK,JFK-SFO,1499,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-04-14,United,EWR,EWR-SFO,1524,United business (Polaris-branded on p.s. routes),"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
+business,SFO,2027-04-14,American,JFK,JFK-SFO,1774,business/first lowest,"Google Flights (public), NYC all airports, one-way, nonstop, 1 adult",2026-11-11
