@@ -1,0 +1,5 @@
+metric,carrier,raw,basis,slide,memo_UA_mainline_cancel_pct,p_at_least_one_cancel_in_20
+On-time arrivals,United,77.65,mainline (ATCR Table 1D),77.6%,,
+On-time arrivals,JetBlue,72.34,single brand,72.3%,,
+Cancelled flights,United,1.36,network incl. United Express (ATCR Table 6C),1.36%,0.82,0.23956644605627964
+Cancelled flights,JetBlue,1.65,single brand,1.65%,,0.2830526148835022

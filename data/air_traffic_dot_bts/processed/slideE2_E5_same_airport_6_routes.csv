@@ -1,0 +1,7 @@
+route,b6_pax,period_source,ua_pax
+BOS-LAX,462535,same_airport_pairs Aug25-Jul26,224906
+BOS-SFO,464206,same_airport_pairs Aug25-Jul26,579594
+FLL-SFO,208271,same_airport_pairs Aug25-Jul26,147084
+FLL-IAH,15220,same_airport_pairs Aug25-Jul26,463807
+EWR-FLL,276921,same_airport_pairs Aug25-Jul26,769673
+EWR-PBI,188843,nyc overlap L4Q Q3 25-Q2 26,754168

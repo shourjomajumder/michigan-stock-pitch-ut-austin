@@ -1,0 +1,11 @@
+a5_nea: AA-JetBlue Northeast Alliance (NEA), DOT Table 6 2019Q1-2026Q1, 35 BOS/NYC city pairs (2019 largest = AA or B6, UA/DL seen as largest or low-fare carrier at least once); 27 kept (tracked carrier visible >=75% of quarters). Shares vs 2019 same quarter; AA routes also diff-in-diff vs AA control routes WAS-CLT, WAS-DFW, CHI-CLT.
+Dates: codeshare flights 2021-02-25 (q0=2021Q1, AirlineGeeks); reciprocal earning 2021-05-26 (k1, WorldAirlineNews); Mosaic perks on AA 2021-10-13 (k3); ruling 2023-05-19 (k-1 of unwind); codeshare sales and earning ended 2023-07-21 (unwind q0=2023Q3, OMAAT).
+Start, B6-largest routes (n=20): no partner gain. B6 share was 4.6pp below 2019 (median, k4-9); only 3/20 routes were positive. JetBlue capacity cuts and COVID dominate.
+Start, AA-largest routes (n=7, DiD): +5.4pp mean, +4.0 median, k4-9; 5/7 positive. k0-2 readings (+10) are COVID artifacts.
+Cleanest pair, NYC-CLT and NYC-DFW (AA hubs, UA/DL compete), DiD: gain first seen k5 (2022Q2). 50% at k5, 90% at k6; peaked about +9pp at k6-7 (2022Q3-Q4), then decayed to +2.5pp by k9.
+Unwind, same 2 NYC routes: -5.3pp in q0 (2023Q3), so 50% reached at k0 and 90% at k3. Settled at -7.8pp (k4-10) through 2026Q1 with no recovery: the reversal exceeded the build-up and was about 2x faster.
+Unwind, all AA routes DiD (n=7): -2.7pp mean (k4-10); 50% at k4, 90% at k5; 4/7 negative. The Boston AA routes (CLT, PHL, DFW) did not reverse; AA BOS-CLT rose.
+Unwind, B6 routes (n=20): about 0pp mean (-0.1), -2.2pp median; 12/20 negative. There is no clean reversal signal.
+Read-across: loyalty/codeshare-driven share took about 5-6 quarters to build, peaked, and partly decayed. When the benefit was removed, it disappeared within 0-3 quarters. Customers drop a perk faster than they adopt one.
+Caveats: Table 6 shows only the largest and the low-fare carrier, so partner and rival shares are mostly invisible and drops below the top slot are censored. COVID 2020-22 distorts 2019 baselines. NEA moved capacity between the partners on purpose, so capacity and loyalty effects cannot be separated here. AA lost share nationally in 2023-24 (only partly removed by the 3-route control). B6 has no control. n is small.
+Data: data.transportation.gov/resource/yj5y-b2ir.json (fetched in-browser; raw cells in (orig workspace) switch/a5_nea_data/raw.txt, script an.py).
