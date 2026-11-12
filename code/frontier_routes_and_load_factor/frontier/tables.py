@@ -26,7 +26,8 @@ pd.DataFrame(rows, columns=['quarter', 'prior_year_lf_pct', 'traffic_growth_pct'
 
 # Results table (deck slide 20). Consensus LF column is Bloomberg consensus -> not redistributed.
 VAR = 0.12   # variable cost on thesis revenue (model assumption) -> EBIT = 88% of revenue
-res = pd.DataFrame([('Q4 2026E', 82.8, 3.3, 380000, 52), ('Q1 2027E', 81.6, 2.6, 290000, 41)],
+# Revenue = extra RPMs (ASM x LF gap) x consensus yield, on capacity of +5.4% / +6.1% y/y (same seat growth as the build)
+res = pd.DataFrame([('Q4 2026E', 82.8, 3.3, 380000, 51.46), ('Q1 2027E', 81.6, 2.6, 290000, 40.91)],
                    columns=['quarter', 'our_lf_pct', 'extra_pts_vs_consensus', 'extra_pax', 'extra_revenue_usd_m'])
 res['extra_ebit_usd_m'] = (res.extra_revenue_usd_m * (1 - VAR)).round(2)
 res.loc[len(res)] = ['Total', None, None, res.extra_pax.sum(), res.extra_revenue_usd_m.sum(), round(res.extra_ebit_usd_m.sum(), 2)]

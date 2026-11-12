@@ -15,7 +15,7 @@ No Bloomberg exports, screenshots, consensus tables or broker/analyst text are i
 | processed/fare_vs_traffic_scatter.csv | scatter points (lcc_quarters rounded) | our analysis | Thesis 1 "Fare Changes vs. Traffic Growth"; C1 |
 | processed/thesis1_inputs_reported.csv | Q2 2026 traffic +8.96% (shown +9.0%), prior-year LF 78.9/78.4, Q3 2026 ASM 11,419M | Frontier filings | Thesis 1; C2; D1 |
 | processed/thesis1_load_factor_build.csv | 78.9 +8.7 −0.3 −4.5 = 82.8; 78.4 +8.6 −0.4 −5.0 = 81.6 (11% traffic growth) | our analysis (code/e2_build.py logic) | Thesis 1 waterfalls; C2 |
-| processed/thesis1_results.csv | our LF, extra pts, extra pax 380,000/290,000, extra revenue $52M/$41M ($93M), extra EBIT $45.76M/$36.08M ($81.84M; deck $45.8M/$36.1M/$81.8M) | our analysis; EBIT = revenue × (1 − 12% variable cost, model assumption) | Thesis 1 Results table; C2 |
+| processed/thesis1_results.csv | our LF, extra pts, extra pax 380,000/290,000, extra revenue $51.5M/$40.9M ($92.4M; deck $51M/$41M/$92M), extra EBIT $45.28M/$36.00M ($81.28M; deck $45.3M/$36.0M/$81.3M) | our analysis; EBIT = revenue × (1 − 12% variable cost, model assumption) | Thesis 1 Results table; C2 |
 | processed/booking_factor_survey.csv | #1 ticket-buying factor: Price 57, Airline 14, Stops 9, Other 20 (%) | Reuters/Ipsos poll, Apr 30–May 2 2019, n=2,008: https://www.ipsos.com/en-us/news-polls/reuters-ipsos-data-airline-poll-2019-05-16 | Thesis 1 pie |
 | processed/thesis2_new_routes.csv | six routes: launch dates, weekly flights, miles, 230 seats, weekly seats, seat-miles | Frontier route announcements, e.g. DEN–FLL: https://news.flyfrontier.com/frontier-announces-four-new-routes-launching-late-2026/ | Company Overview; Thesis 2; D1 |
 | processed/thesis2_ramp_assumption.csv | RASM ramp 85/105/115/120% | our assumption | Thesis 2; D2 |
@@ -31,7 +31,7 @@ No Bloomberg exports, screenshots, consensus tables or broker/analyst text are i
 | code/tables.py | writes the small processed tables above | our code | — |
 
 ## Notes and caveats
-- Fare drag and added-capacity inputs in e2_build.py (fare rise 2.2%/2.9%, seat growth 5.4%/6.1%) are team inputs with no traced source; the model's own ASM growth is 6.3%/7.1%. Elasticity 0.16 is from e1.py.
+- Fare drag and added-capacity inputs in e2_build.py (fare rise 2.2%/2.9%, seat growth 5.4%/6.1%) are team inputs; Q4's 5.4% sits inside management's guidance of capacity up 5-6% vs Q4 2025 (Q3 2026 earnings call), Q1's 6.1% has no traced source. The valuation model uses the same seat growth for its Q4 2026E / Q1 2027E ASMs (Bloomberg consensus ASMs imply 6.3%/7.1%). Elasticity 0.16 is from e1.py.
 - Consensus LF (79.5%/79.0%), consensus ASM/RPM/pax/yield used by e2_rev.py are Bloomberg consensus: not included (column dropped from thesis1_results.csv; e2_rev.expected.out still prints the two consensus LFs that appear on the slide).
 - The 10-Q/10-K panels for Allegiant, Sun Country and Frontier were originally transcribed from photos of Bloomberg terminal screens showing company-reported actuals. The photos are excluded. Frontier Q4 2025 (ASM 9,803, RPM 7,736, LF 78.9%, pax 8,537) was checked against the earnings release. Check the rest against SEC EDGAR before publishing.
 - Survey: Ipsos page confirms 57% price, n=2,008; the 14/9/20 split was not found on that page (it may be in the topline PDF).
