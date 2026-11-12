@@ -3,6 +3,7 @@ import json, os
 # Provide them in LF_CONSENSUS_JSON: {"e2_rev": {"asm": [..,..], "rpm": [..], "pax": [..], "yld": [..], "cons": [..]}}
 C = json.load(open(os.environ.get('LF_CONSENSUS_JSON', 'consensus_private.json')))['e2_rev']
 asm, rpm, pax, yld, cons = C['asm'], C['rpm'], C['pax'], C['yld'], C['cons']
+# ASM = same quarter last year x (1 + 5.4% / 6.1%), RPM = ASM x consensus load factor (same seat growth as e2_build.py)
 ours = [82.800, 81.640]   # our load-factor forecast (lfcalc/model.py)
 tot_pax = tot_rev = 0
 
