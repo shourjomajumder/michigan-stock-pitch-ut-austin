@@ -3,7 +3,7 @@ import json, os
 # Provide them in LF_CONSENSUS_JSON: {"e2_rev": {"asm": [..,..], "rpm": [..], "pax": [..], "yld": [..], "cons": [..]}}
 C = json.load(open(os.environ.get('LF_CONSENSUS_JSON', 'consensus_private.json')))['e2_rev']
 asm, rpm, pax, yld, cons = C['asm'], C['rpm'], C['pax'], C['yld'], C['cons']
-ours = [81.294, 80.178]   # our load-factor forecast (lfcalc/model.py)
+ours = [82.800, 81.640]   # our load-factor forecast (lfcalc/model.py)
 tot_pax = tot_rev = 0
 
 for q, a, r, p, y, c, o in zip(['Q4 2026E', 'Q1 2027E'], asm, rpm, pax, yld, cons, ours):

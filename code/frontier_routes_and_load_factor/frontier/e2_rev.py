@@ -4,7 +4,7 @@ import json, os
 # To rerun, create ../private/consensus_inputs.json with keys asm, rpm, pax, yld, cons (2-item lists, Q4 2026E then Q1 2027E).
 c = json.load(open(os.path.join(os.path.dirname(__file__), '..', 'private', 'consensus_inputs.json')))
 asm, rpm, pax, yld, cons = c['asm'], c['rpm'], c['pax'], c['yld'], c['cons']
-ours = [81.294, 80.178]   # our load factor, unrounded (load factor build)
+ours = [82.800, 81.640]   # our load factor, unrounded (load factor build)
 tot_pax = tot_rev = 0
 
 for q, a, r, p, y, c, o in zip(['Q4 2026E', 'Q1 2027E'], asm, rpm, pax, yld, cons, ours):

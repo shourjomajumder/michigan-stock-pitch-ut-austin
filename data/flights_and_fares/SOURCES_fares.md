@@ -1,7 +1,7 @@
 # fares/ : base-fare parity data (JetBlue vs United)
 
 Supports JetBlue Thesis 1 (switching passenger base 2.316M): appendix slide E2 "Shared-Route Base-Fare Parity"
-(same-airport list avg -$1.83; NYC 18-route list avg -$1.94), slide JFK1 (JFK-SFO / JFK-LAX checks), the international
+(same-airport list avg -$4.83 with FLL-IAH at -$27 from the recheck, see SOURCES_fares_recheck.md; NYC 18-route list avg -$1.94), slide JFK1 (JFK-SFO / JFK-LAX checks), the international
 pair check, and the DOT-vs-live calibration. No Bloomberg or broker data in this folder.
 
 Rebuild: `python3 code/calibration.py && python3 code/nyc_parity.py && python3 code/jfk27_5_fares_build.py && python3 code/build_nyc_parity.py write && python3 code/build_fare_tables.py`

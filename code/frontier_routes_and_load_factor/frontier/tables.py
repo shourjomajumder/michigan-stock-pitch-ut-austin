@@ -17,16 +17,16 @@ pd.DataFrame([
 # Load factor build (deck slide 21 / appendix C2); fare and seat inputs as in e2_build.py
 rows = []
 for q, lf, fare, seats in [('Q4 2026E', 78.9, 2.2, 5.4), ('Q1 2027E', 78.4, 2.9, 6.1)]:
-    up = lf * 0.090; drag = (lf + up) * 0.16 * fare / 100; full = lf + up - drag
+    up = lf * 0.110; drag = (lf + up) * 0.16 * fare / 100; full = lf + up - drag
     cap = full - full / (1 + seats / 100)
-    rows.append((q, lf, 9.0, round(up, 1), fare, 0.16, round(drag, 1), seats, round(cap, 1), round(full - cap, 1)))
+    rows.append((q, lf, 11.0, round(up, 1), fare, 0.16, round(drag, 1), seats, round(cap, 1), round(full - cap, 1)))
 pd.DataFrame(rows, columns=['quarter', 'prior_year_lf_pct', 'traffic_growth_pct', 'traffic_pts', 'fare_rise_pct',
                             'elasticity', 'fare_drag_pts', 'seat_growth_pct', 'added_capacity_pts', 'our_lf_pct']
              ).to_csv(P + 'thesis1_load_factor_build.csv', index=False)
 
 # Results table (deck slide 20). Consensus LF column is Bloomberg consensus -> not redistributed.
 VAR = 0.12   # variable cost on thesis revenue (model assumption) -> EBIT = 88% of revenue
-res = pd.DataFrame([('Q4 2026E', 81.3, 1.8, 200000, 28), ('Q1 2027E', 80.2, 1.2, 130000, 18)],
+res = pd.DataFrame([('Q4 2026E', 82.8, 3.3, 380000, 52), ('Q1 2027E', 81.6, 2.6, 290000, 41)],
                    columns=['quarter', 'our_lf_pct', 'extra_pts_vs_consensus', 'extra_pax', 'extra_revenue_usd_m'])
 res['extra_ebit_usd_m'] = (res.extra_revenue_usd_m * (1 - VAR)).round(2)
 res.loc[len(res)] = ['Total', None, None, res.extra_pax.sum(), res.extra_revenue_usd_m.sum(), round(res.extra_ebit_usd_m.sum(), 2)]

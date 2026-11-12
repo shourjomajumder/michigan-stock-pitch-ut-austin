@@ -14,8 +14,8 @@ No Bloomberg exports, screenshots, consensus tables or broker/analyst text are i
 | processed/lcc_quarters.csv | 32 low-cost-airline quarters: YoY % fare per mile (yield), traffic (RPM), seats (ASM) | our analysis; rebuilt exactly by code/build_lcc_quarters.py | Frontier Thesis 1; C1 |
 | processed/fare_vs_traffic_scatter.csv | scatter points (lcc_quarters rounded) | our analysis | Thesis 1 "Fare Changes vs. Traffic Growth"; C1 |
 | processed/thesis1_inputs_reported.csv | Q2 2026 traffic +8.96% (shown +9.0%), prior-year LF 78.9/78.4, Q3 2026 ASM 11,419M | Frontier filings | Thesis 1; C2; D1 |
-| processed/thesis1_load_factor_build.csv | 78.9 +7.1 −0.3 −4.4 = 81.3; 78.4 +7.1 −0.4 −4.9 = 80.2 | our analysis (code/e2_build.py logic) | Thesis 1 waterfalls; C2 |
-| processed/thesis1_results.csv | our LF, extra pts, extra pax 200,000/130,000, extra revenue $28M/$18M ($46M), extra EBIT $24.64M/$15.84M ($40.48M; deck $24.6M/$15.8M/$40.5M) | our analysis; EBIT = revenue × (1 − 12% variable cost, model assumption) | Thesis 1 Results table; C2 |
+| processed/thesis1_load_factor_build.csv | 78.9 +8.7 −0.3 −4.5 = 82.8; 78.4 +8.6 −0.4 −5.0 = 81.6 (11% traffic growth) | our analysis (code/e2_build.py logic) | Thesis 1 waterfalls; C2 |
+| processed/thesis1_results.csv | our LF, extra pts, extra pax 380,000/290,000, extra revenue $52M/$41M ($93M), extra EBIT $45.76M/$36.08M ($81.84M; deck $45.8M/$36.1M/$81.8M) | our analysis; EBIT = revenue × (1 − 12% variable cost, model assumption) | Thesis 1 Results table; C2 |
 | processed/booking_factor_survey.csv | #1 ticket-buying factor: Price 57, Airline 14, Stops 9, Other 20 (%) | Reuters/Ipsos poll, Apr 30–May 2 2019, n=2,008: https://www.ipsos.com/en-us/news-polls/reuters-ipsos-data-airline-poll-2019-05-16 | Thesis 1 pie |
 | processed/thesis2_new_routes.csv | six routes: launch dates, weekly flights, miles, 230 seats, weekly seats, seat-miles | Frontier route announcements, e.g. DEN–FLL: https://news.flyfrontier.com/frontier-announces-four-new-routes-launching-late-2026/ | Company Overview; Thesis 2; D1 |
 | processed/thesis2_ramp_assumption.csv | RASM ramp 85/105/115/120% | our assumption | Thesis 2; D2 |
